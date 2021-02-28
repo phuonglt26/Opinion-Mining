@@ -1,0 +1,81 @@
+kbk,không biết không
+seal,niêm phong
+k,không
+hk,không
+đt,điện thoại
+hsd,hạn sử dụng
+date,hạn sử dụng
+p,phút
+nv,nhân viên
+sp,sản phẩm
+san pham,sản phẩm
+spham,sản phẩm
+sd,sử dụng
+mn,mọi người
+nx,nhận xét
+ko,không
+sz,kích thước
+size,kích thước
+ok,oke
+okie,oke
+tp,thành phố
+tphcm,thành phố hồ chí minh
+t,tuổi
++,cộng
+-,trừ
+dc,được
+đc,được
+dk,được
+wa,quá
+thik,thích
+=>,nên
+z,vậy
+e,em
+j,gì
+cx,cũng
+cmt,bình luận
+nsx,ngày sản xuất
+hsd,hạn sử dụng
+trc,trước
+vs,với
+lun,luôn
+mk,mình
+km,khuyến mại
+plz,xin
+pl,xin
+pls,xin
+b,bạn
+fom,form
+dỏm,tệ
+siu,siêu
+lg,lượng
+tt,thanh toán
+hsau,hôm sau
+hàg,hàng
+nhg,nhưng
+lm,làm
+h,giờ
+nx,nữa
+hd,hướng dẫn
+cbi,chuẩn bị
+lq,liên quan
+nchung,nói chung
+cùg,cùng
+nvien,nhân viên
+qc,quảng cáo
+xài,sử dụng
+sài,sử dụng
+bthg,bình thường
+bth,bình thường
+dong goi,đóng gói
+binh thuong,bình thường
+tuyet voi,tuyệt vời
+san pham,sản phẩm
+giao hang,giao hàng
+chat luong,chất lượng
+phu hop,phù hợp
+hai long,hài lòng
+chinh hang,chính hãng
+chac chan,chắc chắn
+nhiet tinh,nhiệt tình
+chu dao,chu đáo
