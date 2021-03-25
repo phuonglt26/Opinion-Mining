@@ -1,11 +1,11 @@
 import numpy as np
-from tensorflow.python.keras import Sequential
+from sklearn.linear_model import LogisticRegression
 
 from models import PolarityOutput
 from modules.models import Model
 
 
-class PolarityCNNModel(Model):
+class PolarityLRModel(Model):
     def __init__(self):
         self.NUM_OF_ASPECTS = 6
         self.vocab = []
@@ -17,8 +17,7 @@ class PolarityCNNModel(Model):
                     l = l.split(',')
                     _vocab.append(l)
             self.vocab.append(_vocab)
-        self.models = [Sequential() for _ in range(self.NUM_OF_ASPECTS)]
-
+        self.models = [LogisticRegression() for _ in range(self.NUM_OF_ASPECTS)]
 
     def _represent(self, inputs, aspectId):
         """

@@ -1,5 +1,4 @@
 
-
 class Model:
     def train(self, inputs, outputs):
         """
@@ -31,6 +30,6 @@ class Model:
 
         :param inputs:
         :return:
-        :rtype: list of models.Output
+        :rtype: list of models.output
         """
         raise NotImplementedError

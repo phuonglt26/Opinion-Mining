@@ -1,41 +1,26 @@
+def cal_sentiment_prf(tp, fp, fn, num_of_aspect, verbal=False):
+    p = [tp[i] / (tp[i] + fp[i]) for i in range(num_of_aspect)]
+    r = [tp[i] / (tp[i] + fn[i]) for i in range(num_of_aspect)]
+    f1 = [2 * p[i] * r[i] / (p[i] + r[i]) for i in range(num_of_aspect)]
 
-def cal_aspect_prf(goldens, predicts, verbal=False):
-    """
+    micro_p = sum(tp) / (sum(tp) + sum(fp))
+    micro_r = sum(tp) / (sum(tp) + sum(fn))
+    micro_f1 = 2 * micro_p * micro_r / (micro_p + micro_r)
 
-    :param verbal:
-    :param num_of_aspect:
-    :param list of models.AspectOutput goldens:
-    :param list of models.AspectOutput predicts:
-    :return:
-    """
-    tp = 0
-    fp = 0
-    fn = 0
-
-    for g, p in zip(goldens, predicts):
-
-        if g.scores == p.scores == 1:
-            tp += 1
-        elif g.scores == 1:
-            fn += 1
-        elif p.scores == 1:
-            fp += 1
-
-    p = tp/(tp+fp)
-    r = tp/(tp+fn)
-    f1 = 2*p*r/(p+r)
-
-    # micro_p = sum(tp)/(sum(tp)+sum(fp))
-    # micro_r = sum(tp)/(sum(tp)+sum(fn))
-    # micro_f1 = 2*micro_p*micro_r/(micro_p+micro_r)
-    #
-    # macro_p = sum(p)/5
-    # macro_r = sum(r)/5
-    # macro_f1 = sum(f1)/5
+    macro_p = sum(p) / num_of_aspect
+    macro_r = sum(r) / num_of_aspect
+    macro_f1 = sum(f1) / num_of_aspect
 
     if verbal:
         print('p:', p)
         print('r:', r)
         print('f1:', f1)
+        print('micro:', (micro_p, micro_r, micro_f1))
+        print('macro:', (macro_p, macro_r, macro_f1))
+    title = '\tgiá\t\t\t\tdịch_vụ\t\t\t\tan_toàn\t\t\t\tchất_lượng\t\t\tship\t\tchính_hãng\n'
+    output = f"'p': {p}\n'r': {r}\n'f1': {f1}\n'micro': ({micro_p}, {micro_r}, {micro_f1})\n'macro': ({macro_p}, {macro_r}, " \
+             f"{macro_f1})".format(p, r, f1, micro_p, micro_r, micro_f1, macro_p, macro_r, macro_f1)
+    outputs = title + output
+    return outputs
 
-    return p, r, f1,
+# return p, r, f1, (micro_p, micro_r, micro_f1), (macro_p, macro_r, macro_f1)

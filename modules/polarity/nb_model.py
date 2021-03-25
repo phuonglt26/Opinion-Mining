@@ -1,21 +1,25 @@
-from sklearn.naive_bayes import MultinomialNB
 import numpy as np
+from sklearn.naive_bayes import MultinomialNB
 
 from models import PolarityOutput
 from modules.models import Model
 
 
-class HotelPolarityNBModel(Model):
+class PolarityNBModel(Model):
     def __init__(self):
-        self.NUM_OF_LABLES = 5
+        self.NUM_OF_ASPECTS = 6
         self.vocab = []
-        with open('data/vocab/hotel_vocab.txt', encoding="utf-8") as f:
-            for l in f:
-                self.vocab.append(l.strip())
+        labelVocab = ["giá", "dịch_vụ", "an_toàn", "chất_lượng", "ship", "chính_hãng"]
+        for label in labelVocab:
+            _vocab = []
+            with open('data/vocab/label_{}_mebe_tiki.txt'.format(label), encoding="utf-8") as f:
+                for l in f:
+                    l = l.split(',')
+                    _vocab.append(l)
+            self.vocab.append(_vocab)
+        self.models = [MultinomialNB() for _ in range(self.NUM_OF_ASPECTS)]
 
-        self.models = MultinomialNB()
-
-    def _represent(self, inputs):
+    def _represent(self, inputs, aspectId):
         """
 
         :param list of models.Input inputs:
@@ -23,25 +27,23 @@ class HotelPolarityNBModel(Model):
         """
         features = []
         for ip in inputs:
-            _features = [1 if v in ip.text else 0 for v in self.vocab]
+            _features = [v[1] if v[0] in ip.text else 0 for v in
+                         self.vocab[aspectId]]
             features.append(_features)
 
-        return np.array(features)
+        return np.array(features).astype(np.float)
 
 
-# test each aspect
-    def train(self, inputs, outputs):
+    def train(self, inputs, outputs, aspectId):
         """
 
         :param list of models.Input inputs:
         :param list of models.AspectOutput outputs:
         :return:
         """
-        X = self._represent(inputs)
+        X = self._represent(inputs, aspectId)
         ys = [output.scores for output in outputs]
-        self.models.fit(X, ys)
-# end test
-
+        self.models[aspectId].fit(X, ys)
 
     def save(self, path):
         pass
@@ -49,42 +51,33 @@ class HotelPolarityNBModel(Model):
     def load(self, path):
         pass
 
-    def predict(self, inputs):
+    def predict(self, inputs, aspectId):
         """
-
         :param inputs:
         :return:
         :rtype: list of models.AspectOutput
         """
-        X = self._represent(inputs)
+        X = self._represent(inputs, aspectId)
         outputs = []
-        predicts = self.models.predict(X)
-        # labels = 1
-        # aspects = 'aspect1'
-        # scores = list(predicts)
-        # print(scores)
-        # outputs.append(PolarityOutput(labels,aspects, scores))
-        for ps in predicts:
-            labels = 1
-            aspects = 'aspect5'
-            scores = ps
-            outputs.append(PolarityOutput(labels, aspects, scores))
+        predicts = self.models[aspectId].predict(X)
+        for output in predicts:
+            label = 'aspect{}'.format(aspectId) + (' -' if output == -1 else ' +')
+            aspect = 'aspect{}'.format(aspectId)
+            outputs.append(PolarityOutput(label, aspect, output))
         return outputs
 
-    # def predict(self, inputs):
-    #     """
-    #
-    #     :param inputs:
-    #     :return:
-    #     :rtype: list of models.AspectOutput
-    #     """
-    #     X = self._represent(inputs)
-    #
-    #     outputs = []
-    #     predicts = [self.models[i].predict(X) for i in range(self.NUM_OF_ASPECTS)]
-    #     for ps in zip(*predicts):
-    #         labels = list(range(self.NUM_OF_ASPECTS))
-    #         aspects = list(ps)
-    #         scores = list(ps)
-    #         outputs.append(PolarityOutput(labels,aspects, scores))
-    #     return outputs
+    def evaluate(self, y_test, y_predicts):
+        tp = 0
+        fp = 0
+        fn = 0
+        for g, p in zip(y_test, y_predicts):
+            if g.scores == p.scores == 1:
+                tp += 1
+            elif g.scores == 1:
+                fn += 1
+            elif p.scores == 1:
+                fp += 1
+        p = tp / (tp + fp)
+        r = tp / (tp + fn)
+        f1 = 2 * p * r / (p + r)
+        return tp, fp, fn, p, r, f1
