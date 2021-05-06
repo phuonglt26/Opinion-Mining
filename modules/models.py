@@ -1,5 +1,4 @@
 
-
 class Model:
     def train(self, inputs, outputs):
         """
@@ -31,6 +30,15 @@ class Model:
 
         :param inputs:
         :return:
-        :rtype: list of models.Output
+        :rtype: list of models.evaluate
         """
         raise NotImplementedError
+
+    def evaluate_pos(self, y_test, y_predicts):
+        raise NotImplementedError
+
+    def evaluate_neg(self, y_test, y_predicts):
+        raise NotImplementedError
+
+
+

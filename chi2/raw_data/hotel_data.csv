@@ -1,6 +1,6 @@
-text,aspect1,aspect2,aspect3,aspect4,aspect5
+﻿text,aspect0,aspect1,aspect2,aspect3,aspect4
 ấn_tượng biệt_thự khánh lâm hoàn_toàn mong_đợi chủ_nhà niềm_nở thân_thiện tạo ấn_tượng tốt chỗ đậu xe phòng thoáng_mát thoải_mái an_ninh,1,1,0,0,0
-chủ_nhà nhiệt_tình đón khách phòng bình_thường phụ_thu,1,1,0,0,0
+chủ_nhà nhiệt_tình đón khách phòng bình_thường phụ_thu,1,-1,0,0,0
 thái_độ phục_vụ nhân_viên chủ_nhà nồng_nhiệt,1,0,0,0,0
 cảm_thấy xúc_động check out trời mưa nhân_viên nhiệt_tình cầm ô đón taxi cho_mình,1,0,0,0,0
 phòng tốt lắm,0,1,0,0,0
@@ -9,7 +9,7 @@ biệt_thự khánh lâm xinh_đẹp phòng_ốc sạch_sẽ thuận_tiện ch�
 biệt_thự khánh lâm không_khí thoải_mái nhân_viên nhiệt_tình giá_cả hợp túi_tiền đặc_biệt không_tính phụ_thu,1,1,0,1,0
 nói_chung ổn phòng tạm_được,0,1,0,0,0
 vị_trí biệt_thự khánh lâm_hơi trung_tâm phòng_ốc sạch_sẽ quản_lý thân_thiện,1,1,0,1,0
-có_ăn biệt_thự khánh lâm ko_biết stick 5 đẹp phòng rộng_rãi đồ_đạc hỏng_hóc nhỏ_nhặt khách_sạn khác_thường bỏ_qua,0,1,0,1,1
+có_ăn biệt_thự khánh lâm ko_biết stick 5 đẹp phòng rộng_rãi đồ_đạc hỏng_hóc nhỏ_nhặt khách_sạn khác_thường bỏ_qua,0,1,0,1,-1
 nằm rìa chợ đường phan_đình_phùng nguyễn_công_trứ,0,0,0,1,0
 không_gian yên_tĩnh đẹp xích_đu ý_kiến xích_đu gái,0,1,0,0,0
 nhân_viên nhiệt_tình trách_nhiệm,1,0,0,0,0
@@ -30,27 +30,27 @@ khách_sạn nằm hơi_gần chợ nằm tuyến đường phan_đình_phùng q
 khách_sạn khánh_lâm nhiệt_tình chu_đáo khách tận_tình hướng_dẫn địa_điểm ăn_uống vui_chơi gia_đình có_được sự_lựa_chọn tốt thật_là tuyệt_vời,1,1,0,0,0
 "khach san co nhân_viên phục_vụ tận_tình rat_thich, phòng_đẹp",1,1,0,0,0
 chất_lượng phòng dịch_vụ agribank hoi an beach resort tốt lắm xứng_đáng đẳng_cấp 4,1,1,0,0,0
-agribank hoi an beach resort chứng_kiến 8 khách phàn_nàn lễ_tân,1,0,0,0,0
-"nhân_viên ăn_mặc luộm_thuộm, vị_trí không_đẹp, thiết_bị cũkĩ",1,0,0,1,1
+agribank hoi an beach resort chứng_kiến 8 khách phàn_nàn lễ_tân,-1,0,0,0,0
+"nhân_viên ăn_mặc luộm_thuộm, vị_trí không_đẹp, thiết_bị cũkĩ",-1,0,0,-1,-1
 "nhà_hàng ăn ngon, phòng_đẹp",0,1,1,0,0
-"dịch_vụ chudu24 tốt hài_lòng agribank hoi an beach resort vị_trí đẹp không_gian rộng_rãi thoáng_mát tắm_biển tắm hồ bơi thích, thiết_bị hỏng nhiều",1,0,0,1,1
+"dịch_vụ chudu24 tốt hài_lòng agribank hoi an beach resort vị_trí đẹp không_gian rộng_rãi thoáng_mát tắm_biển tắm hồ bơi thích, thiết_bị hỏng nhiều",1,0,0,1,-1
 "đồ_ăn nhiều lựa_chọn ăn_ngon, giá_rẻ",0,0,1,1,0
 "vị_trí đẹp khuôn_viên resort sạch_sẽ thoáng_mát, phòng đẹp, dịch_vụ tốt",1,1,0,1,0
 "bể_bơi tốt bé thích, ăn ngon",0,0,1,0,1
-"nhân_viên không nhiệt_tình đặc_biệt lễ_tân buồng, thiết_bị cũ, đồ_ăn tệ",1,0,1,0,1
-"trang_thiết_bị phòng hơi cũ chủ_nhật dọn phòng sạch_sẽ alo dọn, dịch_vụ tốt",1,1,0,0,1
+"nhân_viên không nhiệt_tình đặc_biệt lễ_tân buồng, thiết_bị cũ, đồ_ăn tệ",-1,0,1,0,-1
+"trang_thiết_bị phòng hơi cũ chủ_nhật dọn phòng sạch_sẽ alo dọn, dịch_vụ tốt",1,1,0,0,-1
 "agribank hoi an beach resort đẹp phòng ocean view bờ_biển ban_công nhìn biển bể_bơi, đồ_ăn ngon",0,1,1,1,0
 "nhu_cầu resort bãi_biển, phòng đẹp riêng hội an giá_cả vừa_phải agribank hoi an beach resort hợp_lý",0,1,0,1,0
 dãy phòng xây 2 trở_lại hơi không view xung_quanh dãy cây_cối xanh mát,0,1,0,0,0
 "nhân_viên nhiệt_tình, đồ_ăn ngon, giá phù_hợp",1,0,1,1,0
-đồ_ăn bình_thường không_có đặc_sắc,0,0,1,0,0
+đồ_ăn bình_thường không_có đặc_sắc,0,0,-1,0,0
 Khách_sạn có_nhiều quán_ăn_ngon 1km đi_bộ taxi rẻ,0,0,1,1,0
-"agribank hoi an beach resort vị_trí đẹp nhân_viên lễ_tân phục_vụ tốt khách điện_thoại hỏi nước_dùng phòng_đẹp yêu_cầu khách gọi_điện 333 nhân_viên xử_lý khách ở_lại phục_vụ đồ_ăn kém phòng bỏ đồ hết_hạn sử_dụng không xứng_tầm resort 4 quá_tệ, giá_cả",1,1,1,1,1
+"agribank hoi an beach resort vị_trí đẹp nhân_viên lễ_tân phục_vụ tốt khách điện_thoại hỏi nước_dùng phòng_đẹp yêu_cầu khách gọi_điện 333 nhân_viên xử_lý khách ở_lại phục_vụ đồ_ăn kém phòng bỏ đồ hết_hạn sử_dụng không xứng_tầm resort 4 quá_tệ, giá_cả",1,1,-1,1,-1
 dịch_vụ chudu24 thuận_tiện tốt,1,0,0,0,0
-phong_cảnh agribank hoi an beach resort đẹp bãi_biển chú_trọng sơ_sài phòng agribank thiết_bị hơi cũ xứng resort dọn phòng thật bóng_bẩy,0,1,0,1,1
+phong_cảnh agribank hoi an beach resort đẹp bãi_biển chú_trọng sơ_sài phòng agribank thiết_bị hơi cũ xứng resort dọn phòng thật bóng_bẩy,0,-1,0,-1,-1
 "khách_sạn sở_hữu bờ_biển cảnh_quan đẹp, phòng_đẹp, ăn_ngon",1,0,1,1,0
 ngoại_cảnh tuyệt_vời phòng_đẹp kiến_trúc khu đẹp,0,1,0,0,0
-nội_thất bên_trong phòng_ngủ cũ đạt tiêu_chuẩn 4,0,1,0,0,0
+nội_thất bên_trong phòng_ngủ cũ đạt tiêu_chuẩn 4,0,-1,0,0,0
 cửa_ra_vào cách_âm tốt sử_dụng cửa phòng cách_âm âm_thanh bên_ngoài ảnh_hưởng sự_thư_giãn riêng_tư khách,0,1,0,0,1
 vườn muỗi bay phòng_đẹp khách_sạn phun_thuốc diệt muỗi thường_xuyên,0,1,0,0,0
 nhân_viên tiếp_tân chuyên_nghiệp hơi đông khách sự_nhầm_lẫn hậu_quả để_lại ấn_tượng tốt,1,0,0,0,0
@@ -59,121 +59,121 @@ phòng agribank hội an resort hội_an sạch_sẽ nhà_tắm_hơi nhỏ view 
 agribank hoi an beach resort hội_an tốt,0,1,0,0,0
 "thái_độ phục_vụ nhân_viên hoà_nhã nhiệt_tình tác_phong nhanh_nhẹn đặc_biệt phương nhân_viên phục_vụ bãi_tắm, đồ_ăn ngon",1,0,1,0,0
 "khuôn_viên khách_sạn phòng sạch_sẽ thoáng đãng trị_an tốt, giá_cả",0,1,0,1,0
-"khách_sạn trang_bị đồ_dùng phòng cũ nhất_là khăn_tắm ngả_màu cháo_lòng cảm_giác đảm_bảo vệ_sinh, đồ_ăn tệ",0,0,1,0,1
+"khách_sạn trang_bị đồ_dùng phòng cũ nhất_là khăn_tắm ngả_màu cháo_lòng cảm_giác đảm_bảo vệ_sinh, đồ_ăn tệ",0,0,-1,0,-1
 "nhìn_chung gia_đình hài_lòng dịch_vụ khách_sạn, phòng_đẹp, ăn_ngon",1,1,1,0,0
 dịch_vụ tốt,1,0,0,0,0
 dịch_vụ chudu24 hài_lòng đặt phòng tương_đối đẹp tại_đây nhân_viên tư_vấn nhiệt_tình giao_dịch nhanh_nhẹn,1,1,0,0,0
-lễ_tân bình_thường nhân_viên quầy bún phở phục_vụ buffet lạnh_lùng nhiệt_tình khách,1,0,0,0,0
-phòng xấu,0,1,0,0,0
-"khách_sạn tiêu_chuẩn 4 thực_sự không_được mong_đợi khách_sạn resort 4, phòng không_đẹp",0,1,0,0,0
-"phòng bé thiết_bị cũ hỏng đèn bật bồn_tắm rò tường chỗ bong_tróc hồ bơi mùi clo, đồ_ăn ngon",0,1,1,0,1
+lễ_tân bình_thường nhân_viên quầy bún phở phục_vụ buffet lạnh_lùng nhiệt_tình khách,-1,0,0,0,0
+phòng xấu,0,-1,0,0,0
+"khách_sạn tiêu_chuẩn 4 thực_sự không_được mong_đợi khách_sạn resort 4, phòng không_đẹp",0,-1,0,0,0
+"phòng bé thiết_bị cũ hỏng đèn bật bồn_tắm rò tường chỗ bong_tróc hồ bơi mùi clo, đồ_ăn ngon",0,-1,1,0,-1
 "nói_chung khách_sạn tương_xứng tiêu_chuẩn 4 giá phòng_khách_hàng trả, phòng_đẹp, giá hợp_ý",0,1,0,1,0
-đọc chê mọi_người mạng tiêu_chí bãi_tắm thuận_tiện trẻ_con tắm bể_bơi giá_cả phù_hợp ngân_sách gia_đình mức_giá chung khu_vực vị_trí khách_sạn thuận_lợi thuận_tiện đi_lại đồ_ăn tệ ăn_uống quyết_tâm đặt phòng,0,0,1,1,0
-"chuẩn_bị chấp_nhận điều_kiện tồi phòng_ốc dịch_vụ, giá cao",1,0,0,1,0
+đọc chê mọi_người mạng tiêu_chí bãi_tắm thuận_tiện trẻ_con tắm bể_bơi giá_cả phù_hợp ngân_sách gia_đình mức_giá chung khu_vực vị_trí khách_sạn thuận_lợi thuận_tiện đi_lại đồ_ăn tệ ăn_uống quyết_tâm đặt phòng,0,0,-1,1,0
+"chuẩn_bị chấp_nhận điều_kiện tồi phòng_ốc dịch_vụ, giá cao",-1,0,0,-1,0
 khuôn_viên khách_sạn đẹp chăm_sóc tốt cây_xanh mát mắt loại hoa đẹp tiểu cảnh pose hình,0,1,0,0,0
 bể cảnh giả sơn xây tháng_sau phòng_đẹp hoàn_thành đẹp,0,1,0,0,0
 "bể_bơi thích đẹp rộng bể_bơi kèm bể sục trẻ_em, vị_trí đẹp",0,0,0,1,1
-phòng đẹp rộng_rãi thoáng_mát bồn_tắm đứng két_sắt sử_dụng ks b bàn_giao thiết_bị cũ,0,1,0,0,1
+phòng đẹp rộng_rãi thoáng_mát bồn_tắm đứng két_sắt sử_dụng ks b bàn_giao thiết_bị cũ,0,1,0,0,-1
 ăn_sáng ngon phong_phú mức_giá,0,0,1,1,0
 "nghỉ resort phòng_đẹp, phòng đẹp tính_chất nghỉ dưỡng yên_bình riêng_tư trẻ_con chơi lo_lắng",0,1,0,0,0
-giường hơi_cứng ăn ngon,0,0,1,0,1
-dọn phòng không_được thông_báo chính_xác giờ check_in check_out khách lưu_trú kịp dọn_dẹp,1,0,0,0,0
-món_ăn_sáng ít lựa_chọn đặc_biệt ghế trẻ_em giá cả,0,0,1,1,0
+giường hơi_cứng ăn ngon,0,0,1,0,-1
+dọn phòng không_được thông_báo chính_xác giờ check_in check_out khách lưu_trú kịp dọn_dẹp,-1,0,0,0,0
+món_ăn_sáng ít lựa_chọn đặc_biệt ghế trẻ_em giá cả,0,0,-1,1,0
 khu_vực tắm_biển cứu_hộ trực vị_trí đẹp phục_vụ nhiệt_tình,1,0,0,1,0
-nội_thất phòng xuống_cấp khóa cửa hen rỉ cửa tủ hỏng lớp sơn bề_mặt tường xuống_cấp tóm_lại tương_xứng số_tiền đắt du_khách bỏ_ra thuê có_tiếng ,0,1,0,1,1
-khách_sạn khuôn_viên đẹp cây_cối thích_hợp nghỉ dưỡng phòng_ốc hơi cũ trang_thiết_bị đẹp nói_chung đạt tiêu_chuẩn,0,1,0,1,1
+nội_thất phòng xuống_cấp khóa cửa hen rỉ cửa tủ hỏng lớp sơn bề_mặt tường xuống_cấp tóm_lại tương_xứng số_tiền đắt du_khách bỏ_ra thuê có_tiếng ,0,-1,0,-1,-1
+khách_sạn khuôn_viên đẹp cây_cối thích_hợp nghỉ dưỡng phòng_ốc hơi cũ trang_thiết_bị đẹp nói_chung đạt tiêu_chuẩn,0,-1,0,1,1
 thái_độ dịch_vụ giá chudu24 tốt nhiệt_tình tư_vấn khách_hàng thân_thiện khách_hàng cố_gắng đáp_ứng yêu_cầu khách_hàng,1,0,0,0,0
-dịch_vụ agribankresort ko tốt ăn_sáng ít đồ cơ_sở vật_chất ko tốt bể bới bẩn,1,0,1,0,1
+dịch_vụ agribankresort ko tốt ăn_sáng ít đồ cơ_sở vật_chất ko tốt bể bới bẩn,-1,0,-1,0,-1
 đanh giá bộ_phận quản_lý agribankresort nhân_viên phục_vụ thái_độ nhiệt_tình chỉ_đạo quản_lý agribankresort chất_lượng dịch_vụ tốt ăn_ngon,1,0,1,0,0
-cảm_ơn chudu24 nhiệt_tình đặt phòng_đẹp lưu_ý tư_vấn khách_hàng dịch_vụ đặt khách tránh tình_trạng đến_nơi sử_dụng dịch_vụ cảm_thấy vô_cùng thất_vọng không_được tư_vấn tìm_hiểu kỹ đặt,1,1,0,0,0
-resort phục_vụ tốt giá phòng hợp_lý ăn_sáng hơi ít đồ_ăn thiết_bị bẩn,1,1,1,1,1
-phòng_ốc hơi muỗi,0,1,0,0,0
+cảm_ơn chudu24 nhiệt_tình đặt phòng_đẹp lưu_ý tư_vấn khách_hàng dịch_vụ đặt khách tránh tình_trạng đến_nơi sử_dụng dịch_vụ cảm_thấy vô_cùng thất_vọng không_được tư_vấn tìm_hiểu kỹ đặt,-1,1,0,0,0
+resort phục_vụ tốt giá phòng hợp_lý ăn_sáng hơi ít đồ_ăn thiết_bị bẩn,1,1,-1,1,-1
+phòng_ốc hơi muỗi,0,-1,0,0,0
 quang_cảnh vị_trí vườn tốt cây_xanh phòng đẹp,0,1,0,1,0
-quảng_cáo 4 phòng thua khách_sạn 2,0,1,0,0,0
-nhân_viên ở_đây không_biết nói_chuyện lịch_sự,1,0,0,0,0
+quảng_cáo 4 phòng thua khách_sạn 2,0,-1,0,0,0
+nhân_viên ở_đây không_biết nói_chuyện lịch_sự,-1,0,0,0,0
 check out tiếng cảm_ơn,1,0,0,0,0
 đêm lưu_trú khách_sạn không_gian yên_tĩnh đẹp,0,1,0,0,0
 nhân_viên thân_thiện phòng_ốc sáng_sủa,1,1,0,0,0
-khung_cảnh đẹp vị_trí đẹp nhân_viên dễ mến nói_thật phòng ốc kém buffet nghèo_nàn,1,1,1,1,0
-phòng bình_thường wifi kết_nối chậm,0,1,0,0,1
+khung_cảnh đẹp vị_trí đẹp nhân_viên dễ mến nói_thật phòng ốc kém buffet nghèo_nàn,1,-1,-1,1,0
+phòng bình_thường wifi kết_nối chậm,0,-1,0,0,-1
 xứng_đáng khách_sạn 4 chu_đáo,1,1,0,0,0
 bể_bơi khá_tốt giá vừa_phải sạch_sẽ,0,0,0,1,1
 cảnh_quan cây_xanh đẹp chăm_chút cẩn_thận cảm_giác thư_giãn dễ_chịu khu vườn,0,0,0,1,0
 tầng 2 khu biển yên_tĩnh thoáng_mát,0,1,0,0,0
-tòa_nhà đẹp đồ_gỗ phòng tương_đối ổn ngoại_trừ thích sàn_gỗ nhân_tạo gạch lát nhà_vệ_sinh dễ ẩm_ướt,0,1,0,0,1
-nhân_viên phục_vụ thân_thiện nhiệt_tình làm_việc tốt lắm đặc_biệt bộ_phận vệ_sinh buồng phòng nhà_hàng cũ,1,1,0,0,0
-khâu vệ_sinh buồng phòng chú_ý ván gỗ gạch lát sàn vệ_sinh ăn_sáng nhà_hàng cải_thiện có_nhiều món_ăn chất_lượng tốt_hơn,1,1,1,0,0
+tòa_nhà đẹp đồ_gỗ phòng tương_đối ổn ngoại_trừ thích sàn_gỗ nhân_tạo gạch lát nhà_vệ_sinh dễ ẩm_ướt,0,1,0,0,-1
+nhân_viên phục_vụ thân_thiện nhiệt_tình làm_việc tốt lắm đặc_biệt bộ_phận vệ_sinh buồng phòng nhà_hàng cũ,1,-1,0,0,0
+khâu vệ_sinh buồng phòng chú_ý ván gỗ gạch lát sàn vệ_sinh ăn_sáng nhà_hàng cải_thiện có_nhiều món_ăn chất_lượng tốt_hơn,-1,-1,1,0,0
 chú_ý đảm_bảo thiết_bị vệ_sinh làm_việc tốt khách phòng dịch_vụ khách,1,0,0,0,1
-khách_sạn bố_trí khâu lau sàn_nhà chú_ý vệ_sinh phòng_ốc phục_vụ nhiệt_tình,1,1,0,0,0
+khách_sạn bố_trí khâu lau sàn_nhà chú_ý vệ_sinh phòng_ốc phục_vụ nhiệt_tình,1,-1,0,0,0
 ngoại_cảnh resort đẹp,0,0,0,1,0
 vị_trí ngay_cạnh bãi_biển thoáng đãng bãi_biển đẹp,0,0,0,1,0
-phòng_ngủ resort tệ giá cao,0,1,0,1,0
-hầu_như vật_dụng phòng hình_như lau dọn sửa_chữa bụi mức xuống_cấp nghiêm_trọng,0,1,0,0,1
-bản_lề tủ quần_áo rỉ_sét mĩ quan cánh tủ 3 bản_lề gãy 2 cửa tủ dính bản_lề còn_lại rơi_xuống lúc_nào bản_lề còn_lại không_còn chắc_chắn lắm mỗi_lần mở tủ đồ đỡ cánh tủ đề_phòng gãy nguy_hiểm khách_hàng cẩn_thận để_ý vị_trí đẹp ăn ngon,0,0,1,1,1
-đồ_dùng không khả_quan mấy,0,0,0,0,1
-phòng_tắm nhỏ không_được lắm,0,1,0,0,1
-chương_trình tivi nghèo_nàn 6 kênh truyền_hình mà_lại nhiễu,1,0,0,0,0
+phòng_ngủ resort tệ giá cao,0,-1,0,-1,0
+hầu_như vật_dụng phòng hình_như lau dọn sửa_chữa bụi mức xuống_cấp nghiêm_trọng,0,-1,0,0,-1
+bản_lề tủ quần_áo rỉ_sét mĩ quan cánh tủ 3 bản_lề gãy 2 cửa tủ dính bản_lề còn_lại rơi_xuống lúc_nào bản_lề còn_lại không_còn chắc_chắn lắm mỗi_lần mở tủ đồ đỡ cánh tủ đề_phòng gãy nguy_hiểm khách_hàng cẩn_thận để_ý vị_trí đẹp ăn ngon,0,0,1,1,-1
+đồ_dùng không khả_quan mấy,0,0,0,0,-1
+phòng_tắm nhỏ không_được lắm,0,-1,0,0,-1
+chương_trình tivi nghèo_nàn 6 kênh truyền_hình mà_lại nhiễu,-1,0,0,0,0
 ý_kiến chủ_quan căn_phòng gặp_phải phòng 413 phòng vị_trí thoáng,0,1,0,1,0
 du_khách hội_an tắm_biển nghỉ_ngơi resort hợp_lí giá phòng ok đặt chudu24,0,0,0,1,0
-hội_an_chơi đặt phòng agribank chudu24 nhìn phòng toilet website công_ty bám bẩn sỉ màu vàng hình_ảnh phòng superior garden view hình web bộ_mặt resort lau_chùi rửa trước_khi quay_phim,0,1,0,0,1
-xe khách bến_xe hội_an xe bus resort đưa_đón khách_ra hội_an chơi khách_sạn tiện vậy_mà chat nhân_viên không nhiệt_tình resort trả_lời tưởng bận đột_xuất lát_nữa reply,1,0,0,0,0
-không_biết nhân_viên không nhiệt_tình resort tuyển_dụng,1,0,0,0,0
-phòng rộng_rãi đẹp làm_tôi đồ_ăn thất_vọng,0,1,1,0,0
-ồn_ào tưởng_tượng hội_an yên_bình phòng nghe_được âm_thanh bên_ngoài,0,1,0,0,0
-tivi phòng bật đài đài kia ghi tín_hiệu kém,0,0,0,0,1
+hội_an_chơi đặt phòng agribank chudu24 nhìn phòng toilet website công_ty bám bẩn sỉ màu vàng hình_ảnh phòng superior garden view hình web bộ_mặt resort lau_chùi rửa trước_khi quay_phim,0,1,0,0,-1
+xe khách bến_xe hội_an xe bus resort đưa_đón khách_ra hội_an chơi khách_sạn tiện vậy_mà chat nhân_viên không nhiệt_tình resort trả_lời tưởng bận đột_xuất lát_nữa reply,-1,0,0,0,0
+không_biết nhân_viên không nhiệt_tình resort tuyển_dụng,-1,0,0,0,0
+phòng rộng_rãi đẹp làm_tôi đồ_ăn thất_vọng,0,1,-1,0,0
+ồn_ào tưởng_tượng hội_an yên_bình phòng nghe_được âm_thanh bên_ngoài,0,-1,0,0,0
+tivi phòng bật đài đài kia ghi tín_hiệu kém,0,0,0,0,-1
 bữa_sáng ổn thích buổi_trưa nấu ngon nho tráng_miệng,0,0,1,0,0
-thật lòng góp_ý khách_sạn cải_thiện hơn_nữa nhất_là dịch_vụ cung_cách phục_vụ nội_thất phòng giá phục_vụ sao_cho xứng_đáng,1,1,0,1,1
-hy_vọng nhân_viên phục_vụ resort đọc đánh_giá khách tốt_hơn,1,0,0,0,0
+thật lòng góp_ý khách_sạn cải_thiện hơn_nữa nhất_là dịch_vụ cung_cách phục_vụ nội_thất phòng giá phục_vụ sao_cho xứng_đáng,-1,-1,0,-1,-1
+hy_vọng nhân_viên phục_vụ resort đọc đánh_giá khách tốt_hơn,-1,0,0,0,0
 khách_sạn vị_trí đẹp biển cảm_giác thoải_mái hội_an ăn ngon,0,0,1,1,0
-10 phút xe bus taxi trung_tâm hội_an hài_lòng phòng_ốc khách_sạn lắm nhìn cũ_kỹ không_được nhất_là cửa_sổ mờ dơ có_lẽ không_được lau_chùi thường_xuyên nhìn vòi sen dám tắm,0,1,0,0,1
-bữa_ăn tạm_ổn,0,0,1,0,0
-bữa_tối tệ khách_sạn cải_thiện chất_lượng bữa_ăn chất_lượng phục_vụ,1,0,1,0,0
-thích ở_đây là_phải phục_vụ đợi món rất_lâu bực đói chẳng bưng khách món có_lẽ bực ăn chẳng ngon,1,0,1,0,0
+10 phút xe bus taxi trung_tâm hội_an hài_lòng phòng_ốc khách_sạn lắm nhìn cũ_kỹ không_được nhất_là cửa_sổ mờ dơ có_lẽ không_được lau_chùi thường_xuyên nhìn vòi sen dám tắm,0,-1,0,0,-1
+bữa_ăn tạm_ổn,0,0,-1,0,0
+bữa_tối tệ khách_sạn cải_thiện chất_lượng bữa_ăn chất_lượng phục_vụ,-1,0,-1,0,0
+thích ở_đây là_phải phục_vụ đợi món rất_lâu bực đói chẳng bưng khách món có_lẽ bực ăn chẳng ngon,-1,0,-1,0,0
 dịch_vụ khách_sạn tốt,1,0,0,0,0
 spa massage chuyên_nghiệp,1,0,0,0,0
 resort dịch_vụ khách lựa_chọn,1,0,0,0,0
 nhân_viên nhiệt_tình thân_thiện,1,0,0,0,0
 trang_thiết_bị tốt khu vườn xanh không_gian thoáng đãng lành phòng đẹp,0,1,0,0,1
-resort cải_thiện phục_vụ ở_nhà quay_trở_lại,1,0,0,0,0
+resort cải_thiện phục_vụ ở_nhà quay_trở_lại,-1,0,0,0,0
 resort phòng đẹp khu vườn xanh đẹp thích dạo vườn,0,1,0,0,0
 nhân_viên nhiệt_tình thân_thiện tiếp_tân quầy,1,0,0,0,0
-khách_sạn thiết_kế đẹp phòng trang_trí ổn có_điều cửa_sổ phòng không có_lẽ lau_chùi thường_xuyên,0,1,0,0,1
+khách_sạn thiết_kế đẹp phòng trang_trí ổn có_điều cửa_sổ phòng không có_lẽ lau_chùi thường_xuyên,0,1,0,0,-1
 đường_truyền internet tốt có_khi tín_hiệu,0,0,0,0,1
 phục_vụ món_ăn nhanh_lẹ món_ăn ngon,0,0,1,0,0
-đợi_chờ 1 tiếng đồng_hồ bụng sôi nhân_viên nhà_hàng chậm bưng món_ăn chậm,1,0,1,0,0
+đợi_chờ 1 tiếng đồng_hồ bụng sôi nhân_viên nhà_hàng chậm bưng món_ăn chậm,-1,0,-1,0,0
 view khách_sạn đẹp bờ biển_cửa đại thơ_mộng thuận_tiện tham_quan phố_cổ hội_an thánh_địa mỹ sơn,0,0,0,1,0
 nhân_viên khách_sạn ân_cần chu_đáo,1,0,0,0,0
 bữa_sáng ít món thức_ăn ngon,0,0,1,0,0
 buffet khách_sạn đạt chuẩn 4 1 2 mũi_né,0,0,1,0,0
 xin góp_ý máy heat ấm_nước hồ bơi resort mũi né khách trời lạnh 1 2 miền trung,0,0,0,0,1
 nói_chung bình_thường mùa du_lịch dịch_vụ khách lựa_chọn,1,0,0,0,0
-điện_thoại nội_bộ hoạt_động internet phòng business center nhà_hàng món_ăn_sáng phong_phú trang_trí nội_thất nhà_hàng tệ,0,1,1,0,1
+điện_thoại nội_bộ hoạt_động internet phòng business center nhà_hàng món_ăn_sáng phong_phú trang_trí nội_thất nhà_hàng tệ,0,-1,1,0,-1
 dịch_vụ nói_chung nhân_viên đào_tạo chuyên_nghiệp,1,0,0,0,0
 phòng tốt dịch_vụ tốt đặt phòng chudu24 thuận_tiện dịch_vụ nhanh,1,1,0,0,0
-phòng_ốc đẹp sạch_sẽ thiết_bị tivi tủ_lạnh đèn hơi cũ,0,1,0,0,1
-khung_cảnh vị_trí đẹp hệ_thống chiếu_sáng không_được đầu_tư,0,0,0,1,1
+phòng_ốc đẹp sạch_sẽ thiết_bị tivi tủ_lạnh đèn hơi cũ,0,1,0,0,-1
+khung_cảnh vị_trí đẹp hệ_thống chiếu_sáng không_được đầu_tư,0,0,0,1,-1
 dịch_vụ đi_kèm nhà_hàng tốt,1,0,0,0,0
 dịch_vụ massage phòng tập_thể_dục tốt,1,0,0,0,0
-nói_chung dịch_vụ hơi nghèo_nàn,1,0,0,0,0
+nói_chung dịch_vụ hơi nghèo_nàn,-1,0,0,0,0
 biệt_thự viva đẹp thiết_kế sang_trọng tiện_nghi đầy_đủ khuôn_viên rộng_rãi,0,1,0,1,1
 biệt_thự phố viva vũng_tàu chỗ an_toàn có_nhiều côn_trùng,0,1,0,1,0
-biệt_thự 196a không_có đẹp nhỏ ngột_ngạt,0,1,0,0,0
+biệt_thự 196a không_có đẹp nhỏ ngột_ngạt,0,-1,0,0,0
 nhân_viên viva ms trâm nhiệt_tình dể thương,1,0,0,0,0
 giá hợp_lý,0,0,0,1,0
 phòng_ốc sạch_sẽ thoáng_mát,0,1,0,0,0
-nhân_viên phục_vụ không_chuyên_nghiệp thân_thiện,1,0,0,0,0
+nhân_viên phục_vụ không_chuyên_nghiệp thân_thiện,-1,0,0,0,0
 biệt_thự okie rộng_rãi thoáng,0,1,0,0,0
-giá phòng quá_đắt đẹp khách_sạn thuê biệt_thự giá,0,1,0,1,0
+giá phòng quá_đắt đẹp khách_sạn thuê biệt_thự giá,0,1,0,-1,0
 đầu_người rẻ khách_sạn,0,0,0,1,0
 gia_đình mua đồ_ăn thịt hải_sản chợ vũng_tàu biệt_thự sẵn bếp gia_vị lò nướng ngoài_trời bbq vui,0,0,1,0,1
-thiết_bị vệ_sinh cũ rỉ_sét,0,0,0,0,1
-tủ gỗ hư_hỏng,0,0,0,0,1
-khung_cửa rỉ_sét vách_tường vết hoen_ố,0,0,0,0,1
+thiết_bị vệ_sinh cũ rỉ_sét,0,0,0,0,-1
+tủ gỗ hư_hỏng,0,0,0,0,-1
+khung_cửa rỉ_sét vách_tường vết hoen_ố,0,0,0,0,-1
 view chi chỗ rộng_rãi,0,1,0,1,0
 phòng_ốc sạch_sẽ nhân_viên vui_vẻ nhiệt_tình,1,1,0,0,0
-hồ_bơi_dơ phòng cũ muỗi nước_lên lầu yếu,0,1,0,0,1
-internet wifi hơi yếu lỗi,0,0,0,0,1
-tủ_lạnh ngăn mát hư một_số đèn hư sửa,0,0,0,0,1
+hồ_bơi_dơ phòng cũ muỗi nước_lên lầu yếu,0,-1,0,0,-1
+internet wifi hơi yếu lỗi,0,0,0,0,-1
+tủ_lạnh ngăn mát hư một_số đèn hư sửa,0,0,0,0,-1
 xài khách_sạn viva trang_bị phòng tivi tốt_hơn,0,1,0,0,1
 dịch_vụ còn_lại tốt,1,0,0,0,0
 gia_đình thuê biệt_thự viva vũng_tàu phòng thị tiếp_tân vui_vẻ giao chìa_khóa biệt_thự,1,0,0,0,0
@@ -183,57 +183,57 @@ gia_đình thích khu nhà_bếp đầy_đủ tiện_nghi máy_lạnh nấu tho�
 phòng_ốc hồ bơi dọn_dẹp sạch_sẽ trước_khi giao trang_thiết_bị hoạt_động tốt,0,1,0,0,1
 xe ôtô khó nhà_xe nghiên_cứu,0,0,0,0,1
 biệt_thự sạch_sẽ trang_thiết_bị nội_thất khá_tốt,0,1,0,0,1
-nhân_viên bảo_vệ công_ty viva canh_chừng trước_cửa ca_thán tiền_lương sống nhờ tiền tip khách đếm người_khách xe ra_vào biệt_thự gia_đình xe 16 chỗ chỗ đậu xe nhân_viên bảo_vệ đem xe gởi giá 70k bãi xe đòi 100k nồi_niêu xoong chảo nhỏ khó nấu_ăn đặt sealink phan_thiết,1,0,1,1,1
+nhân_viên bảo_vệ công_ty viva canh_chừng trước_cửa ca_thán tiền_lương sống nhờ tiền tip khách đếm người_khách xe ra_vào biệt_thự gia_đình xe 16 chỗ chỗ đậu xe nhân_viên bảo_vệ đem xe gởi giá 70k bãi xe đòi 100k nồi_niêu xoong chảo nhỏ khó nấu_ăn đặt sealink phan_thiết,-1,0,-1,-1,-1
 khách_sạn hoàng_hải_long nằm trung_tâm thành_phố hồ_chí_minh tập_trung trung_tâm thương_mại nhà_hàng ăn ngon,0,0,1,1,0
 dịch_vụ chất_lượng phục_vụ tốt hài_lòng,1,0,0,0,0
-dịch_vụ check in chậm mặc_dù 16h30 lễ_tân mãi phòng xấu buộc gọi chudu24 hỏi phòng,1,1,0,0,0
-dịch_vụ tồi cháu nhỏ nhà_tôi bì ngã bậc khách_sạn chảy_máu đầu_gối lễ_tân hỏi đứng nhìn,1,0,0,0,0
+dịch_vụ check in chậm mặc_dù 16h30 lễ_tân mãi phòng xấu buộc gọi chudu24 hỏi phòng,-1,-1,0,0,0
+dịch_vụ tồi cháu nhỏ nhà_tôi bì ngã bậc khách_sạn chảy_máu đầu_gối lễ_tân hỏi đứng nhìn,-1,0,0,0,0
 khách_sạn tốt,0,1,0,0,0
 reception hiểu quy_định hóa_đơn đỏ receive tạo điều_kiện khách nhân_viên thân_thiện,1,0,0,0,0
-tư_tưởng quản_lí alba thanh_tân hot springs resort cứng_nhắc tạo sự_thoải_mái du_khách thảm thực_vật bề_mặt tốt cây_bố_trí phù_hợp,1,0,0,1,1
+tư_tưởng quản_lí alba thanh_tân hot springs resort cứng_nhắc tạo sự_thoải_mái du_khách thảm thực_vật bề_mặt tốt cây_bố_trí phù_hợp,-1,0,0,1,1
 công_tác quản_lí thân_thiện thích_hợp quy_định khu cứng_nhắc thương_mại thiếu đa_dạng trò_chơi vị_trí đẹp,1,0,0,1,0
 alba thanh_tân hot springs resort đẹp không_khí trong_lòng nhân_viên thân_thiện vui_vẻ nhà_hàng phục_vụ món_ăn ngon nhân_viên nhà_hàng chu_đáo giá_cả hợp_lý ở_đây massage nói_chung hài_lòng,1,0,1,1,0
-biệt_thự viva an_viên nha_trang hồ bơi đẹp phòng_ốc cũng_tạm 4 đạt chuẩn 4 phòng_ngủ 3 phòng_tắm hơi bất_tiện gia_đình riêng_tư nói_chung mọi_người hài_lòng kỳ_nghỉ,0,1,0,1,1
+biệt_thự viva an_viên nha_trang hồ bơi đẹp phòng_ốc cũng_tạm 4 đạt chuẩn 4 phòng_ngủ 3 phòng_tắm hơi bất_tiện gia_đình riêng_tư nói_chung mọi_người hài_lòng kỳ_nghỉ,0,1,0,1,-1
 dịch_vụ chudu24 chu_đáo nhiệt_tình ủng_hộ,1,0,0,0,0
 biệt_thự đẹp trang_trí nội_thất sang_trọng thanh_nhã nhân_viên phục_vụ tốt nhiệt_tình phòng đẹp,1,1,0,0,1
 biển an viên tắm_biển bất_tiện hồ bơi phòng sạch_sẽ,0,1,0,0,0
 nhìn_chung allezboo beach resort spa vị_trí tốt nhân_viên thân_thiện view đẹp,1,0,0,1,0
-một_số hạn_chế như_sau + phòng ban_đêm muỗi,0,1,0,0,0
-buffet ít đồ_ăn 8h nhà_hàng hầu_như đồ_ăn gần_hết nhìn nhìn lui bánh_mì trứng chiên ăn món phở chả_cá,0,0,1,0,0
-thức_ăn ít món không_ngon,0,0,1,0,0
-nhân_viên phục_vụ ăn_sáng chậm có_lẽ bố_trí ít người_phục_vụ,1,0,0,0,0
+một_số hạn_chế như_sau + phòng ban_đêm muỗi,0,-1,0,0,0
+buffet ít đồ_ăn 8h nhà_hàng hầu_như đồ_ăn gần_hết nhìn nhìn lui bánh_mì trứng chiên ăn món phở chả_cá,0,0,-1,0,0
+thức_ăn ít món không_ngon,0,0,-1,0,0
+nhân_viên phục_vụ ăn_sáng chậm có_lẽ bố_trí ít người_phục_vụ,-1,0,0,0,0
 allezboo beach resort spa resort tương_đối mát_mẻ sạch_sẽ,0,1,0,0,0
 nhân_viên thân_thiện cởi_mở,1,0,0,0,0
-phòng tương_đối tốt muỗi toilet vòi xịt bất_tiện,0,1,0,0,1
-thức_ăn ít đơn_điệu xứng_tầm 4,0,0,1,0,0
+phòng tương_đối tốt muỗi toilet vòi xịt bất_tiện,0,1,0,0,-1
+thức_ăn ít đơn_điệu xứng_tầm 4,0,0,-1,0,0
 allezboo beach resort spa phòng đẹp sạch_sẽ nhân_viên thân_thiện,1,1,0,0,0
-khuyết_điểm duy_nhất đồ_ăn ít món xứng_với khách_sạn 4,0,0,1,0,0
+khuyết_điểm duy_nhất đồ_ăn ít món xứng_với khách_sạn 4,0,0,-1,0,0
 allezboo beach resort spa bãi_biển đẹp hồ bơi đẹp phòng ok,0,1,0,0,1
-thức_ăn quá_tệ nhân_viên phục_vụ ăn_sáng tập_trung nói_chuyện chửi_thề quầy bánh lễ_tân vui_vẻ,1,0,1,0,0
+thức_ăn quá_tệ nhân_viên phục_vụ ăn_sáng tập_trung nói_chuyện chửi_thề quầy bánh lễ_tân vui_vẻ,-1,0,-1,0,0
 cảnh allezboo beach resort spa đẹp biển đẹp ăn_sáng ngon nhân_viên dễ_thương quán_ăn tám ú ngon bầy chó mặt_xệ đẹp khuôn_viên đẹp,1,1,1,1,0
 hồ bơi sâu độ_dốc ko cứu_hộ túc_trực phao_bơi trẻ_con trẻ_con ko thích_hợp bơi hồ chìm hồ bơi xà_bông tí_xíu gội nội_thất cũ,0,0,0,0,1
-vị_trí allezboo beach resort spa đẹp phòng_khách_sạn rộng nội_thất hơi cũ vệ_sinh sạch_sẽ hồ bơi bãi_biển món_ăn bình_thường,0,1,1,1,1
+vị_trí allezboo beach resort spa đẹp phòng_khách_sạn rộng nội_thất hơi cũ vệ_sinh sạch_sẽ hồ bơi bãi_biển món_ăn bình_thường,0,1,-1,1,-1
 allezboo beach resort spa tốt ăn_sáng ít món cải_thiện món_ăn_sáng phòng tốt,0,1,1,0,0
 hài_lòng vị_trí khuôn_viên dịch_vụ giá_cả allezboo beach resort spa phục_vụ nhiệt_tình,1,0,0,1,0
 chất_lượng dịch_vụ tốt giá tiền bình_dân,1,0,0,1,0
-phòng allezboo beach resort spa muỗi mà_lại màn,0,1,0,0,1
-mọi_thứ allezboo beach resort spa bình_thường nhân_viên phục_vụ phòng thiếu nụ_cười,1,0,0,0,0
+phòng allezboo beach resort spa muỗi mà_lại màn,0,-1,0,0,-1
+mọi_thứ allezboo beach resort spa bình_thường nhân_viên phục_vụ phòng thiếu nụ_cười,-1,0,0,0,0
 nhân_viên nhiệt_tình phục_vụ tốt,1,0,0,0,0
 hồ_bơi_sạch đẹp nằm sát bờ_biển tuyệt,0,0,0,0,1
 bãi_tắm rộng sân_bóng tốt,0,0,0,0,1
 phòng sạch_sẽ có_nhiều muỗi,0,1,0,0,0
 đồ_ăn ngon uống phòng đẹp giá phù_hợp,0,1,1,1,0
-phòng_bị hư_máy_lạnh sửa 2 đường_đi phòng buổi_tối đèn cầu_thang,0,1,0,0,1
+phòng_bị hư_máy_lạnh sửa 2 đường_đi phòng buổi_tối đèn cầu_thang,0,-1,0,0,-1
 nhìn_chung resort nhỏ phòng xinh_xắn sạch_sẽ khuôn_viên đẹp cây_xanh bãi_cỏ xanh mướt lối loài hoa nở thơm cảm_giác dễ_chịu,0,1,0,1,0
 thái_độ nhân_viên lễ_tân lịch_sự nhân_viên quầy bar chu_đáo nhiệt_tình,1,0,0,0,0
-một_vài điểm_không đạt_yêu_cầu bể_bơi hơi nhỏ bữa_sáng resort dở ít món chế_biến khó ăn,0,0,1,0,1
+một_vài điểm_không đạt_yêu_cầu bể_bơi hơi nhỏ bữa_sáng resort dở ít món chế_biến khó ăn,0,0,-1,0,-1
 dịch_vụ chudu24 nhiệt_tình chu_đáo tư_vấn tốt giá_cả hợp_lý,1,0,0,1,0
 vị_trí thuận_lợi nhà_hàng bàng,0,0,0,1,0
 hồ_bơi_rộng thoải_mái kế biển bãi_cát mịn biển đep chồi nằm_nghỉ,0,0,0,0,1
 phòng đẹp garden view duluxe nhìn vườn dễ_chịu hít thở,0,1,0,0,0
-thức_ăn bình_thường,0,0,1,0,0
-diện_tích phòng_không phòng nhỏ bồn_tắm cũ,0,1,0,0,1
-điểm_tâm ít ngon,0,0,1,0,0
+thức_ăn bình_thường,0,0,-1,0,0
+diện_tích phòng_không phòng nhỏ bồn_tắm cũ,0,-1,0,0,-1
+điểm_tâm ít ngon,0,0,-1,0,0
 dịch_vụ allezboo beach resort spa tốt,1,0,0,0,0
 phong_cách phục_vụ lễ_tân tốt thân_thiện,1,0,0,0,0
 phòng_ốc ok,0,1,0,0,0
@@ -241,8 +241,8 @@ khuôn_viên đẹp phòng,0,1,0,1,0
 khu_vực bãi_biển hồ bơi thích,0,0,0,1,0
 phục_vụ tiếp_tân nhà_hàng tốt,1,0,0,0,0
 bãi_biển hồ bơi khung_cảnh khuôn_viên tốt tốt tập_thể_dục chạy_bộ tắm_biển buổi_sáng phòng đẹp,0,1,0,1,0
-phòng hơi tối quá_nhiều muỗi bình_xịt muỗi ảnh_hưởng không_khí phòng,0,1,0,0,0
-hài_lòng chất_lượng dịch_vụ phòng giá cao,1,0,0,1,0
+phòng hơi tối quá_nhiều muỗi bình_xịt muỗi ảnh_hưởng không_khí phòng,0,-1,0,0,0
+hài_lòng chất_lượng dịch_vụ phòng giá cao,1,0,0,-1,0
 dịch_vụ chudu 24 tốt đặc_biệt nhân_viên chudu24 chăm_sóc khách_hàng chu_đáo,1,0,0,0,0
 thực_sự_mình hài_lòng sự_chuyên_nghiệp phục_vụ khách_hàng,1,0,0,0,0
 khách_sạn đẹp phục_vụ tốt,1,1,0,0,0
@@ -254,55 +254,55 @@ nhân_viên phục_vụ tận_tình,1,0,0,0,0
 allezboo resort đón_tiếp_khách tốt,1,0,0,0,0
 phòng cơ_sở vật_chất tốt,0,1,0,0,1
 nhân_viên phục_vụ nhiệt_tình niềm_nở,1,0,0,0,0
-chỉ_có buffet hơi nghèo_nàn món_ăn,0,0,1,0,0
+chỉ_có buffet hơi nghèo_nàn món_ăn,0,0,-1,0,0
 không_gian yên_tĩnh đẹp sang_trọng phòng tốt nội_thất ok,0,1,0,0,1
-thức_ăn không_được phong_phú lắm ngon tây,0,0,1,0,0
+thức_ăn không_được phong_phú lắm ngon tây,0,0,-1,0,0
 trả_phòng trễ resort vui_vẻ ko phụ_thu,1,0,0,0,0
 giường mềm_mại phòng sạch_sẽ tiện_nghi ổn,0,1,0,0,1
 bãi_biển phong_cảnh đẹp loại đá nhọn chú_ý,0,0,0,1,0
 an_ninh chặt_chẽ hằng có_người thông_báo loại đá sóng hôm_đó,1,0,0,0,0
 thật_là nhân_viên chu_đáo,1,0,0,0,0
-thắc_mắc hơi thất_vọng bữa_ăn_sáng,0,0,1,0,0
+thắc_mắc hơi thất_vọng bữa_ăn_sáng,0,0,-1,0,0
 bữa_tối nhà_hàng resort thật_là ngon_miệng thực_đơn phong_phú,0,0,1,0,0
 resort hơi nhỏ đẹp decor tinh_tế,0,1,0,0,0
 nhân_viên thân_thiện nhiệt_tình,1,0,0,0,0
-dịch_vụ phòng hơi chậm ít nhân_viên,1,1,0,0,0
-resort khu trung_tâm buồn bar spa đóng_cửa sớm,1,0,0,1,0
+dịch_vụ phòng hơi chậm ít nhân_viên,-1,-1,0,0,0
+resort khu trung_tâm buồn bar spa đóng_cửa sớm,1,0,0,-1,0
 phòng rộng_rãi đẹp hơi lạ là_cùng phòng deluxe phòng bồn_tắm phòng yêu_cầu phòng hướng biển trên_cao phòng hướng vườn đất đề_nghị 2 phòng liền kề cửa thông bọn trẻ qua_lại yên_tâm hơi buồn,0,1,0,0,1
-thức_ăn buffet ít món ngon lắm,0,0,1,0,0
+thức_ăn buffet ít món ngon lắm,0,0,-1,0,0
 resort đẹp nhân_viên thân_thiện hồ bơi đẹp đầy_đủ tiện_nghi,1,0,0,0,1
-đáng_tiếc buffet ít món,0,0,1,0,0
-toàn_là món tây ăn buffet resort có_lẽ buffet tệ,0,0,1,0,0
-ăn đươc món cơm_chiên phở ngoài_ra ăn 1 món món phô mai ăn cảm_giác buồn_nôn,0,0,1,0,0
-quay_lại món_ăn quá_tệ như_thế cho_dù nhân_viên thân_thiện nhiệt_tình,1,0,1,0,0
-phòng thiếu sự_lãng_mạn tinh_tế trang_trí phòng thiết bị cũ,0,1,0,0,1
-hơn_nữa tầng_trệt thể ra_đây ngồi ngắm vườn vi sự_phân_cách phòng phòng kia thiếu sự_riêng_tư ghế thư_giãn thoải_mái,0,1,0,0,1
-nhà_hàng mắc tiền khôn_ ngon ít khách ăn_trưa tối ở_đây,0,0,1,1,0
-cocktails pha_chế tệ,0,0,1,0,0
+đáng_tiếc buffet ít món,0,0,-1,0,0
+toàn_là món tây ăn buffet resort có_lẽ buffet tệ,0,0,-1,0,0
+ăn đươc món cơm_chiên phở ngoài_ra ăn 1 món món phô mai ăn cảm_giác buồn_nôn,0,0,-1,0,0
+quay_lại món_ăn quá_tệ như_thế cho_dù nhân_viên thân_thiện nhiệt_tình,1,0,-1,0,0
+phòng thiếu sự_lãng_mạn tinh_tế trang_trí phòng thiết bị cũ,0,-1,0,0,-1
+hơn_nữa tầng_trệt thể ra_đây ngồi ngắm vườn vi sự_phân_cách phòng phòng kia thiếu sự_riêng_tư ghế thư_giãn thoải_mái,0,-1,0,0,-1
+nhà_hàng mắc tiền khôn_ ngon ít khách ăn_trưa tối ở_đây,0,0,-1,-1,0
+cocktails pha_chế tệ,0,0,-1,0,0
 bữa_sáng ngon món tây phục_vụ thực_khách nước_ngoài,0,0,1,0,0
 phòng_ăn tối thoáng_mát có_nhiều món_ăn ngon đến_nỗi không_biết lựa_chọn món,0,1,1,0,0
 lễ_tân cười nói_năng từ_tốn nhẹ_nhàng,1,0,0,0,0
 dịch_vụ tốt giá_cả,1,0,0,1,0
 phòng lầu 3 view hướng vườn đẹp khu vườn chăm_sóc tốt buổi_sáng tản_bộ,0,1,0,1,0
-phàn_nàn đường truyền wifi quá_tệ chấp_nhận,0,0,0,0,1
-tầng 3 vòi sen yếu,0,0,0,0,1
+phàn_nàn đường truyền wifi quá_tệ chấp_nhận,0,0,0,0,-1
+tầng 3 vòi sen yếu,0,0,0,0,-1
 bữa_sáng ổn nhà_hàng nấu_ăn ngon giá rẻ resort nhà_hàng ăn,0,0,1,1,0
 chất_lượng phục_vụ nhà_hàng tạm_ổn hài_lòng phục_vụ phòng siêng_năng cẩn_thận,1,0,0,0,0
-hồ_bơi đẹp nhân_viên phục_vụ hồ bơi hơi lazy chuyên_nghiệp,1,0,0,0,0
+hồ_bơi đẹp nhân_viên phục_vụ hồ bơi hơi lazy chuyên_nghiệp,-1,0,0,0,0
 bữa_sáng ok bữa_ăn chấp_nhận,0,0,1,0,0
 tiếp_tân thân_thiện bill dịch_vụ sử_dụng cuối_cùng lịch_sự xin_lỗi sai_sót quá_trình bấm máy,1,0,0,0,0
 trang_thiết_bị resort khá_tốt,0,0,0,0,1
 phòng hồ bơi rộng_rãi ghế_dài đặt cạnh hồ bơi,0,0,0,0,1
-nhân_viên hồ bơi không_chuyên_nghiệp phục_vụ phòng ok,1,0,0,0,0
+nhân_viên hồ bơi không_chuyên_nghiệp phục_vụ phòng ok,-1,0,0,0,0
 bữa_sáng ngon có_nhiều chọn_lựa bữa_tối hợp_khẩu_vị lắm giá nhà_hàng,0,0,1,0,0
-wifi yếu khách_sạn điều_chỉnh khách công_tác,0,0,0,0,1
+wifi yếu khách_sạn điều_chỉnh khách công_tác,0,0,0,0,-1
 hơi xa_nhà_hàng trung_tâm một_chút mọi_thứ ở_đây yên_tĩnh chấp_nhận,0,0,0,1,0
 phòng rộng view hướng khu vườn rộng xanh đẹp,0,1,0,0,0
 đường truyền internet wifi thật_sự tốt chồng gửi mail sài_gòn,0,0,0,0,1
 phòng tốt hài_lòng chất_lượng nhất_là nhân_viên phục vụ nghỉ tại_đây,1,1,0,0,0
 vila sạch_sẽ đầy_đủ tiện_nghi giá_cả hợp_lý,0,1,0,1,1
 nhân_viên biệt_thự viva phan_thiết nhiệt_tình vui_vẻ hơi biển buổi_tối vắng_vẻ nói_là tốt,1,0,0,0,0
-nhân_viên biệt_thự viva phan_thiết phục_vụ không_chuyên_nghiệp,1,0,0,0,0
+nhân_viên biệt_thự viva phan_thiết phục_vụ không_chuyên_nghiệp,-1,0,0,0,0
 phòng_ốc đẹp,0,1,0,0,0
 phòng_ốc rộng_rãi đầy_đủ tiện_nghi gia_đình 8 10 nghỉ dưỡng,0,1,0,0,1
 biệt_thự cung_cấp dịch_vụ karaoke giải_trí buổi_tối,1,0,0,0,1
@@ -318,81 +318,81 @@ alma oasis long hải resort miễn_phí spa buffet sáng_ngon phong_phú thực
 cơm trưa đa_dạng vệ_sinh,0,0,1,0,0
 phòng khung_cảnh hồ bơi lối .bày trí đẹp sang_trọng kiến_trúc bày trí phòng lạ sáng_tạo đẹp phòng nhỏ,0,1,0,1,0
 phòng_tắm thoát đọng restroom,0,1,0,0,0
-nhân_viên lịch_sự vui_vẻ chuyên_nghiệp tuần khách đông phòng đổi rất_lâu,1,1,0,0,0
+nhân_viên lịch_sự vui_vẻ chuyên_nghiệp tuần khách đông phòng đổi rất_lâu,1,-1,0,0,0
 alma oasis long hải resort miễn_phí spa tốt quay_lại,0,1,0,1,0
 gia_đình ấn_tượng tốt alma oasis long hải resort miễn_phí spa trang_trí dễ thương gian rộng_rãi thoáng_mát phòng rộng hồ bơi rộng phù_hợp gia đình con_nhỏ xuất massage miễn_phí điểm cộng phục_vụ nhân_viên chuyên_nghiệp thân_thiện,1,1,0,1,0
-điểm trừ duy_nhất thức_ăn đơn_điệu thay_đổi,0,0,1,0,0
+điểm trừ duy_nhất thức_ăn đơn_điệu thay_đổi,0,0,-1,0,0
 phòng rộng_rãi sạch_sẽ view đẹp,0,1,0,0,0
 nhân_viên dễ_thương nhiệt_tình lo_cho khách tắm biển hồ bơi,1,1,0,0,0
-đồ_ăn tệ hợp_khẩu_vị hầu_như món,0,0,1,0,0
+đồ_ăn tệ hợp_khẩu_vị hầu_như món,0,0,-1,0,0
 gia_đình alma oasis long hải resort miễn_phí spa trung_bình 2 /1 khá_tốt mọi_mặt dài_lâu lần_sau cảm_giác hơi nhàm_chán lý_do,1,1,0,0,0
-thực_đơn món_ăn nhà_hàng đơn_điệu ít đặc_sắc ít thay_đổi chu_kỳ,0,0,1,0,0
-ví_dụ thiếu bàn khu_vực vệ_sinh trước_khi hồ,0,0,0,0,1
-côn_trùng phòng,0,1,0,0,0
+thực_đơn món_ăn nhà_hàng đơn_điệu ít đặc_sắc ít thay_đổi chu_kỳ,0,0,-1,0,0
+ví_dụ thiếu bàn khu_vực vệ_sinh trước_khi hồ,0,0,0,0,-1
+côn_trùng phòng,0,-1,0,0,0
 nhìn_chung alma oasis long hải resort miễn_phí spa thiết_kế đẹp rộng_rãi thoáng_mát hồ bơi đẹp bãi_biển đẹp,0,1,0,0,0
 nhân_viên lịch_sự phòng_ốc sáng_sủa,1,1,0,0,0
-xắp xếp khu_vực đón khách alma oasis long hải resort miễn_phí spa hợp_lý khu nghỉ dưỡng nóng nhân_viên bếp măc đồng_phục quần jean áo màu giày_dép lung_tung bếp ăn bẩn khách cảm_giác thức_ăn không sạch_sẽ cơm nát sống.,1,0,1,1,0
-phòng xấu alma oasis long hải resort miễn_phí spa dột mưa,0,1,0,1,0
-cửa toilet bất_tiện chung con_nhỏ,0,0,0,0,1
-bồn_tắm ngoài_trời dọn_dẹp dơ lá mưa đọng_lại bồn_tắm sử_dụng,0,0,0,0,1
-toilet đọng cơn_mưa dơ,0,0,0,0,1
-cầu_thang dẫn_lên phòng trang_trí hoa không_được cắt tỉa khó,0,1,0,0,1
-phòng ăn nhỏ nóng đồ_ăn ít,0,1,1,0,0
+xắp xếp khu_vực đón khách alma oasis long hải resort miễn_phí spa hợp_lý khu nghỉ dưỡng nóng nhân_viên bếp măc đồng_phục quần jean áo màu giày_dép lung_tung bếp ăn bẩn khách cảm_giác thức_ăn không sạch_sẽ cơm nát sống.,1,0,-1,1,0
+phòng xấu alma oasis long hải resort miễn_phí spa dột mưa,0,-1,0,1,0
+cửa toilet bất_tiện chung con_nhỏ,0,0,0,0,-1
+bồn_tắm ngoài_trời dọn_dẹp dơ lá mưa đọng_lại bồn_tắm sử_dụng,0,0,0,0,-1
+toilet đọng cơn_mưa dơ,0,0,0,0,-1
+cầu_thang dẫn_lên phòng trang_trí hoa không_được cắt tỉa khó,0,1,0,0,-1
+phòng ăn nhỏ nóng đồ_ăn ít,0,-1,-1,0,0
 ngòai vấn_đề ok hồ bơi thiết_kế đẹp tiện_lợi gia_đình con_nhỏ view tốt biển đẹp nhân_viên thân_thiện,1,1,0,1,0
 dịch_vụ spa miễn_phí ok,1,0,0,1,0
 nói_chung alma oasis long hải resort miễn_phí spa ổn,0,0,0,1,0
-phòng màn tính_chất tượng_trưng che_chở,0,1,0,0,1
+phòng màn tính_chất tượng_trưng che_chở,0,-1,0,0,-1
 thức_ăn breakfast ok chấp_nhận,0,0,1,0,0
-thực_đơn chất_lượng bữa_trưa tệ,0,0,1,0,0
-buổi_tối nằm 2,0,1,0,0,0
+thực_đơn chất_lượng bữa_trưa tệ,0,0,-1,0,0
+buổi_tối nằm 2,0,-1,0,0,0
 phòng đẹp thích phòng_tắm ngoài_trời đặc_biệt thích dịch_vụ spa ở_đây nhân_viên phục_vụ nhiệt_tình dễ_thương,1,1,0,0,0
-điểm trừ duy_nhất đồ_ăn giá hơi đắt 2 vợ_chồng ăn_hết 1tr5 no,0,0,1,1,0
+điểm trừ duy_nhất đồ_ăn giá hơi đắt 2 vợ_chồng ăn_hết 1tr5 no,0,0,-1,-1,0
 alma oasis long hải resort miễn_phí spa thiết_kế đẹp sạch_sẽ phòng sạch_sẽ màu_sắc trang_nhã thiết_kế mới_lạ nhân_viên nhiệt_tình vị_trí đẹp,1,1,0,1,0
 hồ_bơi đẹp dịch_vụ tốt không_gian yên_tĩnh xanh đẹp thích_hợp nghỉ dưỡng thoải_mái ,1,0,0,1,0
 nhân_viên thân_thiện phục_vụ tốt,1,0,0,0,0
 phòng đẹp nghỉ alma oasis long hải resort miễn_phí spa hơi nhỏ trang_bị đầy_đủ đầy_đủ tiện_nghi relax,0,1,0,0,1
-buffet hơi nghèo_nàn,0,0,1,0,0
+buffet hơi nghèo_nàn,0,0,-1,0,0
 tổng_thể resort đẹp hiện_đại,0,1,0,0,0
 alma view đẹp trang_trí phòng dễ_thương 2 gam màu chủ_đạo trắng xanh biển ấn_tượng,0,1,0,0,1
 bãi_biển đẹp ấm ít sóng hồ bơi đẹp nhân_viên nhiệt_tình vui_vẻ thức_ăn ngon,1,0,1,1,0
-sóng wifi yếu spa free đăng_ký quá_đông giá phòng bao_gồm spa free hầu_như hưởng dịch_vụ spa,0,0,0,1,1
+sóng wifi yếu spa free đăng_ký quá_đông giá phòng bao_gồm spa free hầu_như hưởng dịch_vụ spa,0,0,0,1,-1
 gia_đình lần_trước đổi alma oasis long hải resort miễn_phí spa đánh_giá chung hơn_hẳn anoasis cũ phòng hài_lòng alma oasis mọi_mặt một_chút đề_nghị resort cải_thiện bổ_sung món_ăn thực_đơn la carte chất_lượng nấu_ăn ngon ít món khách 3-4 ăn resort món chọn_lựa,0,1,1,1,0
 resort khung_cảnh đẹp đặc_biệt hồ bơi đẹp ấm_áp thích_hợp gia_đình con_nhỏ,0,1,0,0,0
-vị_trí phòng đẹp trang_thiết_bị bên_trong phòng không_được cao_cấp lắm,0,1,0,1,1
+vị_trí phòng đẹp trang_thiết_bị bên_trong phòng không_được cao_cấp lắm,0,-1,0,1,-1
 phòng sạch_sẽ ánh_sáng thiên_nhiên trang_bị 1 rèm che ánh_sáng bên_trong phòng ngủ ban_ngày phòng bất_tiện,0,1,0,0,0
-ăn_sáng hơi ít món ngon lắm,0,0,1,0,0
-ăn_trưa ăn tối giá vừa_phải gia_đình ăn 1 bữa còn_lại ăn resort,0,0,1,1,0
+ăn_sáng hơi ít món ngon lắm,0,0,-1,0,0
+ăn_trưa ăn tối giá vừa_phải gia_đình ăn 1 bữa còn_lại ăn resort,0,0,-1,1,0
 dịch_vụ spa bao_gồm tiền phòng tốt phục_vụ nhiệt_tình,1,1,0,1,0
-alma oasis long hải resort miễn_phí spa ok phòng đồ_dùng view ổn nói_chung khá_tốt có_điều restaurant nhỏ ăn_sáng chen_chúc ngột_ngạt check in out lâu sảnh máy_lạnh nắng trực_tiếp máy_tính in_hóa_đơn,0,1,1,0,1
+alma oasis long hải resort miễn_phí spa ok phòng đồ_dùng view ổn nói_chung khá_tốt có_điều restaurant nhỏ ăn_sáng chen_chúc ngột_ngạt check in out lâu sảnh máy_lạnh nắng trực_tiếp máy_tính in_hóa_đơn,0,1,-1,0,1
 alma oasis long hải resort miễn_phí spa tái cơ_cấu đẹp nhân_viên nhiệt_tình chuyên_nghiệp,1,0,0,1,0
 phòng_khách sạn thiết_kế độc_đáo dịch_vụ spa chuyên_nghiệp,1,1,0,0,0
-đồ_ăn nhà_hàng ngon giá_hơi cao chất_lượng,0,0,1,1,0
-alma oasis long hải resort miễn_phí spa hoạt_động xuống_cấp nhanh chất lương xây_dựng tốt,0,1,0,1,1
+đồ_ăn nhà_hàng ngon giá_hơi cao chất_lượng,0,0,1,-1,0
+alma oasis long hải resort miễn_phí spa hoạt_động xuống_cấp nhanh chất lương xây_dựng tốt,0,-1,0,1,-1
 bàn_ghế giường ximăng thay gỗ điểm độc_đáo,0,0,0,0,1
 hồ_bơi_nên ghi_chú độ_sâu vùng tương_ứng hồ thiết_kế bật vòi phun trang_trí bể sục jacuzzi spa tốt phiếu điền trước_khi thực_hiện kỹ_thuật massage tốt đồng_bộ nhân_viên bất_tiện hẹn_giờ khó trống giờ tốt,1,0,0,0,1
 nhân_viên khâu vui_vẻ thân_thiện,1,0,0,0,0
 phòng alma oasis long hải resort miễn_phí spa rộng_rãi đẹp,0,1,0,1,0
-đường phòng bậc_thang hơi tối ánh_sáng bồn_tắm dễ trượt té thuận_tiện người_già trẻ_em,0,1,0,0,1
+đường phòng bậc_thang hơi tối ánh_sáng bồn_tắm dễ trượt té thuận_tiện người_già trẻ_em,0,-1,0,0,-1
 spa chất_lượng,1,0,0,0,0
-thức_ăn tạm_được,0,0,1,0,0
+thức_ăn tạm_được,0,0,-1,0,0
 phòng alma oasis long hải resort miễn_phí spa tuyệt_vời nhiên bố_trí cửa phòng kiếng trong_suốt hơi bất_tiện trẻ nhỏ chơi để_ý tông thẳng vào_cửa phân_biệt cửa mở đóng.,0,1,0,1,0
-ngoài_ra phòng thiết_kế cửa kéo bé dễ kẹt tay đóng mở cửa,0,1,0,0,1
+ngoài_ra phòng thiết_kế cửa kéo bé dễ kẹt tay đóng mở cửa,0,1,0,0,-1
 alma oasis long hải resort miễn_phí spa đẹp thiết_bị vệ_sinh đẹp phong_cách phục_vụ nhẹ_nhàng hòa nhã hồ bơi bố_trí chỗ phù_hợp trẻ_em mát tốt khu_vực giữ_trẻ cũi miễn_phí phù_hợp gia_đình trẻ_nhỏ,1,1,0,1,1
-bãi_biển hơi dơ máy_lạnh phòng mát không_gian rộng giữ_trẻ em_bé ít_quá 2-4pm buffet ít món món ko kịp số_lượng đông,0,1,1,0,1
+bãi_biển hơi dơ máy_lạnh phòng mát không_gian rộng giữ_trẻ em_bé ít_quá 2-4pm buffet ít món món ko kịp số_lượng đông,0,1,-1,0,-1
 alma oasis long hải resort miễn_phí spa tốt,0,0,0,1,0
 mính alma oasis long hải resort miễn_phí spa 1 đêm 11h 2h phòng nhân_viên linh_động xếp phòng phòng_lúc 11h30 nói_chung good phòng đẹp nhân_viên phục_vụ tận_tình lịch_sự quản_lý bảo_vệ,1,1,0,0,0
-có_nhà_hàng hơi khó ăn chút hợp_khẩu_vị giá_cả ok,0,0,1,1,0
-phòng alma oasis long hải resort miễn_phí spa hơi nhỏ,0,1,0,1,0
-wifi yếu gần_như sử_dụng,0,0,0,0,1
+có_nhà_hàng hơi khó ăn chút hợp_khẩu_vị giá_cả ok,0,0,-1,1,0
+phòng alma oasis long hải resort miễn_phí spa hơi nhỏ,0,-1,0,1,0
+wifi yếu gần_như sử_dụng,0,0,0,0,-1
 máy_lạnh mát,0,0,0,0,1
 nhân_viên phục_vụ tốt phản_ánh lập_tức sửa_chữa hoàn_toàn sửa,1,0,0,0,0
 alma oasis long hải resort miễn_phí spa khánh_thành cơ_sở vật_chất thiết_kế phòng dạng mở logic tận_dụng không_gian tạo cảm_giác thoải_mái,0,1,0,0,1
-điểm trừ duy_nhất nhân_viên tạp_vụ server ở_nhà_hàng số_ít thái_độ chuẩn resort 4,1,0,0,0,1
+điểm trừ duy_nhất nhân_viên tạp_vụ server ở_nhà_hàng số_ít thái_độ chuẩn resort 4,-1,0,0,0,1
 mọi_thứ tốt alma oasis long hải resort miễn_phí spa sửa xong phòng phong_cách hiện_đại tone màu_xanh trắng phù_hợp không_khí biển nhân_viên huấn_luyện đàng_hoàng dịch_vụ ok,1,1,0,1,0
-internet yếu,0,0,0,0,1
+internet yếu,0,0,0,0,-1
 đồ_ăn alma oasis long hải resort miễn_phí spa ngon giá_cả chấp_nhận đc resort,0,0,1,1,0
 miễn_phí spa,0,0,0,1,0
-tv cập_nhật phim,0,0,0,0,1
+tv cập_nhật phim,0,0,0,0,-1
 bồn_tắm lộ_thiên đc chú_ý phòng trên_cao nhìn_xuống đẹp,0,1,0,0,0
 menu đồ_ăn uống đa_dạng,0,0,1,0,0
 bữa_sáng tương_xứng resort 4,0,0,1,0,0
@@ -405,9 +405,9 @@ buồi tối sử_dụng spa thật thoải_mái phòng_ngủ giấc thật ngon
 phòng thiết_kế đẹp thoải_mái,0,1,0,0,0
 phòng alma oasis long hải resort đẹp không_khí lành nhân_viên thân_thiện,1,1,0,0,0
 thích_hợp kỳ_nghỉ dưỡng gia_đình,1,0,0,0,0
-phong_cảnh đẹp phục_vụ chu_đáo món_ăn alma oasis long hải resort không_được phong_phú lắm,1,0,1,0,0
+phong_cảnh đẹp phục_vụ chu_đáo món_ăn alma oasis long hải resort không_được phong_phú lắm,1,0,-1,0,0
 phòng family đẹp tivi internet tiện_lợi,0,1,0,0,1
-tiếc ăn_sáng buffet đơn_điệu dịp quay_lại alma oasis long hải resort miễn_phí spa,0,0,1,1,0
+tiếc ăn_sáng buffet đơn_điệu dịp quay_lại alma oasis long hải resort miễn_phí spa,0,0,-1,1,0
 phòng alma oasis long hải resort miễn_phí spa sạch_sẽ thiết_kế đơn_giản tinh_tế gần_gũi thiên_nhiên,0,1,0,1,0
 nhân_viên dễ_thương thân_thiện,1,0,0,0,0
 kỳ_nghỉ tuần thoải_mái thư_giãn khung_cảnh thân_thiện môi_trường phòng_ốc đẹp,0,1,0,1,0
@@ -418,33 +418,33 @@ phong_cảnh alma oasis long hải resort đẹp phòng_ốc hiện_đại sạc
 thức_ăn phong_phú,0,0,1,0,0
 nhân_viên mọi_thứ tốt menu tiếng việt việt_nam,1,0,0,0,0
 alma oasis long hải resort thiết_kế đẹp hơi nhỏ,0,1,0,0,0
-spa miễn_phí sắp_xếp kém linh_động phòng spa tệ,0,1,0,1,0
+spa miễn_phí sắp_xếp kém linh_động phòng spa tệ,0,-1,0,1,0
 nhà_hàng tệ,0,1,0,0,0
 menu toàn tiếng hình_ảnh định_lượng,0,0,0,0,1
-thức_ăn bữa_sáng thật nghèo_nàn,0,0,1,0,0
+thức_ăn bữa_sáng thật nghèo_nàn,0,0,-1,0,0
 phòng alma oasis long hải resort miễn_phí spa đẹp sạch_sẽ,0,1,0,1,0
 dịch_vụ spa xông hơi ở_đây tuyệt_vời thư_giãn,1,0,0,0,0
 nhân_viên đa_số địa_phương nhiệt_tình thân_thiện,1,0,0,0,0
-chỉ_có bếp ở_nhà_hàng nêm nếm món_ăn hơi mặn tí_xíu ăn tối,0,0,1,0,0
+chỉ_có bếp ở_nhà_hàng nêm nếm món_ăn hơi mặn tí_xíu ăn tối,0,0,-1,0,0
 alma oasis long hải resort tốt nhân_viên thân_thiện đáng nghĩ dưỡng wifi ok,1,0,0,0,1
 biển_sạch nhân_viên ở_đây thân_thiện hướng_dẫn tận_tình bày trí phòng đẹp hợp_lý,1,1,0,0,0
-mạng wifi chiều_tối lag,0,0,0,0,1
+mạng wifi chiều_tối lag,0,0,0,0,-1
 ấn_tượng tại_đây nhân_viên làm_việc chuyên_nghiệp 1 món đồ nhỏ quên trao_trả tận_tay,1,0,0,0,0
-alma oasis long hải resort miễn_phí spa phòng sạch_sẽ nhân_viên thân_thiện thức_ăn ít món ngon_miệng dịch_vụ spa tốt,1,1,1,1,0
-phòng nhỏ hơi chật tiện_nghi ít cây_xanh resort xây,0,1,0,0,1
-kỳ_nghỉ chất_lượng phòng_không tốt đt vòi hoa_sen hỏng chăn ga gối đệm khu nghỉ đảm_bảo tiêu_chuẩn resort bãi_biển ồn_ào đặt phòng thực_tế xếp phòng yêu_cầu phiếu đặt phòng ghi phòng nghỉ 1 giường biệt_thự thực_tế khách_sạn bố chí phòng toàn cao_tầng,0,1,0,0,1
-trước_hết bimexco đội_ngũ nhân_viên thiếu sự_chuyên_nghiệp nhân_viên khách_sạn nhân_viên nhà_hàng,1,0,0,0,0
-bước_vào phòng_ngủ đập mắt hình_ảnh chật_chội bố_trí thiếu chuyên_nghiệp cơ_sở vật_chất quá_tệ phòng_tắm không_hề dầu gội xà_phòng mặc_dù yêu_cầu tối_thiểu bắt_điện_thoại gọi lễ_tân định xin điện_thoại phòng_bị hư,1,1,0,0,1
-ăn_sáng ở_đây quá_tệ ban_đầu cứ_tưởng buffet resort ai_ngờ đâu gọi 1 lượt free bánh_mì opla phở gọi_thêm tính_tiền chất_lượng dỡ vô_cùng,1,0,1,0,0
-gọi_thêm gọi mấy chẳng nhân_viên nhìn xung_quanh nhà_hàng quản_lí mặc nhân_viên làm_thế_nào khách gọi kệ khách chẳng nhân_viên quan_tâm,1,0,0,0,0
-tóm_lại bimexco ko xứng resort chất_lượng cở sở vật_chất nhân_viên ở_đây tương_xứng phòng trọ bình_thường,1,0,0,0,1
-tiện_nghi phòng khỏi_nói quá_tệ,0,1,0,0,1
-giường nhỏ chăn niệm chăn niệm,0,0,0,0,1
-bữa_ăn_sáng tệ 3 món trứng ốp la phở hủ_tíu xin trà đá charge phí,0,0,1,0,0
-gọi_là resort sát bờ_biển băng_qua đường phòng óc chật_chội dịch_vụ bình_thường,1,1,0,0,0
-đồ_ăn thật đạm_bạc,0,0,1,0,0
-phòng cũ 04 2 giường 1,0,1,0,0,1
-phòng hơi chật_chội ăn_sáng phở trứng chiên ăn_trưa ăn tối toàn đồ đông_lạnh,0,1,1,0,0
+alma oasis long hải resort miễn_phí spa phòng sạch_sẽ nhân_viên thân_thiện thức_ăn ít món ngon_miệng dịch_vụ spa tốt,1,1,-1,1,0
+phòng nhỏ hơi chật tiện_nghi ít cây_xanh resort xây,0,-1,0,0,-1
+kỳ_nghỉ chất_lượng phòng_không tốt đt vòi hoa_sen hỏng chăn ga gối đệm khu nghỉ đảm_bảo tiêu_chuẩn resort bãi_biển ồn_ào đặt phòng thực_tế xếp phòng yêu_cầu phiếu đặt phòng ghi phòng nghỉ 1 giường biệt_thự thực_tế khách_sạn bố chí phòng toàn cao_tầng,0,-1,0,0,-1
+trước_hết bimexco đội_ngũ nhân_viên thiếu sự_chuyên_nghiệp nhân_viên khách_sạn nhân_viên nhà_hàng,-1,0,0,0,0
+bước_vào phòng_ngủ đập mắt hình_ảnh chật_chội bố_trí thiếu chuyên_nghiệp cơ_sở vật_chất quá_tệ phòng_tắm không_hề dầu gội xà_phòng mặc_dù yêu_cầu tối_thiểu bắt_điện_thoại gọi lễ_tân định xin điện_thoại phòng_bị hư,-1,-1,0,0,-1
+ăn_sáng ở_đây quá_tệ ban_đầu cứ_tưởng buffet resort ai_ngờ đâu gọi 1 lượt free bánh_mì opla phở gọi_thêm tính_tiền chất_lượng dỡ vô_cùng,-1,0,-1,0,0
+gọi_thêm gọi mấy chẳng nhân_viên nhìn xung_quanh nhà_hàng quản_lí mặc nhân_viên làm_thế_nào khách gọi kệ khách chẳng nhân_viên quan_tâm,-1,0,0,0,0
+tóm_lại bimexco ko xứng resort chất_lượng cở sở vật_chất nhân_viên ở_đây tương_xứng phòng trọ bình_thường,-1,0,0,0,-1
+tiện_nghi phòng khỏi_nói quá_tệ,0,-1,0,0,-1
+giường nhỏ chăn niệm chăn niệm,0,0,0,0,-1
+bữa_ăn_sáng tệ 3 món trứng ốp la phở hủ_tíu xin trà đá charge phí,0,0,-1,0,0
+gọi_là resort sát bờ_biển băng_qua đường phòng óc chật_chội dịch_vụ bình_thường,-1,-1,0,0,0
+đồ_ăn thật đạm_bạc,0,0,-1,0,0
+phòng cũ 04 2 giường 1,0,-1,0,0,1
+phòng hơi chật_chội ăn_sáng phở trứng chiên ăn_trưa ăn tối toàn đồ đông_lạnh,0,-1,-1,0,0
 nhìn tổng_thể bimexco resort đẹp biệt_thự riêng_biệt phòng 4 hơi nhỏ,0,1,0,0,0
 nhân_viên thân_thiện,1,0,0,0,0
 almanity hội_an alma courtyard cũ miễn_phí spa phố cổ đi_bộ thuận_tiện,0,0,0,1,0
@@ -452,27 +452,27 @@ khách_sạn đồ_đạc,0,0,0,0,1
 phòng nhìn bể_bơi thiết_kế phong_cách nhỏ gọn hiện_đại tiện_ích kiểu căn_hộ nhỏ mới_mẻ thú_vị,0,1,0,0,0
 đội_ngũ nhân_viên almanity thân_thiện mỉm_cười hỗ_trợ khách,1,0,0,0,0
 nhân_viên nhiệt_tình vui_vẻ,1,0,0,0,0
-đồ_ăn bữa_sáng ít món tương_xứng khách_sạn,0,0,1,0,0
+đồ_ăn bữa_sáng ít món tương_xứng khách_sạn,0,0,-1,0,0
 spa gói 45 miễn_phí mức bình_thường,1,0,0,1,0
 nhân_viên lịch_sự,1,0,0,0,0
 almanity hội_an alma courtyard cũ miễn_phí spa yên_tĩnh cảnh_đẹp phòng tiện_nghi thoải_mái khuôn_viên nhỏ,0,1,0,0,0
-đồ_ăn bình_thường không_được ngon,0,0,1,0,0
-phòng_ngủ điều_hoà chĩa thẳng giường_ngủ đêm nằm bật 28 độ rét,0,1,0,0,1
-đồ_ăn ngon giá_đắt tiêu_chuẩn 4,0,0,1,1,0
+đồ_ăn bình_thường không_được ngon,0,0,-1,0,0
+phòng_ngủ điều_hoà chĩa thẳng giường_ngủ đêm nằm bật 28 độ rét,0,1,0,0,-1
+đồ_ăn ngon giá_đắt tiêu_chuẩn 4,0,0,1,-1,0
 cảm_giác đươc thoải_mái vỉ chuyên_nghiêp,1,0,0,0,0
 nhân_viên tiếp_đón tốt giải_quyết linh_hoạt trả_phòng trễ quy_định 2 tiếng,1,0,0,0,0
 phòng rộng_rãi thiết_kế đẹp,0,1,0,0,0
-cách_âm hơi kém phòng mặt_đường buổi_sáng hơi ồn ảnh_hưởng giấc_ngủ,0,0,0,0,1
+cách_âm hơi kém phòng mặt_đường buổi_sáng hơi ồn ảnh_hưởng giấc_ngủ,0,0,0,0,-1
 buffet ổn ngon món fusion suite đà_nẵng nhân_viên nhà_hàng phục_vụ chu_đáo,1,0,1,0,0
 cocktail ngon,0,0,1,0,0
-thức_ăn hơi dầu_mỡ ví_dụ món mì xào,0,0,1,0,0
+thức_ăn hơi dầu_mỡ ví_dụ món mì xào,0,0,-1,0,0
 spa không_gian đẹp dịch_vụ tốt chuẩn 4,1,0,0,0,0
 alma courtyard hội an resort miễn_phí spa phố cổ nhân_viên vui_vẻ hồ bơi bẩn đẹp lắm,1,0,0,1,0
 alma courtyard hội an resort miễn_phí spa đẹp nội_thất phòng hiện_đại đồ_ăn đa_dạng,0,1,1,1,0
 nhân_viên phục_vụ dễ_chịu,1,0,0,0,0
 đội_ngũ chuyên_nghiệp thân_thiện,1,0,0,0,0
 đồ_ăn ngon môi_trường trung_tâm phố cổ đi_bộ,0,0,1,1,0
-alma courtyard hội an resort miễn_phí spa ít khách_du_lịch lưu_trú phòng_ốc sạch_sẽ ăn_sáng không_đổi món ít món,0,1,1,1,0
+alma courtyard hội an resort miễn_phí spa ít khách_du_lịch lưu_trú phòng_ốc sạch_sẽ ăn_sáng không_đổi món ít món,0,1,-1,1,0
 khách_sạn trang_bị tiện nghi.,0,1,0,0,1
 nhân_viên cười,1,0,0,0,0
 alma courtyard hội an resort trung_tâm ăn_sáng tương_đối,0,0,1,0,0
@@ -482,69 +482,69 @@ kiểu kiến_trúc hiện_đại thoáng đãng đội_ngũ nhân_viên phục_
 bình_an village dalat đẹp,0,1,0,0,0
 nhân_viên phục_vụ chu_đáo,1,0,0,0,0
 đồ_ăn cũng_đươc,0,0,1,0,0
-tiếc nuối duy_nhất ở_đây hơi_xa,0,0,0,1,0
+tiếc nuối duy_nhất ở_đây hơi_xa,0,0,0,-1,0
 bình_an village dalat tuyệt_vời,0,1,0,0,0
 không_gian thoáng rộng yên_tĩnh bãi_cỏ rộng vườn_hoa đồi thông view bờ_hồ,0,0,0,1,0
-vị_trí trung_tâm 15km nhu_cầu đi_chơi trung_tâm bất_tiện mặc_dù khách_sạn free shuttle bus đưa_đón khách_sạn trung_tâm 3 chuyến,0,0,0,1,0
-ăn_uống resort hơi ít món chọn nấu_ăn ngon giá_cả hợp_lý mắc 60-200k + +,0,0,1,1,0
+vị_trí trung_tâm 15km nhu_cầu đi_chơi trung_tâm bất_tiện mặc_dù khách_sạn free shuttle bus đưa_đón khách_sạn trung_tâm 3 chuyến,0,0,0,-1,0
+ăn_uống resort hơi ít món chọn nấu_ăn ngon giá_cả hợp_lý mắc 60-200k + +,0,0,-1,1,0
 nhân_viên thân_thiện dễ_thương khách phục_vụ yêu_cầu khách,1,0,0,0,0
 phòng rộng 47 m2 thiết_kế đẹp,0,1,0,0,0
 giá hợp_lý,0,0,0,1,0
 phong_cảnh bình_an village dalat thành_phố đà_lạt đẹp phòng rộng thoải_mái,0,1,0,1,0
 giá hợp chất_lượng món_ăn ở_đây lựa_chọn ăn ngon,0,0,1,1,0
 nhân_viên phục_vụ nhiệt_tình hài_lòng,1,0,0,0,0
-đầu_bếp nấu món_ăn mặn,0,0,1,0,0
+đầu_bếp nấu món_ăn mặn,0,0,-1,0,0
 bãi_biển amanoi resort đẹp khung_cảnh yên_tĩnh nhân_viên phục_vụ bãi_biển chuyên_nghiệp thân_thiện nhân_viên phục vụ nhà_hàng tận tình_chu đáo,1,1,0,0,0
 nhân_viên vô_cùng lịch_sự,1,0,0,0,0
-trang_thiết_bị phòng bình_minh resort cable car vũng_tàu kdl cáp_treo hồ_mây xuống_cấp hư_hỏng,0,0,0,0,1
-máy_lạnh hư_không bảo_trì,0,0,0,0,1
-ô khoá mở bên_ngoài mặc_dù sử_dụng thẻ,0,1,0,0,1
-cửa buồn nhà_tắm hư lắp_vào trượt,0,0,0,0,1
-vòi chậu_rửa tay hư,0,0,0,0,1
+trang_thiết_bị phòng bình_minh resort cable car vũng_tàu kdl cáp_treo hồ_mây xuống_cấp hư_hỏng,0,0,0,0,-1
+máy_lạnh hư_không bảo_trì,0,0,0,0,-1
+ô khoá mở bên_ngoài mặc_dù sử_dụng thẻ,0,-1,0,0,-1
+cửa buồn nhà_tắm hư lắp_vào trượt,0,0,0,0,-1
+vòi chậu_rửa tay hư,0,0,0,0,-1
 nút nhấn buồng toilet xả được_nước,0,0,0,0,1
-ti vi tín_hiệu kém yếu,0,0,0,0,1
+ti vi tín_hiệu kém yếu,0,0,0,0,-1
 ấn_tượng nhất_là thái_độ dịch_vụ nhân_viên tốt nói_chung mọi_thứ ok,1,0,0,0,0
-tiện_nghi phòng bình_minh resort cable car vũng_tàu kdl cáp_treo hồ_mây tốt đèn hư máy_lạnh lạnh,0,1,0,1,1
+tiện_nghi phòng bình_minh resort cable car vũng_tàu kdl cáp_treo hồ_mây tốt đèn hư máy_lạnh lạnh,0,1,0,1,-1
 bình_minh resort cable car vũng_tàu kdl cáp_treo hồ_mây buổi_tối không_có giải_trí giá_cả phù_hợp,0,0,0,1,0
-phòng_ốc quá_tệ thức_ăn_sáng ít nhân_viên không_được nhiệt_tình lắm,1,1,1,0,0
-kdl cáp_treo hồ mây 2 nói_chung thích_hợp gia_đình con_nhỏ tiện_ích trò_chơi thái_độ phục_vụ nhân_viên khá_tốt phòng_ốc không_được đẹp lắm sạch_sẽ,1,1,0,0,1
+phòng_ốc quá_tệ thức_ăn_sáng ít nhân_viên không_được nhiệt_tình lắm,-1,-1,-1,0,0
+kdl cáp_treo hồ mây 2 nói_chung thích_hợp gia_đình con_nhỏ tiện_ích trò_chơi thái_độ phục_vụ nhân_viên khá_tốt phòng_ốc không_được đẹp lắm sạch_sẽ,1,-1,0,0,1
 nhân_viên phục_vụ tốt,1,0,0,0,0
-thức_ăn bình_thường,0,0,1,0,0
-phòng khách_sạn không_được,0,1,0,0,0
-tín_hiệu tivi gián_đoạn,0,0,0,0,1
+thức_ăn bình_thường,0,0,-1,0,0
+phòng khách_sạn không_được,0,-1,0,0,0
+tín_hiệu tivi gián_đoạn,0,0,0,0,-1
 nhân_viên nhiệt_tình,1,0,0,0,0
-dịch_vụ tốt tiền 200k khu vui_chơi thay giá phòng du_khách cảm_giác bực_mình trả khoản_tiền,1,1,0,1,0
+dịch_vụ tốt tiền 200k khu vui_chơi thay giá phòng du_khách cảm_giác bực_mình trả khoản_tiền,1,-1,0,-1,0
 vị_trí tốt vũng_tàu thay_đổi không_khí đi_biển,0,0,0,1,0
-phục_vụ chậm,1,0,0,0,0
+phục_vụ chậm,-1,0,0,0,0
 phòng đẹp mát_mẻ,0,1,0,0,0
 nhân_viên nhiệt_tình dễ_thương đặc_biệt nhất_là nhiếp_ảnh anh_ấy chụp_hình hướng_dẫn_viên du_lịch gia_đình 1 nhiệt_tình chụp_hình đẹp chụp 43 460 nghìn,1,0,0,0,0
 nhân_viên lễ_tân xe_điện vui_vẻ nhiệt_tình có_người xe_đạp đôi_lúc 16h50 17h 01/07 nhiệt_tình lắm khách xe thèm hướng_dẫn bé trai 13 nhầm xe không_được dây sên trật 5 phút cả_nhà hiểu lý_do tụi nhỏ chán nghỉ đạp công_viên,1,0,0,0,0
-thức_ăn bảng_giá món món ăn nguyên gia_đình ít_quá ăn,0,0,1,0,0
-ăn_sáng chán t4 ít khách buffet mỗi_người ít 1 nước_uống,0,0,1,0,0
-resort bình_minh nằm vị_trí đẹp phòng_ốc có_điều kiểm_tra đèn công_tắc ổ_cắm để_cho thẩm_mỹ tiêu_chuẩn resort ăn_sáng dở 2,0,1,1,1,1
+thức_ăn bảng_giá món món ăn nguyên gia_đình ít_quá ăn,0,0,-1,0,0
+ăn_sáng chán t4 ít khách buffet mỗi_người ít 1 nước_uống,0,0,-1,0,0
+resort bình_minh nằm vị_trí đẹp phòng_ốc có_điều kiểm_tra đèn công_tắc ổ_cắm để_cho thẩm_mỹ tiêu_chuẩn resort ăn_sáng dở 2,0,1,-1,1,-1
 phòng tương_đối thoáng ngắm_cảnh biển tốt,0,1,0,0,0
 nhân_viên phục_vụ okie,1,0,0,0,0
 kỳ nghĩ dưỡng amaryllis resort cảm_thấy thật_tuyệt nghỉ_ngơi đồ_ăn tương_đối ngon nhân_viên phục_vụ phòng vui_vẻ nhiệt_tình nhân_viên phục_vụ ăn_uống tương_đối tốt chịu_khó tươi_cười tốt lễ_tân chu_đáo,1,0,1,0,0
-buffet nêm nếm món hơi mặn cay resort điều_chỉnh phù_hợp trẻ_em khách gia_đình con_nhỏ,0,0,1,0,0
-phòng_ốc muỗi vằn xịt muỗi phòng ngoài_vườn thường_xuyên gắn cửa lưới chống muỗi bay phòng,0,1,0,0,0
-phục_vụ nhân_viên nhà_hàng đông năng_động hiệu_quả khách order món dặn dặn đừng nêm cay quên,1,0,1,0,0
+buffet nêm nếm món hơi mặn cay resort điều_chỉnh phù_hợp trẻ_em khách gia_đình con_nhỏ,0,0,-1,0,0
+phòng_ốc muỗi vằn xịt muỗi phòng ngoài_vườn thường_xuyên gắn cửa lưới chống muỗi bay phòng,0,-1,0,0,0
+phục_vụ nhân_viên nhà_hàng đông năng_động hiệu_quả khách order món dặn dặn đừng nêm cay quên,1,0,-1,0,0
 vị_trí amaryllis resort lợi_thế resort nguyễn_đình_chiểu,0,0,0,1,0
 phòng đẹp sạch_sẽ tiện_nghi giá ok,0,1,0,1,0
 amaryllis resort mảng xanh phòng_ốc đẹp hiện_đại nhân_viên nhiệt_tình thân_thiện,1,1,0,0,0
-phòng amaryllis resort sạch_sẽ đẹp resort cách_xa khu trung_tâm mũi_né,0,1,0,1,0
-đồ_ăn mặn,0,0,1,0,0
+phòng amaryllis resort sạch_sẽ đẹp resort cách_xa khu trung_tâm mũi_né,0,1,0,-1,0
+đồ_ăn mặn,0,0,-1,0,0
 nhân_viên phục_vụ chu_đáo,1,0,0,0,0
 phòng rộng_rãi sạch_sẽ,0,1,0,0,0
 suất_ăn phục_vụ buffet thức_uống dễ_dàng lựa_chọn bọn_trẻ,1,0,1,0,0
-vị_trí xe_nhà = vấn_đề xe phương trang xe khách đến_nơi đi_sâu trng resort,0,0,0,1,0
+vị_trí xe_nhà = vấn_đề xe phương trang xe khách đến_nơi đi_sâu trng resort,0,0,0,-1,0
 thái_độ nhân_viên reception ok,1,0,0,0,0
-phục_vụ phòng đôi_khi mặt_mày hơi khó_chịu,1,0,0,0,0
-phòng toilet hơi có_mùi sử_dụng tinh_dầu tốt_hơn,0,1,0,0,0
+phục_vụ phòng đôi_khi mặt_mày hơi khó_chịu,-1,0,0,0,0
+phòng toilet hơi có_mùi sử_dụng tinh_dầu tốt_hơn,0,-1,0,0,0
 thức_ăn phong_phú lắm an tạm_được,0,0,1,0,0
 amaryllis resort phan thiết đẹp,0,0,0,1,0
 nhân_viên thân_thiện,1,0,0,0,0
-phòng hơi_muỗi máy_lạnh chảy_nước bồn cầu nghẹt,0,1,0,0,1
-resort ok bể_bơi đẹp khách_sạn quá_nhiều muỗi ăn_sáng ít lựa_chọn,0,1,1,0,1
+phòng hơi_muỗi máy_lạnh chảy_nước bồn cầu nghẹt,0,-1,0,0,-1
+resort ok bể_bơi đẹp khách_sạn quá_nhiều muỗi ăn_sáng ít lựa_chọn,0,-1,-1,0,1
 tiện_nghi spa massage khách_hàng,0,1,0,0,0
 dịch_vụ tốt,1,0,0,0,0
 thức_ăn ăn_ngon,0,0,1,0,0
@@ -552,7 +552,7 @@ giá hợp_lý,0,0,0,1,0
 phòng_ốc hồ bơi đẹp thức_ăn buffet ngon hơi ít món nhân_viên phục_vụ ok,1,1,1,0,0
 resort nằm vị_trí hơi khuất bên_trong từ_đường đi_vào yên_tĩnh thích_hợp nghỉ dưỡng,0,0,0,1,0
 mặc_dù đi_vào dịp khuyến_mãi chất_lượng dịch_vụ tốt,1,0,0,0,0
-phòng phục_vụ karaoke nằm tầng hầm tối âm_u vắng_vẻ điện_thoại liên_lạc lễ_tân có_lẽ dịch_vụ kèm tận_dụng không_gian trống remote điều_khiển liệt phím ngồi một_lúc hát 2 tính_tiền 4.5usd,1,1,0,0,1
+phòng phục_vụ karaoke nằm tầng hầm tối âm_u vắng_vẻ điện_thoại liên_lạc lễ_tân có_lẽ dịch_vụ kèm tận_dụng không_gian trống remote điều_khiển liệt phím ngồi một_lúc hát 2 tính_tiền 4.5usd,-1,-1,0,0,-1
 ăn_uống vừa_ý không_có phàn_nàn,0,0,1,0,0
 hơi trung_tâm mũi né bờ_biển sạch_sẽ yên_tĩnh,0,0,0,1,0
 phòng sạch_sẽ mọi_thứ ok,0,1,0,0,0
@@ -565,10 +565,10 @@ giá tương_xứng chất_lượng phục_vụ tốt,1,0,0,1,0
 đầu_bếp nhà_hàng nấu ngon có_điều thực_đơn ít thay_đổi,0,0,1,0,0
 phòng đẹp sạch_sẽ giá thức_ăn thức_uống hợp_lý,0,1,0,1,0
 phòng rộng_rãi sạch_sẽ nội_thất khá_tốt,0,1,0,0,1
-dịp lễ resort 01 số_ít phòng trống xây_dựng bổ_sung hoàn_thiện ks kịp lắp tv wifi yếu ks giải_thích,0,0,0,0,1
+dịp lễ resort 01 số_ít phòng trống xây_dựng bổ_sung hoàn_thiện ks kịp lắp tv wifi yếu ks giải_thích,0,0,0,0,-1
 phòng vệ_sinh rộng 15m2 vòi sen,0,0,0,0,1
-sữa tắm dầu gội chai_nhựa nhỏ hơi ít thoải_mái,0,0,0,0,1
-thức_ăn ít món thay_đổi 1-2 món kế_tiếp,0,0,1,0,0
+sữa tắm dầu gội chai_nhựa nhỏ hơi ít thoải_mái,0,0,0,0,-1
+thức_ăn ít món thay_đổi 1-2 món kế_tiếp,0,0,-1,0,0
 món phù_hợp bé 2,0,0,1,0,0
 amiana resort nha_trang phòng_ốc đẹp cây_cối xanh mát view đẹp dịch_vụ tốt,1,1,0,1,0
 nội_thất cao_cấp,0,0,0,0,1
@@ -593,21 +593,21 @@ dịch_vụ tốt,1,0,0,0,0
 thức_ăn ngon giá hơi mắc resort tạm chấp nhận.,0,0,1,1,0
 phòng_ngủ rộng_rãi thông_thoáng,0,1,0,0,0
 điểm cộng resort cây_xanh hoa_lá đẹp khung_cảnh yên_tĩnh hài_lòng thái_độ phục_vụ lễ_tân dọn_dẹp phòng bác làm_vườn,1,0,0,1,0
-thất_vọng nhất_là thái_độ ko chuyên_nghiệp phục_vụ bàn_ăn,1,0,0,0,0
-bữa_sáng chọn dọn quá_nhiều dĩa ăn bạn_hàng tiếp_xúc quá_nhiều 1 thái_độ lạnh_lùng nhàn_nhạt không thân_thiện khác_hẳn nhg resort,1,0,1,0,0
-điểm trừ resort hạn_chế tầm_nhìn ko bãi_tắm biển rộng khu resort chắn 1 bờ kè,0,0,0,1,0
-bữa_sáng chọn ít đồ_ăn ko đc dọn món liên_tục,0,0,1,0,0
+thất_vọng nhất_là thái_độ ko chuyên_nghiệp phục_vụ bàn_ăn,-1,0,0,0,0
+bữa_sáng chọn dọn quá_nhiều dĩa ăn bạn_hàng tiếp_xúc quá_nhiều 1 thái_độ lạnh_lùng nhàn_nhạt không thân_thiện khác_hẳn nhg resort,-1,0,-1,0,0
+điểm trừ resort hạn_chế tầm_nhìn ko bãi_tắm biển rộng khu resort chắn 1 bờ kè,0,0,0,-1,0
+bữa_sáng chọn ít đồ_ăn ko đc dọn món liên_tục,0,0,-1,0,0
 amiana resort nha_trang đẹp yên_tĩnh,0,0,0,1,0
 nhân_viên phục_vụ nhiệt_tình vui_vẻ,1,0,0,0,0
 phòng đẹp phòng_tắm phòng tốt trang_thiết_bị phòng chuẩn_sao love it,0,1,0,0,1
 thức_ăn ngon lắm,0,0,1,0,0
 bánh_ngọt ngon phục_vụ tốt,1,0,1,0,0
-khu_vực sảnh nóng nhiệt đo check in 37 hot máy_lạnh sảnh,0,0,0,0,1
+khu_vực sảnh nóng nhiệt đo check in 37 hot máy_lạnh sảnh,0,0,0,0,-1
 amiana resort nha_trang tốt cảnh quang đẹp phòng đẹp mọi_thứ chăm_chút chu_đáo món_ăn ngon,0,1,1,1,0
 hài_lòng resort cảm_ơn nhân_viên phục_vụ,1,0,0,0,0
 đánh_giá tụi resort tốt view đẹp hồ bơi đẹp phòng_ốc gọn_gàng bố_trí hài_hòa thuận_tiện,0,1,0,1,0
 nhân_viên thân_thiện vợ_chồng thích,1,0,0,0,0
-phòng trang_trí hài_hòa wc rộng lát_đá hơi trơn trẻ_em người_già dễ ngã,0,1,0,0,1
+phòng trang_trí hài_hòa wc rộng lát_đá hơi trơn trẻ_em người_già dễ ngã,0,1,0,0,-1
 buffel buổi_sáng phong_phú thiên đồ_âu món thực_đơn chấp_nhận giá_cả tương_đối phù_hợp,0,0,1,1,0
 check in/ out nhanh thái_độ niềm_nở lễ_phép,1,0,0,0,0
 sân_bay trung_tâm bù_lại khách_sạn nhà_hàng_hải_sản ngon nhìn thẳng bãi_biển,0,0,1,1,0
@@ -617,30 +617,30 @@ cảnh_quan đẹp xanh cảm_giác gần_gũi thiên nhiên.,0,0,0,1,0
 góp nhỏ buffet tối ngon buổi_sáng,0,0,1,0,0
 nhân_viên amiana resort nha_trang nhiệt_tình,1,0,0,0,0
 view đẹp,0,0,0,1,0
-gọi xe_điện lâu gọi 3-4 xe,1,0,0,0,0
+gọi xe_điện lâu gọi 3-4 xe,-1,0,0,0,0
 buffet gói đặt phòng ok đồ_ăn ngon,0,0,1,0,0
-buffet tối nhà_hàng ít món,0,0,1,0,0
-phòng chơi trẻ_em ít đồ_chơi,0,1,0,0,0
+buffet tối nhà_hàng ít món,0,0,-1,0,0
+phòng chơi trẻ_em ít đồ_chơi,0,-1,0,0,0
 gia_đình kỳ_nghỉ 6 ngày 5 đêm amiana resort nha_trang hoàn_toàn hài_lòng trang_thiết_bị dịch_vụ resort,1,0,0,0,1
 ấn_tượng khung_cảnh ở_đây đẹp phòng_ốc sạch_sẽ đẹp thoáng_đãng riêng_tư nội_thất phòng đẹp nhà_ở riêng_biệt view đẹp thuận_tiện,0,1,0,1,1
 vị_trí amiana resort nha_trang trung_tâm nghỉ_ngơi yên_tĩnh tuyệt_đối,0,0,0,1,0
-phòng kid club ổn đồ_chơi đề_nghị bổ_sung ít cháu phá không_còn nguyên_vẹn,0,1,0,0,1
+phòng kid club ổn đồ_chơi đề_nghị bổ_sung ít cháu phá không_còn nguyên_vẹn,0,1,0,0,-1
 nhân_viên amiana nhiệt_tình chu_đáo hài_lòng,1,0,0,0,0
 đồ_ăn ở_đây ngon đa_dạng đẳng_cấp 5 xứng_đáng,0,0,1,0,0
 phòng amiana resort nha_trang thiết_kế đẹp bồn_tắm ngoài_trời gần_gũi thiên_nhiên,0,1,0,0,0
 resort yên_tĩnh nhân_viên thân_thiện vui_vẻ giúp_đỡ lúc_nào,1,0,0,1,0
 thức_ăn ngon lắm không_được ks 5 bữa_ăn ít thay_đổi dài_ngày ăn ngán,0,0,1,0,0
-buổi_tối giá hơi cao,0,0,0,1,0
+buổi_tối giá hơi cao,0,0,0,-1,0
 phong_cảnh resort đẹp mọi_người thân_thiện sảnh lễ_tân ấn_tượng,1,0,0,1,0
 amiana resort nha_trang đẹp khuôn_viên rộng 2 hồ bơi 1 hồ_nước_mặn,0,0,0,1,0
 phòng rộng phòng_tắm ngoài_trời đẹp,0,1,0,0,0
-buffet tương_đối thay_đổi ăn mấy ngán,0,0,1,0,0
+buffet tương_đối thay_đổi ăn mấy ngán,0,0,-1,0,0
 nhân_viên resort dễ_thương vui_vẻ,1,0,0,0,0
 amiana resort nha_trang khung_cảnh đẹp phòng đẹp nhân_viên thân_thiện bữa_sáng ngon thực_đơn phong_phú lắm nói_chung gia_đình thích resort,1,1,1,1,0
 amiana resort nha_trang phong_cảnh tuyệt đẹp gần_gũi thiên_nhiên cây_xanh mát_mẻ lãng_mạn kiến_trúc phòng nghỉ dọc biển xanh cát_trắng,0,1,0,0,0
 nhân_viên vui_vẻ thân_thiện mỉm_cười chào_hỏi khách,1,0,0,0,0
-buffet ăn hơi ít món_việt,0,0,1,0,0
-khuyết_điểm amiana khắc_phục tốc_độ internet chậm,0,0,0,0,1
+buffet ăn hơi ít món_việt,0,0,-1,0,0
+khuyết_điểm amiana khắc_phục tốc_độ internet chậm,0,0,0,0,-1
 amiana resort nha_trang đạt chất_lượng,0,1,0,0,0
 amiana resort nha_trang vị_trí đẹp phù_hợp tính_chất nghỉ dưỡng,0,0,0,1,0
 nhân_viên nhiệt_tình thân_thiện,1,0,0,0,0
@@ -655,11 +655,11 @@ amiana resort nha_trang vị_trí đẹp nhân_viên vui_vẻ dịch_vụ tốt 
 phòng đẹp nghệ_thuật thân_thiện môi_trường,0,1,0,0,0
 nhân_viên vui_vẻ lễ_phép,1,0,0,0,0
 thức_ăn ok chi_phí sử_dụng tiện_ích khách_sạn,0,0,1,1,0
-4 sáng_sớm amiana hơi trung_tâm thành_phố mọi_người quyết_định ăn bufet nhà_hàng bất_ngờ giá đắt ăn nhân_viên báo phải phụ_thu sáng_mai ăn_sáng không_ngon,1,0,1,1,0
-giá bufet cao khôn_ngon,0,0,1,1,0
+4 sáng_sớm amiana hơi trung_tâm thành_phố mọi_người quyết_định ăn bufet nhà_hàng bất_ngờ giá đắt ăn nhân_viên báo phải phụ_thu sáng_mai ăn_sáng không_ngon,1,0,-1,-1,0
+giá bufet cao khôn_ngon,0,0,-1,-1,0
 ngạc_nhiên sảnh tiếp_khách amiana đẹp,0,0,0,1,0
-đánh_giá nhân_viên chân_thật amiana resort nha_trang resort 2 pm khách phòng xấu kiếm ly phòng,1,1,0,0,0
-phòng deluxe trang_thiết_bị sự_tiện_nghi thiếu phòng ấm_cúng thiết_kế sắp_xếp hợp_lý tinh_tế,0,1,0,0,1
+đánh_giá nhân_viên chân_thật amiana resort nha_trang resort 2 pm khách phòng xấu kiếm ly phòng,1,-1,0,0,0
+phòng deluxe trang_thiết_bị sự_tiện_nghi thiếu phòng ấm_cúng thiết_kế sắp_xếp hợp_lý tinh_tế,0,1,0,0,-1
 trang_thiết_bị đẹp hiện_đại đèn pin bàn_ủi cân_đo trọng_lượng thích máy_nghe nhạc cắm ipod,0,0,0,0,1
 resort 1 góc bãi_tắm tự_nhiên đẹp hồ bơi nước_ngọt nước_mặn đẹp view độc_đáo 1 dãy bờ kè đá dãy cát trắng ấn_tượng,0,0,0,1,0
 ăn_sáng buffet ngon món món âu_á việt_nam,0,0,1,0,0
@@ -669,7 +669,7 @@ amiana resort nha trang sân_bay 1 tiếng đến_nơi thực_sự cảm_thấy 
 nhân_viên vô_cùng thân_thiện chu_đáo quản_lý khách_sạn tiễn,1,0,0,0,0
 không_gian ở_đây vô_cùng đẹp cây_xanh hoa,0,0,0,1,0
 view biển đẹp,0,0,0,1,0
-đồ_ăn mọi_người chê đa_dạng ăn buffet ở_đây cảm_thấy ổn đồ_ăn thay_đổi nhàm_chán,0,0,1,0,0
+đồ_ăn mọi_người chê đa_dạng ăn buffet ở_đây cảm_thấy ổn đồ_ăn thay_đổi nhàm_chán,0,0,-1,0,0
 có_ăn tối ở_đây thực_đơn gọi món đồ_ăn không_hề đắt ngon đến_nỗi tệ món_ăn trình_bày đẹp_mắt,0,0,1,1,0
 khu_nghỉ yên_tĩnh nhân_viên chu_đáo bể_bơi rộng đẹp,1,0,0,1,0
 sự_chào_đón người_quen cũ quay_lại thăm chào_hỏi cảm_ơn lễ_tân check in sớm trái_cây chào_mừng phong_phú,1,0,0,0,0
@@ -677,7 +677,7 @@ khó nụ_cười ở_đây nhân_viên quản_lý hoàn_toàn làm_tôi thoải
 lần_này chọn phòng deluxe phòng_tắm ngoài_trời hài_lòng sự_lựa_chọn phòng rộng_rãi thoải_mái sang_trọng phòng deluxe phía_trên tất_nhiên 2 phòng tốt phòng_tắm đẹp ấn_tượng ngần_ngại gia_hạn 1 ngay_sau_khi check in,0,1,0,0,0
 đáng_tiếc 2 trời mưa ít sử_dụng hoạt_động ngoài_trời cung_cấp hoạt_động bù_đắp kid club bàn bida phòng gym trang_thiết_bị nhân_viên chăm_sóc tốt,1,0,0,0,0
 thức_ăn phòng phục_vụ nhanh_chóng ngon_miệng giảm_giá một_ít 15 20 cung_cấp gói tổng_hợp ăn uống 2 pax thu_hút nhu_cầu,1,0,1,0,0
-tín_hiệu wifi yếu phòng góp_ý nghỉ hồ_nước_mặn lần_này rêu lần_trước thời_tiết mùa_này hồ,0,0,0,0,1
+tín_hiệu wifi yếu phòng góp_ý nghỉ hồ_nước_mặn lần_này rêu lần_trước thời_tiết mùa_này hồ,0,0,0,0,-1
 amiana resort nha_trang nằm vị_trí trung_tâm 8km,0,0,0,1,0
 resort khung_cảnh đẹp lãng_mạn 2 hồ bơi nước_ngọt nước_mặn nội_thất đẹp sang_trọng,0,1,0,1,1
 đồ_ăn món buffet đa_dạng ngon_miệng đặc_biệt nước_quả tươi ép ngon,0,0,1,0,0
@@ -689,10 +689,10 @@ nhân_viên thân_thiện hữu_ích cười sẵn_sàng giúp_đỡ hỏi,1,0,0
 hãy chắc_chắn bỏ_lỡ hồ bơi ở_đây thoải_mái sạch_sẽ nhân_viên phục_vụ tận_tình cảm_giác thật_tuyệt thư_giãn hồ bơi uống ly_bia resort happy hour mua 1 tặng 1 bar hồ bơi,1,0,0,0,0
 buối ăn_sáng thật ngon đa_dạng món_ăn chất_lượng tốt,0,0,1,0,0
 khung_cảnh xung_quanh vườn_cây trái đẹp thanh_bình,0,0,0,1,0
-mọi_thứ tốt gọi_điện_thoại lần_đầu đặt phòng amiana resort nha_trang nhân_viên trả_lời khó_chịu 1 điểm trừ_tuyệt_đối,1,0,0,0,0
-check in hơi lâu 1 khoản_tiền hơi_kỳ,0,0,0,1,0
+mọi_thứ tốt gọi_điện_thoại lần_đầu đặt phòng amiana resort nha_trang nhân_viên trả_lời khó_chịu 1 điểm trừ_tuyệt_đối,-1,0,0,0,0
+check in hơi lâu 1 khoản_tiền hơi_kỳ,0,0,0,-1,0
 resort đẹp yên_tĩnh đồ_ăn lựa_chọn ngon,0,1,1,1,0
-chỉ_có duy_nhất làm_tôi cảm_thấy phiền_lòng thái_độ nhân_viên thủ_tục check out,1,0,0,0,0
+chỉ_có duy_nhất làm_tôi cảm_thấy phiền_lòng thái_độ nhân_viên thủ_tục check out,-1,0,0,0,0
 mọi_thứ hoàn_hảo sự_tiếp_đón nồng_hậu thủ_tục nhanh_gọn khung_cảnh nên_thơ món_ăn ngon phòng đẹp tiện_ích phong_phú quan_điểm xanh bảo_vệ môi_trường du_khách thực_sự cảm_thấy thư_thái mãn_nguyện relax tuyệt_đối lưu_trú tại_nơi,1,1,1,1,0
 đánh_giá thái_độ sự_phục_vụ chuyên_nghiệp đội_ngũ nhân_viên amiana,1,0,0,0,0
 dịch_vụ amiana tôt phòng sạch_sẽ thái_độ phục_vụ thân_thiện chuyên_nghiệp,1,1,0,0,0
@@ -700,30 +700,30 @@ view đẹp giá hợp_lý,0,1,0,1,0
 amiana giá_cả hợp_lý đi_đông người,0,0,0,1,0
 amiana hài_lòng phục_vụ nhân_viên nhiệt_tình,1,0,0,0,0
 phòng_ốc rộng đặc_biệt thiết_kế nhà_tắm ngoài_trời cảm_giác thoải_mái vô_cùng,0,1,0,0,0
-điểm góp_ý resort hệ_thống thông_gió nhà_vệ_sinh đặt bồn cầu tốt vệ_sinh bật thông_gió mùi bốc phía_bên_ngoài phòng đặt đồ rửa tay bốc bồn_tắm phòng rộng nhỏ,0,1,0,0,1
+điểm góp_ý resort hệ_thống thông_gió nhà_vệ_sinh đặt bồn cầu tốt vệ_sinh bật thông_gió mùi bốc phía_bên_ngoài phòng đặt đồ rửa tay bốc bồn_tắm phòng rộng nhỏ,0,-1,0,0,-1
 hồ_bơi 2 hồ_nước_mặn nước_ngọt đẹp rộng view nhìn thẳng biển ngắm toàn_vịnh nha_trang đảo hòn rùa thật_tuyệt phòng đẹp sang_trọng,0,1,0,1,0
 buffet tương_đối ngon,0,0,1,0,0
 vị_trí gia_đình nghỉ dưỡng xe vấn_đề resort trung_tâm nha_trang không_xa lắm trên_dưới 10 km máy_bay hơi bất_tiện may resort xe đưa_đón trung_tâm nha_trang miễn_phí giờ quy_định resort 1 chuyến lẽ_dĩ_nhiên hơi gò_bó giờ,0,0,0,1,0
 nhân_viên đi_lại resort lúc_nào_cũng nhận_được nụ_cười tươi_tắn chào_hỏi ân_cần,1,0,0,0,0
-nhân_viên nhà_hàng ít_có nụ_cười khuôn_mặt buồn buồn.. nhất_là nhân_viên đứng quầy phở bánh_xèo kiệm nụ_cười khuôn_mặt nghiêm_nghị mỗi_lần thức_ăn không_ngon cảm_tưởng tiếp_xúc nhân_viên cơ_quan chính_quyền nhà_nước tiếc quầy lấy_được nhờ nhân_viên này chế_biến chọn nghề làm_dâu trăm_họ cố_gắng trang_bị nụ_cười thường_xuyên,1,0,1,0,0
+nhân_viên nhà_hàng ít_có nụ_cười khuôn_mặt buồn buồn.. nhất_là nhân_viên đứng quầy phở bánh_xèo kiệm nụ_cười khuôn_mặt nghiêm_nghị mỗi_lần thức_ăn không_ngon cảm_tưởng tiếp_xúc nhân_viên cơ_quan chính_quyền nhà_nước tiếc quầy lấy_được nhờ nhân_viên này chế_biến chọn nghề làm_dâu trăm_họ cố_gắng trang_bị nụ_cười thường_xuyên,-1,0,-1,0,0
 đặc_biệt cảm_tình nhân_viên bộ_phận tiền_sảnh nhiệt_tình nhanh_nhẹn trách_nhiệm giải_quyết đáp_ứng yêu_cầu nhanh,1,0,0,0,0
 phòng_ốc rộng_rãi,0,1,0,0,0
 phục_vụ nhiệt_tình vệ_sinh dọn_dẹp 2 trái_cây bánh nước_uống hàng_ngày đồ_ăn ngon,1,0,1,0,0
 thức_ăn ăn_sáng ok món nấu_ăn thực_đơn ít_có sự_thay_đổi,0,0,1,0,0
 nhà_hàng rộng_rãi thiết_kế đẹp cột thân dừa đan xéo lạ_mắt,0,1,0,0,0
-nhận_xét đánh_giá hết_sức khách_quan dịch_vụ amiana resort nha_trang lưu_trú phòng 307 1719/07 resort thiết_kế đẹp tiêu_chuẩn 1 resort diện_tích cây_xanh,0,1,0,0,0
+nhận_xét đánh_giá hết_sức khách_quan dịch_vụ amiana resort nha_trang lưu_trú phòng 307 17-19/07 resort thiết_kế đẹp tiêu_chuẩn 1 resort diện_tích cây_xanh,0,1,0,0,0
 đội_ngũ nhân_viên nhiệt_tình vui_vẻ hầu_hết nhân_viên ở_đây thân_thiện chủ_động chào_hỏi khách phục_vụ hết_sức nhiệt_tình chu_đáo,1,0,0,0,0
-chăn drap gối mùi_hôi ẩm mốc phòng lau dọn_sạch,0,1,0,0,1
-buffet ít món thay_đổi,0,0,1,0,0
+chăn drap gối mùi_hôi ẩm mốc phòng lau dọn_sạch,0,1,0,0,-1
+buffet ít món thay_đổi,0,0,-1,0,0
 quản_lý tốt làm_phiền khách tạo ấn_tượng tốt du_khách,1,0,0,0,0
 phòng bố_trí nội_thất đẹp,0,1,0,0,0
 khuôn_viên vườn nhà_hàng thiết_kế đẹp,0,1,0,0,0
 nhân_viên resort nhiệt_tình thân_thiện,1,0,0,0,0
 resort hơi trung_tâm khách trung_tâm xe ô_tô resort phục_vụ 8h 10h tối hàng_ngày lịch_trình,0,0,0,1,0
-tốt bữa_sáng 2 trở_lên hơi ngán,0,0,1,0,0
+tốt bữa_sáng 2 trở_lên hơi ngán,0,0,-1,0,0
 amiana view đẹp hồ bơi nước_ngọt nước_biển tuyệt,0,0,0,0,0
 nhân_viên thân_thiện,1,0,0,0,0
-buffer ngon hơi ít món,0,0,1,0,0
+buffer ngon hơi ít món,0,0,-1,0,0
 bánh âu cực ngon,0,0,1,0,0
 không_gian phòng ấm_cúng hài_hòa thoải_mái,0,1,0,0,0
 phòng rộng_rãi phòng_tắm khu_vực rest room rộng thoáng,0,1,0,0,0
@@ -732,8 +732,8 @@ máy casette player gắn iphone nghe_nhạc thích,0,0,0,0,1
 ăn_sáng ngon thay_đổi món nóng phong_phú phở mỗi_ngày,0,0,1,0,0
 phong_cảnh đẹp không_gian yên_tĩnh nhân_viên lịch_sự phòng_ốc sạch_sẽ,1,1,0,0,0
 thực_đơn buffet đa_dạng thay_đổi,0,0,1,0,0
-gia_đình 3 đêm 2 ăn sáng 3 cháu ngán ăn,0,0,1,0,0
-thực_đơn a_la carte nhà_hàng hơi đắt ít món việt khuyến_khích khách ăn resort đi_ra,0,0,1,1,0
+gia_đình 3 đêm 2 ăn sáng 3 cháu ngán ăn,0,0,-1,0,0
+thực_đơn a_la carte nhà_hàng hơi đắt ít món việt khuyến_khích khách ăn resort đi_ra,0,0,-1,-1,0
 hài_lòng dịch_vụ đội_ngũ nhân_viên phục_vụ tại_đây khung_cảnh đẹp,1,0,0,1,0
 amiana nha_trang thành_phố nha_trang đẹp phòng rộng sạch_sẽ,0,1,0,0,0
 khuôn_viên đẹp mát_mẻ,0,0,0,1,0
@@ -743,11 +743,11 @@ resort amiana nha_trang thành_phố nha_trang vị_trí đẹp,0,0,0,1,0
 phòng thiết_kế tuyệt_vời,0,1,0,0,0
 nhân_viên nhiệt_tình,1,0,0,0,0
 phòng_ốc thiết_kế đẹp,0,1,0,0,0
-đồ_ăn ngon phục_vụ chậm phong_phú,1,0,1,0,0
+đồ_ăn ngon phục_vụ chậm phong_phú,-1,0,1,0,0
 vinpearl resort nội_thất amiana hơn_hẳn hiện_đại thiết_bị phòng_bị lỗi vinpearl đèn_ngủ,0,0,0,0,1
 phòng sang_trọng lộng_lẫy,0,1,0,0,1
 phòng rộng_rãi thoáng_mát vườn phía_trước đẹp yên_tĩnh,0,1,0,0,0
-đồ_ăn thật_lòng amiana thua vinpearl,0,0,1,0,0
+đồ_ăn thật_lòng amiana thua vinpearl,0,0,-1,0,0
 buffet ngon nhân_viên nhiệt_tình cafe phở tận bàn khách,1,0,1,0,0
 buổi_tối ăn alacarte đồ_ăn ngon lắm alacarte amiana thua sheraton vinpearl,0,0,1,0,0
 nhân_viên nhiệt_tình hướng_dẫn cụ_thể khách,1,0,0,0,0
@@ -781,10 +781,10 @@ nhân_viên đào_tạo tốt vui_vẻ giúp_đỡ khách_hàng nhiệt_tình,1,
 nhìn_chung dịch_vụ phòng ăn_uống ở_đây khá_tốt khách_sạn tiêu_chuẩn gia_đình quay_lại kỳ_nghỉ,1,0,1,0,0
 resort nha_trang khuôn_viên hồ bơi đẹp phòng_ốc tốt nhân_viên thân_thiện ăn_sáng ngon 1 dịch_vụ quá_trình hoàn_thiện phục_vụ khách,1,1,1,0,0
 dịch_vụ resort tốt nhân_viên phục_vụ ân_cần gần_gủi,1,0,0,0,0
-đặt phòng deluxe giá 1t7 bốn_biển resort toilet phòng mùi khó_chịu giống mùi cống,0,1,0,0,0
-phòng deluxe máy_sấy_tóc bình nấu nóng,0,1,0,0,1
+đặt phòng deluxe giá 1t7 bốn_biển resort toilet phòng mùi khó_chịu giống mùi cống,0,-1,0,0,0
+phòng deluxe máy_sấy_tóc bình nấu nóng,0,1,0,0,-1
 phòng view biển nhìn đc 1 nửa dừa che_khuất,0,1,0,0,0
-tóm_lại 1t7 giá_cả đắt dịch_vụ resort,0,0,0,1,0
+tóm_lại 1t7 giá_cả đắt dịch_vụ resort,0,0,0,-1,0
 cảnh quang đẹp phòng hướng biển bờ_biển bãi_cát trắng_tinh mịn hồ bơi đẹp thích_hợp bé_nhỏ,0,1,0,0,0
 khách_sạn có_nhà_hàng hướng biển nấu_ăn ngon ăn_sáng món hợp_khẩu_vị,0,0,1,0,0
 phòng ở_đây rộng_rãi,0,1,0,0,0
@@ -794,27 +794,27 @@ bữa_ăn ngon_miệng trứng bánh kếp chuối tuyệt_vời,0,0,1,0,0
 nhân_viên khách_sạn thân_thiện tiếng ổn,1,0,0,0,0
 phòng bãi_biển đẹp,0,1,0,0,0
 nhân_viên phục_vụ nhiệt_tình,1,0,0,0,0
-bữa_sáng thức_ăn ít gia_đình phòng_ăn vào_lúc 7g45 tg phục_vụ ăn_sáng 6-9g hầu_như không_còn lựa_chọn,1,0,1,0,0
+bữa_sáng thức_ăn ít gia_đình phòng_ăn vào_lúc 7g45 tg phục_vụ ăn_sáng 6-9g hầu_như không_còn lựa_chọn,-1,0,-1,0,0
 mô_tả ghi free wifi sảnh phòng hoàn_toàn,0,0,0,0,1
-phòng book phòng nhân_viên chudu24 khách_sạn phòng nhỏ khó đặt extra bed nghỉ phòng to bố_trí đồ_đạc đặt,0,1,0,0,1
-khách_sạn phòng nhiều_muỗi đồ_ăn món nấu ổn,0,1,1,0,0
+phòng book phòng nhân_viên chudu24 khách_sạn phòng nhỏ khó đặt extra bed nghỉ phòng to bố_trí đồ_đạc đặt,0,-1,0,0,-1
+khách_sạn phòng nhiều_muỗi đồ_ăn món nấu ổn,0,-1,1,0,0
 resort không_xa khu trung_tâm dễ_dàng đi_lại,0,0,0,1,0
 nhân_viên tiếp_tân vui_vẻ,1,0,0,0,0
 phòng ok,0,1,0,0,0
 ăn tạm_được mình quan_trọng ăn_uống lắm phòng khuôn_viên đẹp,0,1,1,0,0
-bốn_biển resort khuôn_viên đẹp yên_tĩnh phục_vụ chu_đáo vấn_đề hài_lòng lắm drap trải giường cũ hơi ngả_màu vàng làm_cho cảm_giác phòng khách sạn không đẹp_lắm,1,1,0,1,1
+bốn_biển resort khuôn_viên đẹp yên_tĩnh phục_vụ chu_đáo vấn_đề hài_lòng lắm drap trải giường cũ hơi ngả_màu vàng làm_cho cảm_giác phòng khách sạn không đẹp_lắm,1,-1,0,1,-1
 phòng_ốc an_hải sơn resort kiên_giang tương_đối tốt thích nhất_là phượng đỏ sân,0,1,0,0,0
 thức_ăn ngon giá đắt,0,0,1,1,0
-phòng_ốc ngoại_cảnh hơi xuống_cấp,0,1,0,0,0
+phòng_ốc ngoại_cảnh hơi xuống_cấp,0,-1,0,0,0
 khách_sạn nằm vị_trí đẹp mặt hướng biển lưng tựa núi,0,0,0,1,0
 cơ_sở vật_chất thiết_kế hướng hiện_đại có_nhiều không_gian xanh thích_hợp du_lịch nghỉ dưỡng,0,0,0,0,1
 đội_ngũ nhân_viên phục_vụ thân_thiện nhiệt_tình chuyên_nghiệp,1,0,0,0,0
-gia_đình hài_lòng boutique hội_an resort resort yên_bình nhân_viên thân_thiện nhiệt_tình phòng hơi nhỏ,1,1,0,0,0
+gia_đình hài_lòng boutique hội_an resort resort yên_bình nhân_viên thân_thiện nhiệt_tình phòng hơi nhỏ,1,-1,0,0,0
 boutique hội_an resort tốt,0,1,0,0,0
-điều_hoà hỏng lục_cục sửa_chữa khó_chịu,0,0,0,0,1
-máy pha_cà_phê hỏng,0,0,0,0,1
-điện_thoại hỏng,0,0,0,0,1
-dọn_bẩn phục_vụ kém quét cát đầy sàn yêu_cầu dọn_lại quyét lau sàn được yêu_cầu,1,0,0,0,1
+điều_hoà hỏng lục_cục sửa_chữa khó_chịu,0,0,0,0,-1
+máy pha_cà_phê hỏng,0,0,0,0,-1
+điện_thoại hỏng,0,0,0,0,-1
+dọn_bẩn phục_vụ kém quét cát đầy sàn yêu_cầu dọn_lại quyét lau sàn được yêu_cầu,-1,0,0,0,-1
 ưu_điểm resort nhỏ bố_trí hợp_lý yên_tĩnh phòng_ốc đẹp view đẹp,0,1,0,1,0
 đồ_ăn ngon nhân_viên nhanh_nhẹn được_cái gọi xuất_hiện,1,0,1,0,0
 resort đẹp nhân_viên phục_vụ tốt,1,1,0,0,0
@@ -824,34 +824,34 @@ nhân_viên nhiệt_tình tạo điều_kiện tốt khách đặt hủy phòng 
 resort tốt mức_giá phù_hợp phòng hiện_đại,0,1,0,1,0
 đặc_biệt chương_trình khuyến_mãi giảm_giá khách_hàng chudu24,0,0,0,1,0
 hài_lòng phòng_ốc dịch_vụ ở_đây,1,1,0,0,0
-buffet buổi_sáng hơi ít món,0,0,1,0,0
-phòng bình_thường đồ trang_trí giường hơi cũ một_tí chất_liệu vải,0,1,0,0,1
+buffet buổi_sáng hơi ít món,0,0,-1,0,0
+phòng bình_thường đồ trang_trí giường hơi cũ một_tí chất_liệu vải,0,-1,0,0,-1
 nhân_viên dễ_thương thân_thiện,1,0,0,0,0
 vị_trí khu trung_tâm thích_hợp nghỉ dưỡng,0,0,0,1,0
-mọi_thứ tốt ngoại_trừ 1 phục_vụ thức_ăn_sáng rất_tệđứng nấu phở chiên trứng thái_độ thân_thiện tôn_trọng khách việt_nam giống đào_tạo phục_vụ khách tây,1,0,1,0,0
+mọi_thứ tốt ngoại_trừ 1 phục_vụ thức_ăn_sáng rất_tệđứng nấu phở chiên trứng thái_độ thân_thiện tôn_trọng khách việt_nam giống đào_tạo phục_vụ khách tây,1,0,-1,0,0
 khách_sạn sạch_sẽ thoải_mái,0,1,0,0,0
 bữa_sáng thay_đổi món 4 ở_đó ăn_uống món giống_nhau buffet,0,0,1,0,0
 1 đêm boutique cảm_thấy hài_lòng dịch_vụ thái_độ nhân_viên tại_đây,1,0,0,0,0
 nhân_viên nhiệt_tình niềm_nở sảnh bãi_cỏ bể_bơi sạch_sẽ,1,0,0,0,1
-buồng_tắm sạch_sẽ đẹp thoát chậm gây_ra tràn sàn phòng_tắm,0,1,0,0,1
-resort nhỏ sạch_sẽ bãi_cỏ xanh bể_bơi nhỏ,0,1,0,0,1
-phòng đặt phòng loại rẻ phòng nhỏ,0,1,0,0,0
+buồng_tắm sạch_sẽ đẹp thoát chậm gây_ra tràn sàn phòng_tắm,0,-1,0,0,1
+resort nhỏ sạch_sẽ bãi_cỏ xanh bể_bơi nhỏ,0,1,0,0,-1
+phòng đặt phòng loại rẻ phòng nhỏ,0,-1,0,0,0
 boutique hội_an gió_mát món_ăn_ngon,0,0,1,0,0
 còn_về boutique resort hội_an đánh_giá tạm_được,0,1,0,0,0
 phòng thiết_kế sang_trọng ấm_cúng,0,1,0,0,0
 thái_độ nhân_viên phục_vụ tận_tình,1,0,0,0,0
 phòng khách_sạn nhân_viên khách_sạn tuyệt_vời,1,1,0,0,0
-nhân_viên phục_vụ không nhiệt_tình chu_đáo khuôn_mặt lạnh_lùng hướng_dẫn khách phòng,1,0,0,0,0
-phòng_ngủ phòng_tắm rửa_mặt chảy chậm phía_dưới thoát được_nước tình_trạng ngập phòng_tắm,0,1,0,0,1
+nhân_viên phục_vụ không nhiệt_tình chu_đáo khuôn_mặt lạnh_lùng hướng_dẫn khách phòng,-1,0,0,0,0
+phòng_ngủ phòng_tắm rửa_mặt chảy chậm phía_dưới thoát được_nước tình_trạng ngập phòng_tắm,0,-1,0,0,-1
 nhân_viên ở_đây nhiệt_tình chu_đáo khách,1,0,0,0,0
 thức_ăn ngon phong_phú,0,0,1,0,0
 nghiệm ăn ngon nhà_hàng resort rẻ ăn bên_ngoài,0,0,1,1,0
 resort khánh_thành phòng_ốc đồ_đạc trông sạch_sẽ,0,1,0,0,0
-phòng đẹp sàn_nhà hơi cũ vấn_đề,0,1,0,0,1
+phòng đẹp sàn_nhà hơi cũ vấn_đề,0,1,0,0,-1
 phục_vụ chu_đáo,1,0,0,0,0
 ăn_sáng ngon phong_phú,0,0,1,0,0
 hội_an boutique 2 đêm resort nhỏ đẹp bể_bơi bãi_biển vắng thoải_mái,0,0,0,1,0
-buffet ngon đa_dạng mỗi_tội phòng chút vấn_đề hệ_thống thoát,0,1,1,0,1
+buffet ngon đa_dạng mỗi_tội phòng chút vấn_đề hệ_thống thoát,0,1,1,0,-1
 nhân_viên phục_vụ tận_tình chuyên_nghiệp,1,0,0,0,0
 resort nhỏ dịch_vụ tốt phòng rộng sạch_sẽ nhân_viên nhiệt_tình vui_vẻ chuyên_nghiệp,1,1,0,0,0
 buffet đầy_đủ,0,0,1,0,0
@@ -860,14 +860,14 @@ resort thực_tế đẹp ảnh giới_thiệu phòng tiện_nghi hiện_đại,
 giá_cả nhân_viên niềm_nở nhiệt_tình nói_chung ổn chọn đi_nghỉ hội_an,1,0,0,0,0
 resort phòng đẹp hơi nhỏ thiết_kế hợp_lý tạo cảm_giác thoáng đãng kỳ_nghỉ,0,1,0,0,0
 buffet ok món hợp_miệng buổi_trưa tối ăn ăn nhà_hàng resort món_ăn việt_nấu phù_hợp với khẩu_vị khách bắc nấu bớt cay hương_vị đặc_trưng đồ_ăn miền_trung,0,0,1,0,0
-phòng_ốc đẹp hơi tiếc bồn_tắm,0,1,0,0,1
+phòng_ốc đẹp hơi tiếc bồn_tắm,0,1,0,0,-1
 hội an boutique ok thân_thiện gần_gũi hơn_nữa giá_cả hợp_lý,1,1,0,1,0
 không_có_gì phàn_nàn dịch_vụ boutique hội_an,1,0,0,0,0
 nhân_viên chu_đáo nhiệt_tình giá_cả không đắt,1,0,0,1,0
 nhân_viên lễ_tân khách_sạn thân_thiện xử lí tình_huống nhanh đáp_ứng nhu_cầu khách_hàng khách đổi phòng bồn_tắm,1,0,0,0,0
 thức_ăn phòng khách_sạn ok sạch_sẽ,0,1,1,0,0
 nhìn_chung dịch_vụ chudu24 boutique tốt giải_quyết vấn_đề phát_sinh hết_sức hiệu_quả,1,0,0,0,0
-chất_lượng phòng đôi_chút vấn_đề nhỏ đề_nghị boutique giải_quyết triệt_để cụ_thể tiêu_chuẩn chiếu_sáng thấp phòng bị_tối hại mắt căng_thẳng thần_kinh giường nhỏ tranh gương treo lệch tạo cảm_giác bất_an,0,1,0,0,1
+chất_lượng phòng đôi_chút vấn_đề nhỏ đề_nghị boutique giải_quyết triệt_để cụ_thể tiêu_chuẩn chiếu_sáng thấp phòng bị_tối hại mắt căng_thẳng thần_kinh giường nhỏ tranh gương treo lệch tạo cảm_giác bất_an,0,-1,0,0,-1
 dịch_vụ boutique hoàn_hảo đánh_giá,1,0,0,0,0
 khu resort khánh_thành phòng trang_thiết_bị đẹp,0,1,0,0,1
 phong_cảnh phong_cách thiết_kế bài_trí phòng đẹp trang_nhã,0,1,0,0,0
@@ -878,28 +878,28 @@ phòng nội_thất lịch_sự sạch_sẽ,0,1,0,0,1
 đội_ngũ nhân_viên nhiệt_tình niềm_nở phục_vụ chu_đáo,1,0,0,0,0
 đồ_ăn resort ngon menu đa_dạng giá_cả hợp_lý,0,0,1,1,0
 dịch_vụ internet mini bus đưa_đón phố cổ tiện_lợi,0,0,0,0,1
-hài_lòng dịch_vụ khách_sạn trang_thiết_bị khách_sạn cũ kĩ không_hiện_đại,1,0,0,0,1
+hài_lòng dịch_vụ khách_sạn trang_thiết_bị khách_sạn cũ kĩ không_hiện_đại,1,0,0,0,-1
 kỳ_nghỉ dưỡng thoải_mái tại_đây hài_lòng dịch_vụ khách_sạn,1,0,0,0,0
 trang_thiết_bị phòng_ốc tốt phòng đẹp hiện_đại,0,1,0,0,1
 bữa_sáng có_nhiều sự_lựa_chọn hợp_khẩu_vị,0,0,1,0,0
 bữa_tối ngon,0,0,1,0,0
 nhân_viên thân_thiện phục_vụ chu_đáo,1,0,0,0,0
 nhân_viên hồ bơi chuyên_nghiệp có_điều check out hơi_lâu tùm_lum,1,0,0,0,0
-khách_sạn trang_thiết_bị hư,0,0,0,0,1
-chẳng_hạn vòi sen phòng hư kêu nhân_viên khách_sạn sửa,0,0,0,0,1
+khách_sạn trang_thiết_bị hư,0,0,0,0,-1
+chẳng_hạn vòi sen phòng hư kêu nhân_viên khách_sạn sửa,0,0,0,0,-1
 phòng hồ bơi phòng nhỏ cảm_thấy thoải_mái,0,1,0,0,0
-phục_vụ chu_đáo phòng thiếu xà_bông tắm khăn_tắm gọi_điện tiếp_tân nhờ,1,0,0,0,1
+phục_vụ chu_đáo phòng thiếu xà_bông tắm khăn_tắm gọi_điện tiếp_tân nhờ,1,0,0,0,-1
 nhà_hàng nấu_ăn_ngon món đặc_sản lầu bánh vạc hellip món đặc_trưng dải_đất miền_trung,0,0,1,0,0
 loại dịch_vụ spa chuyên_nghiệp hài_lòng,1,0,0,0,0
 được_cái phục_vụ nhanh gọi liền,1,0,0,0,0
 dịch_vụ spa massage cũng_được,1,0,0,0,0
-thái_độ cung_cách phục_vụ nhân_viên tạm chấp_nhận,1,0,0,0,0
-thủ_tục phòng nhanh check out chậm,1,0,0,0,0
+thái_độ cung_cách phục_vụ nhân_viên tạm chấp_nhận,-1,0,0,0,0
+thủ_tục phòng nhanh check out chậm,-1,0,0,0,0
 khách_sạn trang_trí đẹp trang_nhã sang_trọng,0,1,0,0,0
 đường truyền internet ổn_định lắm_khi download tài_liệu đồng_nghiệp gửi,0,0,0,0,1
 nhà_hàng nấu_ăn thích món_ăn,0,0,1,0,0
 tiếp_tân dễ_thương,1,0,0,0,0
-món_ăn bày_trí công_phu kiểu_cách ngon hơi mắc tiền nhà_hàng đẳng_cấp,0,0,1,1,0
+món_ăn bày_trí công_phu kiểu_cách ngon hơi mắc tiền nhà_hàng đẳng_cấp,0,0,1,-1,0
 phòng biệt_thự trang_bị đầy_đủ tiện_nghi sinh_họat gia_đình gian bếp nhỏ đồ_dùng làm_bếp lò_vi_sóng máy_giặt,0,1,0,0,1
 chất_lượng dịch_vụ an hoa residence luxury villas tốt,1,0,0,0,0
 cảm_ơn chudu24 nhớ chudu24 giới_thiệu gia_đình biết_được resort phòng đẹp đầy_đủ tiện_nghi nhân_viên thân_thiện an_hoa đồ_ăn ngon,1,1,1,0,1
@@ -909,7 +909,7 @@ bãi_biển riêng đồ_ăn ngon,0,0,1,0,0
 riêng đồ_ăn ít món lựa_chọn ăn_sáng nhiêu món ăn bể bụng nước_uống lựa_chọn,0,0,1,0,0
 nhân_viên phục_vụ tận_tình vui vẽ thân_thiện,1,0,0,0,0
 bãi_biển đẹp nhân_viên phục_vụ vui_vẻ nhiệt_tình thân_thiện vị_trí đẹp,1,0,0,1,0
-ăn_sáng ít món ngon_miệng trang_thiết_bị cũ,0,0,1,0,1
+ăn_sáng ít món ngon_miệng trang_thiết_bị cũ,0,0,-1,0,-1
 an hoa residence luxury villas vị_trí đẹp biển nhân_viên nhiệt_tình dễ_thương,1,0,0,1,0
 an hoa residence luxury villas vị_trí tốt cảnh_quan đẹp phòng_ốc sạch_sẽ đầy_đủ tiện_nghi thích_hợp gia_đình đông_người trẻ_nhỏ thanh_thiếu_niên thích nhất_là tiệc bbq tổ_chức bể_bơi,0,1,0,0,0
 đặc_biệt nhân_viên thân_thiện nhiệt_tình đồ_ăn ngon phòng hiện_đại,1,1,1,0,0
@@ -927,11 +927,11 @@ phong_cảnh đẹp,0,0,0,1,0
 villa đẹp tiện_nghi,0,0,0,1,0
 dịch_vụ tốt,1,0,0,0,0
 xã khen món_ăn ngon có_lẽ hợp_khẩu_vị,0,0,1,0,0
-phòng muỗi phòng_ngủ máy_lạnh phòng hầu_như không_dùng,0,1,0,0,1
-thức_ăn ngon mắc,0,0,1,1,0
+phòng muỗi phòng_ngủ máy_lạnh phòng hầu_như không_dùng,0,-1,0,0,-1
+thức_ăn ngon mắc,0,0,1,-1,0
 dịch_vụ an lâm_tương đối tốt nhân_viên quản_gia dễ_thương khung_cảnh yên_bình thích_hợp kỳ_nghỉ,1,0,0,0,0
 đầy_đủ trang_thiết_bị chia_làm phòng_ngủ tầng phòng_khách đẹp phòng_tắm tầng_trệt hồ bơi riêng,0,1,0,0,1
-tuyệt couple trò_chơi biển món_ăn ngon phòng đẹp hình_như xui hay_sao phòng loa hư cúp nhạc mỗi_lần on đợi load rất_lâu,0,1,1,0,1
+tuyệt couple trò_chơi biển món_ăn ngon phòng đẹp hình_như xui hay_sao phòng loa hư cúp nhạc mỗi_lần on đợi load rất_lâu,0,1,1,0,-1
 1 ở_ẩn cảm_thấy hài_lòng cung_cấp phục_vụ ở_đây nhân_viên vui_vẻ niềm_nở chào_hỏi hài_lòng quay_lại 1 1 khuyết_điểm phòng_ngủ ghế ngồi trang_điểm,1,1,0,0,0
 an lâm_ninh_vân resort tuyệt_vời,0,0,0,1,0
 phòng_ốc sạch_sẽ mát_mẻ đầy_đủ tiện_nghi,0,1,0,0,1
@@ -948,7 +948,7 @@ staff an lâm_ninh vân bay thân_thiện tổ_chức chuyên_nghiệp tốt,1,0
 thức_ăn nấu hợp_khẩu_vị,0,0,1,0,0
 an lâm lagoon villa 2 phòng_ngủ đẹp thức_ăn_ngon phục_vụ ân_cần chu_đáo,1,1,1,0,0
 nhân_viên thân_thiện nhiệt_tình cảnh_đẹp bài_trí lãng_mạn,1,0,0,1,0
-giá phòng nghỉ hợp_lý giá thức_ăn ở_đây hơi mắc giá_cả cải_thiện hợp_lý túi_tiền du_khách việt_nam tuyệt_vời,0,1,0,1,0
+giá phòng nghỉ hợp_lý giá thức_ăn ở_đây hơi mắc giá_cả cải_thiện hợp_lý túi_tiền du_khách việt_nam tuyệt_vời,0,1,0,-1,0
 ý_tưởng thiết_kế khu resort thật_sự ấn_tượng,0,0,0,1,0
 nhân_viên resort managers staffs tuyệt_vời,1,0,0,0,0
 phòng_ốc thoáng_mát dịch_vụ tuyệt_vời nhân_viên thân_thiện,1,1,0,0,0
@@ -957,13 +957,13 @@ phái đội_ngũ nhân_viên ở_đây thân_thiện chuyên_nghiệp nhẹ_nh�
 đội_ngũ nhân_viên phục_vụ tốt chu_đáo chuyên_nghiệp tạo cảm_thân quen khách,1,0,0,0,0
 gia_đình đặc_biệt ấn_tượng đội_ngũ nhân_viên thân_thiện ân_cần chuyên_nghiệp,1,0,0,0,0
 bộ_phận nhà_hàng nấu_ăn ngon phục_vụ giờ đặt phòng đẹp gồm bữa_sáng bữa_trưa miễn_phí ăn_sáng muộn ăn_trưa vào_lúc 3 4 giờ ăn bữa nhẹ buổi_tối 21h,1,1,1,0,0
-thức_ăn ngon hơi đắt,0,0,1,1,0
+thức_ăn ngon hơi đắt,0,0,1,-1,0
 nhân_viên ở_đây tận_tình chu_đáo,1,0,0,0,0
 resort nằm vị_trí đẹp phòng_ốc tiện_nghi đẹp,0,1,0,1,0
 đặc_biệt nhân_viên ở_đây chăm_sóc khách_hàng tận_tình chu_đáo,1,0,0,0,0
 thực_sự hài_lòng chuyến nghỉ dưỡng an lâm_ninh vân bay resort phòng nghỉ đẹp yên_bình dịch_vụ tốt thức_ăn_ngon nhân_viên chu_đáo,1,1,1,0,0
 nhân_viên nhiệt_tình yêu_cầu khách_hàng,1,0,0,0,0
-khu_nghỉ_mát tính_năng cao_cấp rộng_rãi hẻo_lánh xa trung_tâm thành_phố,0,1,0,1,0
+khu_nghỉ_mát tính_năng cao_cấp rộng_rãi hẻo_lánh xa trung_tâm thành_phố,0,1,0,-1,0
 dịch_vụ quản_gia kín_đáo hiệu_quả,1,0,0,0,0
 nhân_viên tiếng thân_thiện du_khách,1,0,0,0,0
 ăn trái_cây resort 5 chuẩn_bị chu_đáo hơi kỳ thái_độ phục_vụ nhân_viên nhà_hàng lấy_lại điểm hoàn_toàn,1,0,1,0,0
@@ -983,7 +983,7 @@ chất_lượng tốt khung_cảnh tuyệt_vời thức_ăn_ngon nhân_viên ph�
 đánh_giá chung tốt phục_vụ nhân_viên đến_nơi riêng_tư thoải_mái thức_ăn ngon,1,0,1,0,0
 sư hiếu_khách tinh_thần_phục vụ tận_tụy chuyên_nghiệp đội_ngũ nhân_viên ở_đây cảm_thấy thoải_mái ở_nhà,1,0,0,0,0
 đặc_biệt thức_ăn món_ăn western món_ăn vietnamese chế_biến ngon,0,0,1,0,0
-resort co khu vườn xung_quanh hoang_sơ không_có nổi_bật phòng bố_trí thoáng thoải_mái hồ bơi phòng lạnh bé dầm suốt lo bé bị_cảm,0,1,0,1,0
+resort co khu vườn xung_quanh hoang_sơ không_có nổi_bật phòng bố_trí thoáng thoải_mái hồ bơi phòng lạnh bé dầm suốt lo bé bị_cảm,0,1,0,-1,0
 điểm tuyệt nhất_là nhà_hàng nấu_ăn ngon bbq hải_sản tươi sống,0,0,1,0,0
 hài_lòng dịch_vụ an lâm_ninh vân bay,1,0,0,0,0
 phòng_ốc tiện_nghi khung_cảnh đồ_ăn tuyệt,0,1,1,0,0
@@ -992,20 +992,20 @@ staff khu resort thân_thiện,1,0,0,0,0
 phục_vụ chuyên_nghiệp thân_mật,1,0,0,0,0
 phong_cảnh tuyệt đẹp thái_độ phục_vụ miễn chê ẩm_thực tuyệt_vời,1,0,1,1,0
 dịch_vụ phục_vụ nhân_viên thân_thiện chuyên_nghiệp,1,0,0,0,0
-phòng khách_sạn không_có đáng_chê_trách tiện_nghi thoải_mái,0,1,0,0,1
+phòng khách_sạn không_có đáng_chê_trách tiện_nghi thoải_mái,0,1,0,0,-1
 buffet ngon hợp_khẩu_vị món_ăn đa_dạng phong_phú,0,0,1,0,0
 nhân_viên phục_vụ chu_đáo thức_ăn ngon nơi_nghỉ dưỡng yên_tĩnh thoải_mái,1,0,1,0,0
-tivi thường_xuyên chập giật phim nghe_nhạc,0,0,0,0,1
+tivi thường_xuyên chập giật phim nghe_nhạc,0,0,0,0,-1
 phòng_ốc dọn_dẹp sạch_sẽ gọn_gàng đi_ra điểm_khách biệt resort,0,1,0,0,0
 an lâm sự_chọn_lựa đúng_đắn thú_vị vợ_chồng gần_gũi thiên_nhiên nội_thất đẹp sang_trọng view nhìn vịnh ninh vân đẹp bãi_biển hoàn_toàn yên_tĩnh cung_cách phục_vụ lịch_sự niềm_nở đồ_ăn ngon,1,0,1,0,1
 nhân_viên phục_vụ tốt nhiệt_tình đồ_ăn ngon khung_cảnh thiên_nhiên,1,0,1,1,0
 resort đẹp đồ_ăn ngon phục_vụ tốt,1,0,1,0,0
 đẹp phong_cảnh thật lãng_mạn khí_hậu tuyệt_vời cấu_trúc villa đẹp sang_trọng phục_vụ chỗ chê nhất_là sự_chào_đón nồng_nhiệt ấm_cúng phái đoán nhân_viên tại_nơi sự_tiếp_khách phục_vụ chào_đón nhiệt_tình,1,0,0,0,0
 phục_vụ chuyên_nghiệp nhiệt_tình thân_thiện,1,0,0,0,0
-nhà_hàng giá_cả hơi cao nấu_ăn_ngon,0,0,1,1,0
+nhà_hàng giá_cả hơi cao nấu_ăn_ngon,0,0,1,-1,0
 nhân_viên nhiệt_tình phòng thoáng_mát rộng_rãi,1,1,0,0,0
 đồ_ăn ngon,0,0,1,0,0
-nhược_điểm xa trung_tâm thành_phố chuẩn_bị kỹ trước_khi,0,0,0,1,0
+nhược_điểm xa trung_tâm thành_phố chuẩn_bị kỹ trước_khi,0,0,0,-1,0
 resort view đẹp,0,0,0,1,0
 dịch_vụ tốt thức_ăn_ngon phong_cảnh hữu_tình lãng_mạn,1,0,1,1,0
 1 lý_tưởng tuần_trăng_mật ở_đây view đẹp,0,0,0,1,0
@@ -1015,7 +1015,7 @@ dịch_vụ phục_vụ chu_đáo spa chuyên_nghiệp,1,0,0,0,0
 đặc_biệt ấn_tượng đồ_ăn ở_đây,0,0,1,0,0
 món_ăn hương_vị việt_nam phương_tây nấu ngon vừa_miệng,0,0,1,0,0
 nhân_viên đào_tạo chuyên_nghiệp nhiệt_tình thân_thiện,1,0,0,0,0
-nhà_hàng nấu_ăn ngon giá_cả hơi đắt chồng ăn bên_ngoài,0,0,1,1,0
+nhà_hàng nấu_ăn ngon giá_cả hơi đắt chồng ăn bên_ngoài,0,0,1,-1,0
 dịch_vụ spa chuyên_nghiệp khung_cảnh đẹp hướng biển,1,0,0,1,0
 phòng đẹp sang_trọng  nhân_viên thân_thiện,1,1,0,0,0
 chất_lượng dịch_vụ cam_ranh riviera beach resort spa tốt,1,0,0,0,0
@@ -1025,7 +1025,7 @@ trang_thiết_bị phòng tiện_nghi view phòng đẹp,0,1,0,0,1
 phòng rộng rãi sạch_sẽ một_vài chi_tiết nhỏ thiết_kế thiếu mức_độ tiện_dụng sử_dụng thoải mái chuẩn 5 tập_trung khu_vực bathroom wc,0,1,0,0,1
 nhân_viên phục_vụ ân_cần chu_đáo,1,0,0,0,0
 thức_ăn ngon,0,0,1,0,0
-giá phòng_hơi đắt 1 resort đẳng_cấp phòng tiện_nghi hiện_đại,0,1,0,1,0
+giá phòng_hơi đắt 1 resort đẳng_cấp phòng tiện_nghi hiện_đại,0,1,0,-1,0
 nhân_viên thân_thiện thức_ăn_ngon phòng design cẩn_thận đẹp,1,1,1,0,0
 nhân_viên thân_thiện nhiệt_tình hiếu_khách,1,0,0,0,0
 phòng executive đẹp rộng_rãi thoáng_mát,0,1,0,0,0
@@ -1033,8 +1033,8 @@ chỉ_có giá thức_ăn hơi địa_điểm 5,0,0,0,1,0
 nhân_viên nhiệt_tình,1,0,0,0,0
 nhân_viên phục_vụ tốt nhiệt_tình,1,0,0,0,0
 phòng đẹp sang_trọng rộng_rãi,0,1,0,0,0
-thất_vọng vấn_đề ăn_sáng resort món_ăn ko hấp_dẫn mà_lại nhân_viên phục_vụ dịch_vụ chậm,1,0,1,0,0
-ăn_sáng ít món ăn lựa_chọn,0,0,1,0,0
+thất_vọng vấn_đề ăn_sáng resort món_ăn ko hấp_dẫn mà_lại nhân_viên phục_vụ dịch_vụ chậm,-1,0,-1,0,0
+ăn_sáng ít món ăn lựa_chọn,0,0,-1,0,0
 phòng đẹp áp_dụng khuyến_mãi giá,0,1,0,1,0
 an lâm river khung_cảnh không_gian yên_bình phòng nghỉ tương_đối sang_trọng nhân_viên thân_thiện thức_ăn_ngon dịch_vụ spa hơi mắc khách_sạn 5,1,1,1,1,0
 giá phòng an lâm_nếu khu du_lịch biển hơi chương_trình khuyến_mãi thu_hút khách việt_nam nghỉ dưỡng tại_đây,0,1,0,1,0
@@ -1045,16 +1045,16 @@ nhân_viên phục_vụ thân_thiện,1,0,0,0,0
 dịch_vụ tốt nhân_viên khách_sạn ân_cần chu_đáo,1,0,0,0,0
 đồ_ăn ở_đây ngon món_ăn đa_dạng hợp khẩu_vị,0,0,1,0,0
 phòng ở_đây đẹp sang_trọng đồ trang_trí cảnh_vật xung_quanh dễ_thương,0,1,0,0,1
-phục_vụ tốt hơi đắt tiền,1,0,0,1,0
-nhân_viên chuyên_nghiệp không_được nhiệt_tình lắm,1,0,0,0,0
-vị_trí phòng thứ_hai thật đẹp hai_mặt kính lùa nhìn biển bên_trong tiêu_chuẩn 2 sao. máy_lạnh cũ điều_chỉnh nhiệt_độ mong,0,1,0,1,1
+phục_vụ tốt hơi đắt tiền,1,0,0,-1,0
+nhân_viên chuyên_nghiệp không_được nhiệt_tình lắm,-1,0,0,0,0
+vị_trí phòng thứ_hai thật đẹp hai_mặt kính lùa nhìn biển bên_trong tiêu_chuẩn 2 sao. máy_lạnh cũ điều_chỉnh nhiệt_độ mong,0,-1,0,1,-1
 phòng ana mandara huế beach resort spa đẹp đồ_ăn phong_phú nếu_được quay trở_lại huế chọn ana mandara,0,1,1,0,0
 gia_đình nghỉ_lễ ana mandara huế beach resort spa thích phòng ở_đây đẹp rộng_rãi thoáng_mát,0,1,0,0,0
-hơi tiếc phục_vụ không_chuyên_nghiệp lắm ví_dụ đặt ăn tối buffet buổi_trưa hỏi giá_cả em_bé 6 ăn tính_tiền như_thế_nào nhân_viên nói_là em_bé tính_tiền,1,0,1,1,0
-buôi tối minh ăn thức_ăn hơi ít nguội chấp_nhận tính_tiền nhầm bill phòng xấu số_tiền thắc_mắc giải_thích 5 tiên em_bé minh hỏi_lại tại_sao trưa giờ tính_tiền,1,1,1,1,0
-cách_nói nhân_viên xách đồ hơi tự_nhiên nói_chuyện không_có chủ_ngữ vị_ngữ,1,0,0,0,0
-nhân_viên phục_vụ hơi chậm khách đông lắm nhân_viên bao_quát đứng cạnh_nhau nói_chuyện nhỏ làm_khách cảm_thấy hơi khó_chịu,1,0,0,0,0
-thức_ăn tệ chậm ăn pizza khoai_tây chiên nguội,0,0,1,0,0
+hơi tiếc phục_vụ không_chuyên_nghiệp lắm ví_dụ đặt ăn tối buffet buổi_trưa hỏi giá_cả em_bé 6 ăn tính_tiền như_thế_nào nhân_viên nói_là em_bé tính_tiền,-1,0,-1,-1,0
+buôi tối minh ăn thức_ăn hơi ít nguội chấp_nhận tính_tiền nhầm bill phòng xấu số_tiền thắc_mắc giải_thích 5 tiên em_bé minh hỏi_lại tại_sao trưa giờ tính_tiền,-1,-1,-1,-1,0
+cách_nói nhân_viên xách đồ hơi tự_nhiên nói_chuyện không_có chủ_ngữ vị_ngữ,-1,0,0,0,0
+nhân_viên phục_vụ hơi chậm khách đông lắm nhân_viên bao_quát đứng cạnh_nhau nói_chuyện nhỏ làm_khách cảm_thấy hơi khó_chịu,-1,0,0,0,0
+thức_ăn tệ chậm ăn pizza khoai_tây chiên nguội,0,0,-1,0,0
 phòng thích phòng đẹp to 9/10 phòng,0,1,0,0,0
 còn_lại dịch_vụ cảnh_quan đẹp tốt,1,0,0,1,0
 dịch_vụ ăn_uống giảm_giá thu_hút khách hiện_tại giá,0,0,0,1,0
@@ -1077,26 +1077,26 @@ tiện_nghi tốt cảnh_quan đẹp_đẽ xanh mát,0,0,0,1,1
 nhân_viên thân_thiện,1,0,0,0,0
 chất_lượng nhà_hàng resort đạt_yêu_cầu,0,1,0,0,0
 đồ_ăn_sáng phong_phú ngon,0,0,1,0,0
-nhà_hàng buổi_tối thực_đơn nghèo_nàn ngon,0,0,1,0,0
+nhà_hàng buổi_tối thực_đơn nghèo_nàn ngon,0,0,-1,0,0
 khuôn_viên đẹp phòng sạch_sẽ hiện_đại ăn_uống ngon,0,1,1,1,0
-ngoại_trừ bữa_tối ana không_được ngon lắm phục_vụ hơi chậm,1,0,1,0,0
+ngoại_trừ bữa_tối ana không_được ngon lắm phục_vụ hơi chậm,-1,0,-1,0,0
 ăn_sáng tốt món_ăn đơn_điệu ngon,0,0,1,0,0
 phòng tốt phong_cảnh phục_vụ tương_đối tốt,1,1,0,0,0
 đánh_giá thái_độ phục_vụ nhân_viên nhiệt_tình niềm_nở chu_đáo vote 5 điểm phục_vụ,1,0,0,0,0
 phòng_ốc quang_cảnh đẹp hòa_hơi nóng ga,0,1,0,1,1
 chất_lượng tốt nhân_viên nhiệt_tình,1,0,0,0,0
-điều_hòa chảy_nước gia_đình chuyển phòng khả_quan sang phòng điều_hòa lạnh,0,1,0,0,1
-đồ_ăn khách_sạn phong_phú giá_cả đắt,0,0,1,1,0
+điều_hòa chảy_nước gia_đình chuyển phòng khả_quan sang phòng điều_hòa lạnh,0,1,0,0,-1
+đồ_ăn khách_sạn phong_phú giá_cả đắt,0,0,1,-1,0
 phục_vụ ở_đây cực ngoan khách,1,0,0,0,0
 phòng_ốc rộng_rãi thích ana mandara đà_lạt,0,1,0,0,0
 gia_đình kỳ_nghỉ tuyệt_vời ana mandara huế dịch_vụ khách_sạn tốt phòng đẹp sạch_sẽ nhân_viên phục_vụ nhiệt_tình lịch_sự,1,1,0,0,0
 phục_vụ tốt không_khí lành yên_tĩnh bãi_biển bảo_vệ,1,0,0,1,0
 ăn_sáng ổn lắm đầu_bếp thay_đổi thực_đơn cải_tiến phục_vụ nhiệt_tình,1,0,1,0,0
-phòng hơi muỗi cửa_lùa chống muỗi khách mở cửa đón nắng phòng mà_không muỗi,0,1,0,0,0
+phòng hơi muỗi cửa_lùa chống muỗi khách mở cửa đón nắng phòng mà_không muỗi,0,-1,0,0,0
 resort đẹp cây_xanh xanh_tươi hồ bơi rộng phòng đẹp,0,1,0,1,0
 phục_vụ tốt vấn_đề làm_khách vừa_lòng dịch_vụ y_tế kém khách bệnh thông_thường hỗ_trợ khách_sạn đau_đầu đau_bụng cung_cấp dầu_xoa thuốc đau_bụng thông_thường thiết_bị hiện_đại,1,0,0,0,1
 nhân_viên lễ_tân nhà_hàng phục_vụ vui_vẻ chu_đáo,1,0,0,0,0
-khách_sạn mở 2 máy_lạnh chảy_nước trần_nhà tường chỗ hoen_ố,0,0,0,0,1
+khách_sạn mở 2 máy_lạnh chảy_nước trần_nhà tường chỗ hoen_ố,0,0,0,0,-1
 nhân_viên tiếp_đón nhiệt_tình,1,0,0,0,0
 phòng đẹp sạch_sẽ,0,1,0,0,0
 nhân_viên dọn thường_xuyên,1,0,0,0,0
@@ -1111,13 +1111,13 @@ nhân_viên thân_thiện dịch_vụ khách_hàng tốt,1,0,0,0,0
 nhân_viên lịch_sự du_khách,1,0,0,0,0
 thức_ăn nhà_hàng phong_phú nhất_là đặc_sản huế buffet ngon món,0,0,1,0,0
  trung_tâm thành_phố khách_sạn đẹp trang_trí tốt,0,1,0,1,0
-đồ_ăn khách_sạn giá hơi cao thay_đổi 1 chút giá_cả ok 171k 1 dĩa bánh_bèo 8 mắc,0,0,0,1,0
-dầu gội hũ lâu_ngày vón cục chất_lượng tốt,0,0,0,0,1
+đồ_ăn khách_sạn giá hơi cao thay_đổi 1 chút giá_cả ok 171k 1 dĩa bánh_bèo 8 mắc,0,0,0,-1,0
+dầu gội hũ lâu_ngày vón cục chất_lượng tốt,0,0,0,0,-1
 bữa_ăn_sáng ok nhân_viên phục_vụ nhiệt_tình dễ_thương,1,0,1,0,0
 khách_sạn đón_tiếp chu_đáo nhân_viên ân_cần lịch_sự,1,0,0,0,0
 nhân_viên phục_vụ nhiệt_tình,1,0,0,0,0
-chỉ_tiếc wifi khó,0,0,0,0,1
-phòng_tắm thoát_nước chậm,0,1,0,0,1
+chỉ_tiếc wifi khó,0,0,0,0,-1
+phòng_tắm thoát_nước chậm,0,-1,0,0,-1
 khách_sạn đẹp nhân_viên phục_vụ nhiệt_tình bãi_biển nằm 2 làng chài rác,1,1,0,0,0
 khắc_phục khách_sạn thực_sự hoàn_hảo,1,0,0,0,0
 dịch_vụ phòng tốt,1,0,0,0,0
@@ -1141,38 +1141,38 @@ khách_sạn 5 ấn_độ phòng_ốc đẹp hẳn..,0,1,0,0,0
 nhân_viên chuyên_nghiệp lắm chân_thật nếu_được training kỹ khách_sạn nơi_nghỉ dưỡng lý_tưởng nhất_là honeymoon..,1,0,0,0,0
 du_khách đến_nơi khách_sạn đông_vui phòng_ốc đẹp thức_ăn_ngon bãi_biển thơ_mộng,0,1,1,0,0
 nhân_viên ở_đây chân_thật hiền_hòakh âu đón_tiếp nghi_thức gì_đó đồ_ăn ngon,1,0,1,0,0
-view ana mandara đẹp đưa_vào hoạt_động thử dịch_vụ truyền_hình cáp tín_hiệu kém internet truy_cập,0,0,0,0,1
+view ana mandara đẹp đưa_vào hoạt_động thử dịch_vụ truyền_hình cáp tín_hiệu kém internet truy_cập,0,0,0,0,-1
 bân cạnh_đó ana mandara huế đội_ngũ nhân_viên giỏi chu_đáo đầu_bếp nhà_hàng trình_độ tay_nghề thức_ăn chế_biến công_phu ngon_miệng,1,0,1,0,0
 giá_cả hợp_lý,0,0,0,1,0
-nhân_viên lễ_tân thiếu tế_nhị,1,0,0,0,0
-phòng mùi ẩm mốc không_đáng giá tiền cao,0,1,0,1,0
-ana mandara villas dalat resort spa hơi xa trung_tâm thành_phố di_chuyển gọi taxi villa nằm vị_trí taxi đón khách khách đi_bộ lên_dốc mệt,0,0,0,1,0
+nhân_viên lễ_tân thiếu tế_nhị,-1,0,0,0,0
+phòng mùi ẩm mốc không_đáng giá tiền cao,0,-1,0,-1,0
+ana mandara villas dalat resort spa hơi xa trung_tâm thành_phố di_chuyển gọi taxi villa nằm vị_trí taxi đón khách khách đi_bộ lên_dốc mệt,0,0,0,-1,0
 phòng_ốc sạch_sẽ tương_đối đẹp cá_tính,0,1,0,0,0
 phòng_tắm bồn_tắm đẹp xà_phòng_tắm bồn bath foam,0,1,0,0,1
 ana mandara villas dalat resort spa đẹp nhân_viên nhiệt_tình dễ_thương vị_tríkhông_xa trung_tâm mấy,1,1,0,1,0
 chất_lượng ana mandara villas dalat resort spa phục_vụ tốt đồ_ăn ngon,1,0,1,0,0
 phòng cảm_giác thoải_mái bày_trí nội_thất,0,1,0,0,1
-bữa_sáng đơn_điệu xứng_với đẳng_cấp 5,0,0,1,0,0
+bữa_sáng đơn_điệu xứng_với đẳng_cấp 5,0,0,-1,0,0
 không_gian đẹp yên_tĩnh dịch_vụ tốt thân_thiện khám_phá,1,0,0,1,0
-phòng nhân_viên thân_thiện đồ_ăn ít_món vị_trí ana mandara villas dalat resort spa xa trung_tâm hơi buồn,1,1,1,1,0
+phòng nhân_viên thân_thiện đồ_ăn ít_món vị_trí ana mandara villas dalat resort spa xa trung_tâm hơi buồn,1,1,-1,-1,0
 nhân_viên phục_vụ niềm_nở hơi chậm.,1,0,0,0,0
-máy_sưởi công_suất thấp hỏng,0,0,0,0,1
-trang_thiết_bị phòng cũ,0,0,0,0,1
+máy_sưởi công_suất thấp hỏng,0,0,0,0,-1
+trang_thiết_bị phòng cũ,0,0,0,0,-1
 nhân_viên khách_sạn nhiệt_tình đồ_ăn nấu ngon đồ_ăn thực_đơn hơi kém cảnh_quan khách_sạn đẹp buồn trời hay_mưa,1,0,1,1,0
-đồ_dùng ana mandara villas dalat resort spa xuống_cấp công_tắc đèn hư tivi mở không_được wifi sử_dụng sàn_gỗ di_chuyển kêu điện_thoại phòng sử_dụng,0,0,0,0,1
+đồ_dùng ana mandara villas dalat resort spa xuống_cấp công_tắc đèn hư tivi mở không_được wifi sử_dụng sàn_gỗ di_chuyển kêu điện_thoại phòng sử_dụng,0,0,0,0,-1
 phục_vụ tốt,1,0,0,0,0
-ana mandara villas dalat resort spa cửa_không an_toàn nhà_hàng đầy ruồi nhân_viên phục_vụ tốt trang_bị phòng cỡ 3,1,1,0,0,1
+ana mandara villas dalat resort spa cửa_không an_toàn nhà_hàng đầy ruồi nhân_viên phục_vụ tốt trang_bị phòng cỡ 3,1,1,0,0,-1
 nhân_viên thân_thiện thức_ăn_ngon phòng_ốc sạch_sẽ,1,1,1,0,0
 phòng book villa room phòng rộng_rãi cửa_sổ bước_ra ban_công,0,1,0,0,0
 thiết_bị nội_thất phòng_ngủ đầy_đủ,0,0,0,0,1
 phòng khách_sạn đạt tiêu_chuẩn 5,0,1,0,0,0
 view đẹp lắm,0,0,0,1,0
 nhân_viên phục_vụ tốt lắm thức_ăn phong_phú,1,0,1,0,0
-khách_sạn tốt toilet vòi rửa bất_tiện buffet ít món_ăn nhàm_chán,0,1,1,0,1
+khách_sạn tốt toilet vòi rửa bất_tiện buffet ít món_ăn nhàm_chán,0,1,-1,0,-1
 khách_sạn kiểu_cổ vật_dụng mọi_thứ cũ thiết_kế tiện_lợi sử_dụng,0,0,0,0,1
-nhân_viên thái_độ tồi tiêu_chuẩn 5,1,0,0,0,0
+nhân_viên thái_độ tồi tiêu_chuẩn 5,-1,0,0,0,0
 đồ_ăn ngon,0,0,1,0,0
-phòng_ốc ẩm_thấp sàn_nhà không_được vệ_sinh ghế ngồi bọc vải trang_trí hoa tươi,0,1,0,0,1
+phòng_ốc ẩm_thấp sàn_nhà không_được vệ_sinh ghế ngồi bọc vải trang_trí hoa tươi,0,-1,0,0,-1
 thái_độ phục_vụ phong_cách phục_vụ nhân_viên tương_đối tốt thân_thiện,1,0,0,0,0
 thức_ăn ngon nhân_viên spa chuyên_nghiệp giá_cả hợp_lý,1,0,1,1,0
 khách_sạn tiện_nghi sang_trọng nhân_viên thân_thiện nhiệt_tình,1,1,0,0,0
@@ -1193,9 +1193,9 @@ resort đẹp yên_tĩnh thích_hợp nghỉ dưỡng nhân_viên phục_vụ nh
 biệt_thự thật_sự đẹp sự_lột_xác_đáng kinh_ngạc hoàn_toàn vẻ hoang_sơ thực_dân pháp để_lại,0,1,0,1,0
 điểm_tâm thật_sự ngon nhân_viên đáng_yêu dịch_vụ tuyệt_vời,1,0,1,0,0
 không_gian phòng_ốc dịch_vụ xứng_đáng hàng_đầu đà_lạt thật_sự hài_lòng kỳ_nghỉ tại_nơi,1,1,0,0,0
-nằm con_đường_dài hơi thành_phố,0,0,0,1,0
+nằm con_đường_dài hơi thành_phố,0,0,0,-1,0
 dãy phòng sạch_sẽ ấm_cúng giường nằm thoải_mái dễ_chịu,0,1,0,0,0
-duy_nhất hài_lòng nhân_viên dường_như cố_gắng bán tour khách_sạn giá cắt_cổ,1,0,0,1,0
+duy_nhất hài_lòng nhân_viên dường_như cố_gắng bán tour khách_sạn giá cắt_cổ,1,0,0,-1,0
 nhân_viên tận_tình cảm_ơn cô_ấy cung_cấp đặt tour du_lịch hướng_dẫn_viên kiêm tài_xế chuyến du_lịch,1,0,0,0,0
 khu_biệt_thự ấm_cúng trang_bị đầy_đủ,0,1,0,0,1
 dịch_vụ mát khu_biệt_thự tuyệt_vời,1,0,0,0,0
@@ -1204,7 +1204,7 @@ phòng_ốc dịch_vụ tốt sử_dụng phục_vụ du_lịch,1,1,0,0,0
 nhân_viên thân_thiện tận_tình,1,0,0,0,0
 thích phòng lắm hoàn_tất thủ_tục đặt phòng nhân_viên dễ_thương ở_đây làm_tôi hài_lòng xử_lý chuyên_nghiệp lịch_sự,1,1,0,0,0
 căn_phòng rộng_rãi hướng tầm_nhìn vùng ngoại_ô lành yên_bình,0,1,0,1,0
-thế_nhưng phòng_tắm hơi kỳ_lạ một_chút,0,0,0,0,1
+thế_nhưng phòng_tắm hơi kỳ_lạ một_chút,0,0,0,0,-1
 nhân_viên thân_thiện tôn_trọng quyền cá_nhân riêng_tư khách_hàng cảm_thấy thoải_mái tự_do,1,0,0,0,0
 cảnh_vật ở_đây đẹp đồ_ăn ngon hài_lòng mọi_thứ,0,0,1,1,0
 có_lẽ khách_sạn tốt đà_lạt,0,1,0,0,0
@@ -1230,15 +1230,15 @@ khu_biệt_thự nằm đồi xinh_xắn,0,0,0,1,0
 phòng_ngủ phòng_tắm rộng phòng_khách riêng_biệt,0,1,0,0,0
 trải_nghiệm tuyệt_vời dịch_vụ khách_sạn 5 phòng_ốc thiết_kế kiến_trúc pháp cổ_điển phòng_khoáng,0,1,0,0,0
 thái_độ nhân_viên hòa_nhã dễ_thương thoải_mái dễ_chịu liên_hệ,1,0,0,0,0
-thông_tin yêu_cầu không_được cung_cấp đầy_đủ cần_thiết nhân_viên nhiệt_tình lắm,1,0,0,0,1
+thông_tin yêu_cầu không_được cung_cấp đầy_đủ cần_thiết nhân_viên nhiệt_tình lắm,1,0,0,0,-1
 resort phòng đẹp tưởng_tượng ban_đầu lối kiến_trúc pháp hầu_như giữ_nguyên_vẹn hình_dáng bên_ngoài,0,1,0,0,0
 hài_lòng chất_lượng phòng_ốc phong_cách phục_vụ ân_cần chu_đáo toàn_thể nhân_viên ở_đây thức_ăn nhà_hàng nấu ngon thích nghỉ ở_đây mong quay_lại,1,1,1,0,0
 hệ_thống villa phòng đẹp sang_trọng phong_cách yên_tĩnh thích_hợp nghỉ dưỡng,0,1,0,1,0
-view lãng_mạn phòng_ốc mùi nhân_viên ân_cần chu_đáo,1,1,0,1,0
+view lãng_mạn phòng_ốc mùi nhân_viên ân_cần chu_đáo,1,-1,0,1,0
 ăn_sáng ngon,0,0,1,0,0
 phong_cách phục_vụ nhân_viên khách_sạn nhân_viên công_ty chudu24 vui_vẻ nhiệt_tình,1,0,0,0,0
 phương_thức phục_vụ khâu phục_vụ phòng nhà_hàng chuyên_nghiệp,1,0,0,0,0
-ăn_sáng đơn_điệu đầu_bếp chuyên_nghiệp thức_ăn trình_bày thẩm_mỹ,0,0,1,0,0
+ăn_sáng đơn_điệu đầu_bếp chuyên_nghiệp thức_ăn trình_bày thẩm_mỹ,0,0,-1,0,0
 phong_cách phục_vụ tận_tình lịch_sự,1,0,0,0,0
 resort đẹp phong_cảnh đậm_nét cổ pháp thoải_mái tại_đây,0,1,0,1,0
 bố_cục khuôn_viên khách_sạn phòng_ngủ tinh_tế cảm_giác thoải_mái,0,1,0,0,0
@@ -1265,7 +1265,7 @@ nhân_viên nhiệt_tình vui_vẻ tiếp_tân bảo_vệ quản gian cảm_giá
 bữa_ăn ngon giá_cả hợp_lý,0,0,1,1,0
 khu căn_hộ cantavil hoàn_cầu phòng thiết_kế hiện_đại trang_nhã thoải_mái tầm_nhìn quang_cảnh thành_phố phòng trang_bị đầy_đủ tivi tù lạnh tủ quần_áo khu_vực tiếp_khách truyền_hình cáp vệ_tinh màn hình phẳng,0,1,0,1,1
 nói_chung mọi_thứ ổn thích dịch_vụ spa tuyệt_vời hồ bơi view sông đẹp,1,0,0,0,0
-ăn_sáng hơi ít món ngon,0,0,1,0,0
+ăn_sáng hơi ít món ngon,0,0,-1,0,0
 nhân_viên anantara hội_an resort nhiệt_tình vui_vẻ,1,0,0,0,0
 nhân_viên lễ_tân thân_thiện thức_ăn_ngon,1,0,1,0,0
 dịch_vụ spa tuyệt_vời,1,0,0,0,0
@@ -1282,18 +1282,18 @@ nhân_viên thân_thiện dễ_thương buffet món ngon,1,0,1,0,0
 phòng_ốc đẹp sạch_sẽ resort hình_như phục_vụ khách nước_ngoài thực_đơn tiếng_việt,0,1,0,0,0
 vị_trí thuận_lợi phút đi_bộ phố_cổ,0,0,0,1,0
 nội_thất tạm_ổn trang_thiết_bị thay nhất_là tivi cải_thiện đường truyền internet,0,0,0,0,1
-bữa_sáng chấp_nhận bữa_tối resort nấu ngon giá mắc nhà_hàng chất_lượng món_ăn,0,0,1,1,0
-dịch_vụ spa massage chuyên_nghiệp dịp khách_sạn đông khách chờ_đợi rất_lâu,1,0,0,0,1
+bữa_sáng chấp_nhận bữa_tối resort nấu ngon giá mắc nhà_hàng chất_lượng món_ăn,0,0,1,-1,0
+dịch_vụ spa massage chuyên_nghiệp dịp khách_sạn đông khách chờ_đợi rất_lâu,1,0,0,0,-1
 nhân_viên tinh_tế phục_vụ du_khách chu_đáo cải_thiện trình_độ tiếng,1,0,0,0,0
 căn_hộ cao_cấp galaxy phòng sạch_sẽ tiện_nghi đầy_đủ,0,1,0,0,1
 phục_vụ vui_vẻ nhiệt_tình,1,0,0,0,0
 căn_hộ cao_cấp galaxy đi_vào hoạt_động 1 phòng_ốc trang_thiết_bị nhân_viên nhiệt_tình giúp_đỡ khách góp_ý dọn phòng hằng tốt làm_khách hài_lòng vị_trí căn_hộ thuận_tiện biển địa_điểm xung_quanh,1,1,0,1,0
-phòng hơi cũ thưc ăn_sáng thứ_hai đồ_ăn ngán menu thay_đổi nhân_viên nhiệt_tình lịch_sự extra bed ok lắm nệm_hơi cứng,1,1,1,0,1
+phòng hơi cũ thưc ăn_sáng thứ_hai đồ_ăn ngán menu thay_đổi nhân_viên nhiệt_tình lịch_sự extra bed ok lắm nệm_hơi cứng,1,-1,-1,0,-1
 khách_sạn vị_trí hồ bơi pool bar flow bar đẹp thoải_mái ăn_uống ngắm biển sát bên_cạnh,0,0,0,1,0
 nhân_viên khách_sạn dễ_thương thân_thiện nhiệt_tình,1,0,0,0,0
-đồ_ăn nghèo_nàn sự_thay_đổi khách_hàng cảm_thấy nhàm_chán kém hứng_thú,0,0,1,0,0
+đồ_ăn nghèo_nàn sự_thay_đổi khách_hàng cảm_thấy nhàm_chán kém hứng_thú,0,0,-1,0,0
 dịch_vụ phòng tiện_ích anantara gia_đình hoàn_toàn hài_lòng,1,1,0,0,0
-phục_vụ tuyệt_vời đồ_ăn ít món_quà phòng đẹp giường_ngủ tuyệt thoải xử_lý mùi hương đạt tiêu_chuẩn 5,1,1,1,0,0
+phục_vụ tuyệt_vời đồ_ăn ít món_quà phòng đẹp giường_ngủ tuyệt thoải xử_lý mùi hương đạt tiêu_chuẩn 5,1,1,-1,0,0
 resort thiết_kế gần_gũi thiên_nhiên cảnh_quan đẹp không_gian rộng_rãi phòng nghỉ tiện_nghi thích_hợp nghỉ_ngơi thư_giãn,0,1,0,1,0
 resort đẹp dịch_vụ spa chuyên_nghiệp nhân_viên nhiệt_tình thân_thiện,1,0,0,0,0
 nhìn_chung cơ_sở vật_chất khách_sạn tốt phòng thoáng_mát sạch_sẽ,0,1,0,0,1
@@ -1307,12 +1307,12 @@ nhà_hàng khách_sạn thực_đơn phong_phú sẵn_sàng phục_vụ yêu_c�
 làm_tôi bất_ngờ yêu_thích nhà_hàng sự_nhạy_bén quan_tâm đội_ngũ đầu_bếp nhân_viên phục_vụ chuẩn_bị chồng đĩa thịt_cừu riêng vần_đề chế_biến thịt kiểu hồi_giáo,1,0,1,0,0
 dịch_vụ spa khu nghỉ dưỡng đáng thử tay_nghề phương_pháp_trị_liệu hiểu,1,0,0,0,0
 nhờ vị_trí tọa lạc thuận_lợi khách nghỉ novela dễ_dàng thăm địa_điểm nổi_tiếng bãi_biển mũi né không_cần bữa_ăn ưng_ý resort nằm nhà_hàng nổi_tiếng địa_phương,0,0,1,1,0
-phòng rộng_rãi bảo_quản tốt nhân_viên thân_thiện tiếp_tân cứng_nhắc dịch_vụ không_có hấp_dẫn,1,1,0,0,0
+phòng rộng_rãi bảo_quản tốt nhân_viên thân_thiện tiếp_tân cứng_nhắc dịch_vụ không_có hấp_dẫn,-1,1,0,0,0
 phòng ốc rộng_rãi thoáng_mát tiện_nghi,0,1,0,0,0
 phục_vụ tốt,1,0,0,0,0
 thức_ăn ngon,0,0,1,0,0
 máy_sấy_tóc xài,0,0,0,0,1
-tủ_lạnh hình_như hư lạnh,0,0,0,0,1
+tủ_lạnh hình_như hư lạnh,0,0,0,0,-1
 tiện_nghi phục_vụ khách_sạn đầy_đủ ấm_cúng,1,0,0,0,1
 thực_đơn phong_phú ngon,0,0,1,0,0
 phòng rộng thiết_kế tinh_tế sang_trọng tạo không_gian thoáng đãng đầy_đủ thiết_bị hiện_đại đặc_biệt phòng_tắm thiết_kế lạ_mắt lát_gạch màu_đen trông thật nổi_bật,0,1,0,0,1
@@ -1323,19 +1323,19 @@ thái_độ phục_vụ nhân_viên tốt,1,0,0,0,0
 khách_sạn đẹp sạch_sẽ nhân_viên nhiệt_tình chu_đáo phục_vụ dọn phòng 2 check in out nhanh,1,1,0,0,0
 ăn_sáng khách_sạn phong_phú đầu_bếp nấu vừa_miệng,0,0,1,0,0
 giá_cả chấp_nhận được dịch_vụ nhân_viên chu_đáo,1,0,0,1,0
-khách_sạn đẹp hơi_nhỏ khuôn_viên hạn_chế,0,1,0,1,0
-internet phòng chậm chập_chờn,0,0,0,0,1
+khách_sạn đẹp hơi_nhỏ khuôn_viên hạn_chế,0,1,0,-1,0
+internet phòng chậm chập_chờn,0,0,0,0,-1
 annatara phòng đẹp nhân_viên thân_thiện kì nghỉ thật thoải_mái,1,1,0,0,0
 sử_dụng dịch_vụ anantara resort spa cảm_thấy chất_lượng phòng khá_tốt thái_độ phục_vụ nhân_viên niềm_nở,1,1,0,0,0
 anantara đẹp dịch_vụ tốt nhân_viên dễ_thương,1,1,0,0,0
-nhìn_chung phòng_ốc bình_thường cân_xứng mức_giá khách trả,0,1,0,1,0
+nhìn_chung phòng_ốc bình_thường cân_xứng mức_giá khách trả,0,-1,0,1,0
 dịch_vụ khách_sạn tốt nhân_viên vui_vẻ thân_thiện,1,0,0,0,0
-dịch_vụ kém tiêu_chuẩn 5 phao_bơi ao bơi em_bé bể_bơi nhân_viên trả_lời khách hết_chỗ,1,0,0,0,0
-internet yếu không ổn_định chập_chờn,0,0,0,0,1
-dọn phòng quá_trễ khăn_tắm ko cung_cấp đầy_đủ,1,0,0,0,1
+dịch_vụ kém tiêu_chuẩn 5 phao_bơi ao bơi em_bé bể_bơi nhân_viên trả_lời khách hết_chỗ,-1,0,0,0,0
+internet yếu không ổn_định chập_chờn,0,0,0,0,-1
+dọn phòng quá_trễ khăn_tắm ko cung_cấp đầy_đủ,-1,0,0,0,-1
 đồ_ăn ngon,0,0,1,0,0
 phục_vụ tốt phòng sang_trọng,1,1,0,0,0
-ăn_sáng ít món đơn_điệu,0,0,1,0,0
+ăn_sáng ít món đơn_điệu,0,0,-1,0,0
 nhân_viên phục_vụ tốt quan_tâm khách,1,0,0,0,0
 thức_ăn âu ngon giá_cả hợp_lí,0,0,1,1,0
 bữa_sáng mong_đợi xứng_với tiêu_chuẩn 5 khách_sạn,0,0,1,0,0
@@ -1356,14 +1356,14 @@ angsana lăng resort đẹp nhân_viên nhiệt_tình phòng đẹp sạch_sẽ,
 phòng ngủ sang_trọng nội_thất đẹp ấm_cúng đầy_đủ tiện_nghi đồ_dùng nhà_bếp cho_phép gia_đình nấu_nướng căn_hộ gọi đồ_ăn ngon nhà_hàng địa_phương xung_quanh,0,1,1,0,1
 nhà_hàng buffet ăn_sáng món_ăn thức_uống âu ngon sang_trọng,0,0,1,0,0
 nhân_viên angsana lăng resort nhiệt_tình,1,0,0,0,0
-thực_đơn bữa_sáng lặp_đi lặp_lại hàng_ngày thay_đổi món tránh trường_hợp khách nghỉ 3 đêm 3 bữa_sáng y_hệt món khác_biệt,0,0,1,0,0
+thực_đơn bữa_sáng lặp_đi lặp_lại hàng_ngày thay_đổi món tránh trường_hợp khách nghỉ 3 đêm 3 bữa_sáng y_hệt món khác_biệt,0,0,-1,0,0
 dịch_vụ phòng tốt dịch_vụ vui_chơi khu nghỉ tương_đối ổn,1,0,0,0,0
 thiết_kế nội_thất phòng nghỉ đẹp,0,1,0,0,1
 thức_ăn angsana lăng resort ngon giá_cá hợp_lý resort phức_hợp giải_trí khung_cảnh đẹp phòng ok thảm sàn dơ đổ lông kinh_khủng nói_với housekeeping,0,1,1,1,0
 phòng tương_đối rộng,0,1,0,0,0
-đồ_ăn khách_sạn đắt resort 5 vị_trí biệt_lập chả đâu ăn,0,0,1,1,0
+đồ_ăn khách_sạn đắt resort 5 vị_trí biệt_lập chả đâu ăn,0,0,1,-1,0
 nhân_viên thân_thiện vui_vẻ hơi chậm thiếu tập_trung,1,0,0,0,0
-phòng_ốc angsana lăng resort đẹp bể_bơi tuyệt_vời nhân_viên niềm_nở chỗ_ăn uống cực bất_tiện nhà_hàng bên_ngoài resort 25km,1,1,1,0,0
+phòng_ốc angsana lăng resort đẹp bể_bơi tuyệt_vời nhân_viên niềm_nở chỗ_ăn uống cực bất_tiện nhà_hàng bên_ngoài resort 25km,1,1,-1,0,0
 mấy nhà_hàng khách_sạn đồ_ăn cũng_được giá,0,0,1,1,0
 nhân_viên tại_đây nhiệt_tình vui_vẻ hiếu_khách,1,0,0,0,0
 ăn_sáng ngon,0,0,1,0,0
@@ -1371,41 +1371,41 @@ nhà_hàng đồ_ăn ngon giá_cả hợp_lý hội_mặc chất_lượng món_�
 phòng rộng thoáng đẹp bố_trí tinh_tế,0,1,0,0,0
 đồ_ăn ngon nhận_xét,0,0,1,0,0
 giá mềm thật tuyệt_vời,0,0,0,1,0
-angsana lăng resort nơi_nghỉ dưỡng tuyệt_vời mỗi_tội wifi phòng yếu sử_dụng,0,0,1,0,1
+angsana lăng resort nơi_nghỉ dưỡng tuyệt_vời mỗi_tội wifi phòng yếu sử_dụng,0,0,1,0,-1
 phòng rộng thoáng nội_thất hiện_đại hơi tối màu cảm_giác xuống_cấp thực_đơn ngon ít phong_phú,0,1,1,0,0
 tổng_thể angsana lăng resort đẹp đặc_biệt hệ_thống hồ bơi ấn_tượng,0,1,0,0,1
 phòng rộng hướng đẹp thoáng_mát tiện_nghi phòng đầy_đủ tiện_dụng,0,1,0,0,1
 nhân_viên phục_vụ chu_đáo ân_cần,1,0,0,0,0
 đồ_ăn ngon lắm đặc_biệt bữa_sáng,0,0,1,0,0
 tuyệt đẹp dịch_vụ resort tốt điểm lưu_ý,1,0,0,0,0
-giá đồ_ăn nhà_hàng đắt_đỏ,0,0,0,1,0
+giá đồ_ăn nhà_hàng đắt_đỏ,0,0,0,-1,0
 phòng chất_lượng tốt vị_trí khu nghỉ đẹp wifi tốt ăn_sáng ngon,0,1,1,1,1
-mọi_thứ đáng hài_lòng nhà_hàng resort giá_cả khá đắt,0,0,0,1,0
+mọi_thứ đáng hài_lòng nhà_hàng resort giá_cả khá đắt,0,0,0,-1,0
 đồ_dùng tiện_nghi,0,0,0,0,1
 nhân_viên resort nhiệt_tình đáp_ứng nhanh yêu_cầu khách,1,0,0,0,0
-thức_ăn quá_tệ khách_sạn angsana thất_vọng đồ_ăn 2 nhà_hàng momba va rice bow món việt lẫn món nhật,0,0,1,0,0
+thức_ăn quá_tệ khách_sạn angsana thất_vọng đồ_ăn 2 nhà_hàng momba va rice bow món việt lẫn món nhật,0,0,-1,0,0
 đồ_ăn ngon banyan tree,0,0,1,0,0
 angsana lăng resort vị_trí đẹp giá hợp_lý,0,1,0,0,0
 phòng rộng_rãi sạch_sẽ thoáng_mát,0,1,0,0,0
 nhân_viên thân_thiện,1,0,0,0,0
-điểm trừ khách_sạn ẩm_thực hơi tệ,0,0,1,0,0
-đồ_ăn kém phong_phú ít sự_lựa_chọn giá đắt,0,0,1,1,0
+điểm trừ khách_sạn ẩm_thực hơi tệ,0,0,-1,0,0
+đồ_ăn kém phong_phú ít sự_lựa_chọn giá đắt,0,0,-1,-1,0
 đội_ngũ phục_vụ angsana lăng resort huế tốt cảnh_đẹp giá ăn nhà_hàng hợp_lý,1,0,0,1,0
 phòng nghỉ thiết_kế lạ đẹp đẳng_cấp,0,1,0,0,0
 thức_ăn ngon,0,0,1,0,0
 nhân_viên niềm_nở nhiệt_tình,1,0,0,0,0
-phòng_ốc angsana lăng resort huế nhân_viên nhiệt_tình thức_ăn bình_thường hoa_quả bánh ngon ít loại thua palm garden sunrise hội_an,1,1,1,0,0
-angsana lăng resort huế đẹp kiến_trúc lẫn nội_thất phòng_ốc dịch_vụ ổn đặc_biệt dịch_vụ đưa_đón sân_bay điểm_không tốt khu trung_tâm gần_như sinh_hoạt biệt_lập,1,1,0,1,0
+phòng_ốc angsana lăng resort huế nhân_viên nhiệt_tình thức_ăn bình_thường hoa_quả bánh ngon ít loại thua palm garden sunrise hội_an,1,1,-1,0,0
+angsana lăng resort huế đẹp kiến_trúc lẫn nội_thất phòng_ốc dịch_vụ ổn đặc_biệt dịch_vụ đưa_đón sân_bay điểm_không tốt khu trung_tâm gần_như sinh_hoạt biệt_lập,1,1,0,-1,0
 vị_trí angsana lăng resort thành_phố huế tốt nghỉ_ngơi khu trung_tâm thương_mại nhà_hàng quán_ăn ăn khách_sạn đắt,0,0,0,1,0
 nhân_viên tương_đối phục_vụ tốt đào_tạo,1,0,0,0,0
 giá hợp_lý chất_lượng,0,0,0,1,0
 angsana lăng resort huế chất_lượng tốt phục_vụ nhanh chu_đáo,1,1,0,0,0
 phòng đẹp phục_vụ tuyệt_vời,1,1,0,0,0
-hơi giới_hạn ăn_uống,0,0,1,0,0
-nhà_hàng món_ăn ít lựa_chọn giá hơi_cao,0,0,1,1,0
+hơi giới_hạn ăn_uống,0,0,-1,0,0
+nhà_hàng món_ăn ít lựa_chọn giá hơi_cao,0,0,-1,-1,0
 resort đẹp thoáng,0,0,0,1,0
 đồ_dùng trong phòng hiện_đại,0,1,0,0,1
-duy_chỉ có_ăn tối đắt ngon,0,0,1,1,0
+duy_chỉ có_ăn tối đắt ngon,0,0,1,-1,0
 khu_nghỉ dưỡng ấn_tượng phòng tiện_nghi đẹp nhân_viên vui_vẻ nhiệt_tình,1,1,0,0,0
 phòng_ốc đẹp hiện_đại rộng_rãi phòng trên_lầu hồ bơi riêng hồ bơi chung đẹp rộng jacuzzi hồ bơi,0,1,0,0,0
 angsana lăng resort đẹp,0,1,0,1,0
@@ -1428,15 +1428,15 @@ phòng thiết_kế tiện_nghi nội_thất sang_trọng đặc_biệt không_g
 dịch_vụ chu_đáo hoàn_hảo,1,0,0,0,0
 phòng_ốc rộng_rãi sang_trọng view phòng biển đẹp,0,1,0,0,0
 buffet ngon nhân_viên phục_vụ bộ_phận thân_thiện chu_đáo,1,0,1,0,0
-aniise villa resort không_gian vị_trí đẹp trang_thiết_bị cũ thức_ăn nghèo_nàn ngon,0,1,1,1,1
+aniise villa resort không_gian vị_trí đẹp trang_thiết_bị cũ thức_ăn nghèo_nàn ngon,0,1,-1,1,-1
 nhân_viên phục_vụ thiếu thân_thiện,1,0,0,0,0
 aniise villa resort đẹp,0,0,0,1,0
 đồ_ăn nhà_hàng nấu ngon,0,0,1,0,0
 aniise villa resort sạch_sẽ thoáng đãng thoải_mái,0,1,0,0,0
-aniise villa resort sạch_sẽ ăn_sáng ít món,0,1,1,0,0
+aniise villa resort sạch_sẽ ăn_sáng ít món,0,1,-1,0,0
 chất_lượng dịch_vụ aniise villa resort tốt thiết_kế resort gu thẩm_mỹ ổn,1,0,0,0,0
-aniise villa resort đẹp yên_tĩnh vị_trí thuận_lợi khu du_lịch ăn_sáng tạm_được nhân_viên thiếu nụ_cười phòng đẹp hiện_đại,1,1,1,1,0
-đồ_ăn aniise villa resort không ngon,0,0,1,0,0
+aniise villa resort đẹp yên_tĩnh vị_trí thuận_lợi khu du_lịch ăn_sáng tạm_được nhân_viên thiếu nụ_cười phòng đẹp hiện_đại,-1,1,1,1,0
+đồ_ăn aniise villa resort không ngon,0,0,-1,0,0
 vị_trí nằm cung đường tập_trung resort ninh chữ bên_kia đường có_nhiều quán cafe quán_ăn chất_lượng,0,0,0,1,0
 1 hài_lòng nhân_viên thân_thiện niềm_nở thiếu nụ_cười nhờ tiếp_tân chụp 1 tấm_hình cả_nhà check out lúc_đó khách tiếp_tân thực_hiện miễn_cưỡng mặt lạnh_tanh cả_nhà hứng,1,0,0,0,0
 nhân_viên aniise villa resort thân_thiện chu_đáo,1,0,0,0,0
@@ -1450,13 +1450,13 @@ nhân_viên aniise villa resort nở nụ_cười khách,1,0,0,0,0
 nói_chung dịp hài_lòng chất_lượng dịch_vụ thái_độ phục_vụ chu_đáo thân_thiện nhân_viên,1,0,0,0,0
 chất_lượng giá_cả bữa_trưa tối vừa_miệng phù_hợp_khẩu_vị 3 miền,0,0,1,1,0
 khách_sạn tốt thoáng cảnh_quan đẹp,0,1,0,0,0
-khách_sạn cảnh_quan đẹp phòng cũ khăn_tắm sờn tua vải phòng cửa_kính mở buổi_tối lối thiếu,0,1,0,1,1
+khách_sạn cảnh_quan đẹp phòng cũ khăn_tắm sờn tua vải phòng cửa_kính mở buổi_tối lối thiếu,0,-1,0,1,-1
 vị_trí tốt,0,0,0,1,0
 phòng đẹp rộng_rãi thoáng_mát sạch_sẽ,0,1,0,0,0
 nhân_viên lịch_sự thân_thiện,1,0,0,0,0
 đồ_ăn ít món 20 món_ăn buổi ăn_sáng kể_cả trái_cây,0,0,1,0,0
 aniise villa resort ninh_thuận phòng tốt view đẹp nhân_viên dễ_thương,1,1,0,1,0
-lễ_tân kém tốt,1,0,0,0,0
+lễ_tân kém tốt,-1,0,0,0,0
 giá hợp_lý 1 phòng villa 4,0,0,0,1,0
 phòng đẹp,0,1,0,0,0
 nhân_viên nhiệt_tình thân_thiện dễ_mến,1,0,0,0,0
@@ -1466,27 +1466,27 @@ phòng đẹp yên_tĩnh nhân_viên nhiệt_tình ăn_sáng ngon giá phòng t�
 chất_lượng phòng tốt nhân_viên hỗ_trợ chu_đáo,1,1,0,0,0
 vị_trí resort khá_tốt phòng_ốc hiện_đại phục_vụ chu_đáo,1,1,0,1,0
 nhân_viên thân_thiện không_được huấn_luyện thật_sự chuyên_nghiệp phong_cách quốc_tế,1,0,0,0,0
-phòng_ốc thiết_kế phong_cách tủ_áo đèn_chiếu hơi bất_tiện,0,1,0,0,1
+phòng_ốc thiết_kế phong_cách tủ_áo đèn_chiếu hơi bất_tiện,0,1,0,0,-1
 phòng đẹp khuôn_viên rộng_rãi dịch_vụ tốt,1,1,0,1,0
 thái_độ phục_vụ tốt hiếu_khách phục_vụ chu_đáo ân_cần,1,0,0,0,0
 dịch_vụ tốt nhân_viên nhiệt_tình tuyệt_vời nghỉ dưỡng tại_đây,1,0,0,0,0
-nhân_viên phục_vụ nhiệt_tình thức_ăn_sáng không_được chu_đáo,1,0,1,0,0
+nhân_viên phục_vụ nhiệt_tình thức_ăn_sáng không_được chu_đáo,1,0,-1,0,0
 hồ_bơi_đẹp bãi_biển cát_mịn phong_cảnh xung_quanh resort đẹp nhân_viên lễ_tân phục_vụ phòng đẹp thân_thiện,1,1,0,1,0
 tiện_nghi phòng đươc cải_thiện tv 5,0,1,0,0,0
-phòng ok đầy_đủ mìn máy_nước nóng hư không xài,0,1,0,0,1
-phòng nhỏ wifi sóng_điện_thoại,0,1,0,0,1
-khách_sạn vị_trí tương_đối vắng cách_xa phan_thiết,0,0,0,1,0
+phòng ok đầy_đủ mìn máy_nước nóng hư không xài,0,1,0,0,-1
+phòng nhỏ wifi sóng_điện_thoại,0,-1,0,0,1
+khách_sạn vị_trí tương_đối vắng cách_xa phan_thiết,0,0,0,-1,0
 nhân_viên vui_vẻ nhiệt_tình đồ_ăn tại_đây nấu tương_đối ngon giá_cả hợp_lý,1,0,1,1,0
 phòng_ốc sạch_sẽ,0,1,0,0,0
 resort trung_tâm mũi kê gà không_gian lãng_mạn sạch_sẽ phục_vụ tốt đầu_bếp nấu_ăn_ngon,1,0,1,1,0
-phòng nhỏ máy_sấy_tóc wifi hỏng,0,1,0,0,1
+phòng nhỏ máy_sấy_tóc wifi hỏng,0,-1,0,0,-1
 phòng canary beach resort sạch_sẽ không_gian thoải_mái,0,1,0,0,0
-wifi yếu phòng thiếu đồ_dùng vệ_sinh dao_cạo râu đồ_ăn đa_dạng,0,1,1,0,1
-phòng canary beach resort thoải_mái lối hành_lang có_mùi hôi ẩm bãi_biển đẹp tắm_biển rác,0,1,0,0,1
+wifi yếu phòng thiếu đồ_dùng vệ_sinh dao_cạo râu đồ_ăn đa_dạng,0,-1,1,0,-1
+phòng canary beach resort thoải_mái lối hành_lang có_mùi hôi ẩm bãi_biển đẹp tắm_biển rác,0,1,0,0,-1
 phòng_ốc đẹp canary beach resort đúng_với 3,0,1,0,0,0
-nhân_viên phục_vụ hồ bơi thái_độ tốt khách cãi tay_đôi khách buffet giành bé trở_xuống không hợp_lý lắm,1,0,1,0,0
+nhân_viên phục_vụ hồ bơi thái_độ tốt khách cãi tay_đôi khách buffet giành bé trở_xuống không hợp_lý lắm,1,0,-1,0,0
 Cảnh_quan nhìn_chung cũng tốt,0,1,0,1,0
-ẩm_thực không ngon lắm,0,0,1,0,0
+ẩm_thực không ngon lắm,0,0,-1,0,0
 hài_lòng canary buffet tuyệt_vời thức_ăn_ngon,0,0,1,0,0
 phòng đẹp hiện_đại đồ_ăn ngon cơ_sở vật_chất hiện_đại,0,1,1,0,1
 khách_sạn tốt phục_vụ chu_đáo đồ_ăn ngon,1,1,1,0,0
